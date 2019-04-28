@@ -13,9 +13,13 @@ output:
 knitr::opts_chunk$set(message = FALSE)
 ```
 
-I’m updating my first R-related blog post, from back in 2016. In it, I used reshape2 to do some data
+I’m updating my first R-related blog post, from back in 2016. In it, I used **reshape2** to do some data
 cleaning on a messy dataset. In this update, I’m going to use tools from the tidyverse instead. I’m
-keeping most of the text the same, but changing the code chunks.<!--more--> As before, this is an R Markdown
+keeping most of the text the same, but changing the code chunks.<!--more--> 
+
+I’m updating my first R-related blog post, from back in 2016. In it, I used **reshape2** to do some data
+cleaning on a messy dataset. In this update, I’m going to use tools from the tidyverse instead. I’m
+keeping most of the text the same, but changing the code chunks. As before, this is an R Markdown
 file, so you can run the code along with me. You can find the data source 
 [here](data/datastream_excerpt.xlsx).
 

@@ -5,8 +5,8 @@ theme = "beautifulhugo"
 metaDataFormat = "yaml"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-#pygmentsStyle = "tango"
-#pygmentsCodeFences = true
+pygmentsStyle = "tango"
+pygmentsCodeFences = true
 #pygmentsCodefencesGuessSyntax = true
 # pygmentOptions = "linenos=inline"
 # disqusShortname = "XXX"
@@ -44,7 +44,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [Author]
   name = "Stephen Feagin"
   website = "stephenfeagin.com"
-  email = "youremail@domain.com"
+#  email = ""
   github = "stephenfeagin"
   linkedin = "feaginsp"
 #  gitlab = ""
@@ -55,11 +55,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "About"
     url = "page/about/"
     weight = 1
-
-[[menu.main]]
-    name = "Blog"
-    url = ""
-    weight = 2
 
 [[menu.main]]
     name = "Tags"
