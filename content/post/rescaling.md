@@ -34,6 +34,6 @@ comes in handy for someone!
 
 <a name="footnote1" id="footnote1">1</a>: A very helpful
 [reddit user](https://www.reddit.com/r/rstats/comments/562owx/rescaling_variables_with_r_just_a_short_blog_post/d8hefet)
-pointed out to me that this is, of course false. Correlation is always scaled from -1 to 1, no matter how the original
+pointed out to me that this is, of course, false. Correlation is always scaled from -1 to 1, no matter how the original
 variables were scaled. I was clearly being loose with my language and not paying attention to the differences between
 colloquial and technical uses of terms like correlation.

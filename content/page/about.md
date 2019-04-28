@@ -1,16 +1,10 @@
 ---
 comments: false
-subtitle: Why you'd want to go on a date with me
 title: About me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm a developer and data enthusiast, currently working for the 
+[Connecticut RISE Network](https://ctrise.org). I primarily use Python for general programming 
+stuff, and R for stats and data work. I always like trying out new languages (recent experiments 
+include Go and Julia). I'm particularly interested in the role that data and software tools can play
+in non-profits and organizations that advance social good.
