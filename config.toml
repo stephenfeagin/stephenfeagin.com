@@ -1,0 +1,89 @@
+baseurl = "http://stephenfeagin.com"
+DefaultContentLanguage = "en"
+title = "Stephen Feagin"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+#pygmentsStyle = "tango"
+#pygmentsCodeFences = true
+#pygmentsCodefencesGuessSyntax = true
+# pygmentOptions = "linenos=inline"
+# disqusShortname = "XXX"
+# googleAnalytics = "XXX"
+
+[Params]
+  homeTitle = "Stephen Feagin"
+#  subtitle = "Developer and data maven, looking to use software for social good"
+  logo = "img/profile_100.jpeg" # Expecting square dimensions
+  favicon = ""
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = false
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Stephen Feagin"
+  website = "stephenfeagin.com"
+  email = "youremail@domain.com"
+#  facebook = ""
+#  googleplus = "" # or xxxxxxxxxxxxxxxxxxxxx
+  github = "stephenfeagin"
+#  gitlab = ""
+#  bitbucket = ""
+#  twitter = ""
+#  reddit = ""
+  linkedin = "feaginsp"
+#  xing = ""
+#  stackoverflow = ""
+#  snapchat = ""
+#  instagram = ""
+#  youtube = "" # or channel/channelname
+#  soundcloud = ""
+#  spotify = ""
+#  bandcamp = ""
+#  itchio = ""
+#  vk = ""
+#  paypal = ""
+#  telegram = ""
+#  500px = ""
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 1
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 2
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
+    
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/stephenfeagin"
+    weight = 4
+
