@@ -1,4 +1,4 @@
-baseurl = "http://stephenfeagin.com"
+baseurl = "https://stephenfeagin.com"
 DefaultContentLanguage = "en"
 title = "Stephen Feagin"
 theme = "beautifulhugo"
