@@ -21,8 +21,8 @@ some of the topics.
 #### Sorting
 
 - [x] Insertion sort ([C implementation](/2019/09/insertion-sort-c))
+- [x] Selection sort ([C implementation](/2019/10/selection-sort-c))
 - [ ] Bubble sort  
-- [ ] Selection sort
 - [ ] Merge sort
 - [ ] Quicksort
 - [ ] Heapsort
