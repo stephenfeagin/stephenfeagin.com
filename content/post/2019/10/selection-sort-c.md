@@ -15,7 +15,7 @@ Next up in my ["learning in public" push](/2019/09/learning-and-working-in-publi
 the array in place, starting with a sorted beginning portion and an unsorted end. We iterate through
 the unsorted portion, and find the smallest value. We then swap that element with the first element
 in the unsorted portion. From there, the unsorted portion begins one index later, and we repeat the
-process until the entire array is sorted.
+process until the entire array is sorted.<!--more-->
 
 ## Pseudocode
 
