@@ -6,7 +6,7 @@ date: 2019-10-03T10:20:17-04:00
 subtitle: ""
 image: ""
 tags: [learning, algorithms, C]
-draft: true
+draft: false
 ---
 
 Next up in my ["learning in public" push](/2019/09/learning-and-working-in-public) is 
