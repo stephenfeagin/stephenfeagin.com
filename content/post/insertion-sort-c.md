@@ -10,10 +10,10 @@ draft: false
 ---
 
 In my first post in my ["learning in public" push](/2019/09/learning-and-working-in-public), I'm
-going to be talking about the insertion sort algorithm and an implemention in C. The general idea of
-insertion sort is to build a sorted array in place, at the beginning of the original array, shifting
-the unsorted elements toward the end of the array as necessary. It relies on the fact that an array
-of length 1 is sorted by definition.
+going to be talking about the [insertion sort](https://en.wikipedia.org/wiki/Insertion_sort)
+algorithm and an implemention in C. The general idea of insertion sort is to build a sorted array in
+place, at the beginning of the original array, shifting the unsorted elements toward the end of the
+array as necessary. It relies on the fact that an array of length 1 is sorted by definition.
 
 I'm going to show and walk through some pseudocode, touch on the efficiency of the algorithm, and
 then show an implementation in C.
