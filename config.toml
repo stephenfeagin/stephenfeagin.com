@@ -77,4 +77,4 @@ pygmentsCodeFences = true
   weight = 5
   
 [permalinks]
-  post = "/:year/:month/:slug/"
+  post = "/:slug/"
