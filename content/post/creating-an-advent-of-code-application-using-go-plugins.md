@@ -6,7 +6,6 @@ date: 2019-10-08T17:53:49-04:00
 subtitle: ""
 image: ""
 tags: [go, advent of code, learning, bash]
-draft: true
 ---
 
 The best way to learn programming is to write code. The advice is almost always "build something,"
