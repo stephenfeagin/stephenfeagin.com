@@ -12,6 +12,8 @@ pygmentsCodeFences = true
 # disqusShortname = "XXX"
 # googleAnalytics = "XXX"
 
+enableGitInfo = true
+
 [Params]
   homeTitle = "Stephen Feagin"
 #  subtitle = "Developer and data maven, looking to use software for social good"
