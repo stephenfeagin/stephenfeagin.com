@@ -9,7 +9,7 @@ tags: [learning, algorithms, C]
 draft: false
 ---
 
-In my first post in my ["learning in public" push](/2019/09/learning-and-working-in-public), I'm
+In my first post in my ["learning in public" push](/learning-and-working-in-public), I'm
 going to be talking about the [insertion sort](https://en.wikipedia.org/wiki/Insertion_sort)
 algorithm and an implemention in C. The general idea of insertion sort is to build a sorted array in
 place, at the beginning of the original array, shifting the unsorted elements toward the end of the

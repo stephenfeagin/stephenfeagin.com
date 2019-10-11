@@ -9,9 +9,9 @@ tags: [learning, algorithms, C]
 draft: false
 ---
 
-Next up in my ["learning in public" push](/2019/09/learning-and-working-in-public) is 
+Next up in my ["learning in public" push](learning-and-working-in-public) is 
 [selection sort](https://en.wikipedia.org/wiki/Selection_sort), and an implementation in C. Like 
-[insertion sort](/2019/09/insertion-sort-c), selection sort sorts
+[insertion sort](insertion-sort-c), selection sort sorts
 the array in place, starting with a sorted beginning portion and an unsorted end. We iterate through
 the unsorted portion, and find the smallest value. We then swap that element with the first element
 in the unsorted portion. From there, the unsorted portion begins one index later, and we repeat the

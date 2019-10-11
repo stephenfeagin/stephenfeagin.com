@@ -20,8 +20,8 @@ some of the topics.
 
 #### Sorting
 
-- [x] Insertion sort ([C implementation](/2019/09/insertion-sort-c))
-- [x] Selection sort ([C implementation](/2019/10/selection-sort-c))
+- [x] Insertion sort (Implemented in [C](/insertion-sort-c), [Go](/insertion-sort-go))
+- [x] Selection sort (Implemented in [C](/selection-sort-c))
 - [ ] Bubble sort  
 - [ ] Merge sort
 - [ ] Quicksort
