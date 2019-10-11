@@ -80,3 +80,15 @@ enableGitInfo = true
   
 [permalinks]
   post = "/:slug/"
+
+[related]
+threshold = 80
+includeNewer = true
+toLower = true
+
+[[related.indices]]
+name = "keywords"
+weight = 100
+[[related.indices]]
+name = "date"
+weight = 10
