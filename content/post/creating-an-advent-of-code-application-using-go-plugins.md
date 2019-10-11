@@ -6,6 +6,8 @@ date: 2019-10-08T17:53:49-04:00
 subtitle: ""
 image: ""
 tags: [go, advent of code, learning, bash]
+summary: "I've always enjoyed solving puzzles, and love coding puzzles. This post walks through how
+I have set up my Advent of Code project using Go Plugins for different days' solutions. No spoilers!"
 ---
 
 The best way to learn programming is to write code. The advice is almost always "build something,"
