@@ -1,0 +1,20 @@
+<div>
+	{{- $files := readDir "static/data/ma-covid" }}
+	{{- $pathURL := "/data/ma-covid" }}
+	<h3>Data Tables</h3>
+	<ul>
+	{{ range $files }}
+		{{ if eq (path.Ext .Name) ".csv" }}
+		<li><a href="{{ $pathURL }}{{ .Name | relURL }}">{{ .Name }}</a></li>
+		{{ end }}
+	{{ end }}
+	</ul>
+	<h3>Daily Case Reports</h3>
+	<ul>
+	{{ range $files }}
+		{{ if eq (path.Ext .Name) ".pdf" }}
+		<li><a href="{{ $pathURL }}{{ .Name | relURL }}">{{ .Name }}</a></li>
+		{{ end }}
+	{{ end }}
+	</ul>
+</div>

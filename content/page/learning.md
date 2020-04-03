@@ -4,6 +4,9 @@ date: 2019-09-21T14:47:58-04:00
 draft: false
 ---
 
+*NOTE: Now that I'm finished up with my parental leave and back to working
+full time, my learning-in-public kick is on hold for a while.*
+
 Inspired by Tania Rascia's [Learning in Public page](https://www.taniarascia.com/learn/), I will be
 keeping a running list of topics that I want to learn about, with links to ones that I have checked
 off. This list will grow over time as I spend more time thinking about what I really want and need
