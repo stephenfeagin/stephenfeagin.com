@@ -1,0 +1,24 @@
+<html>
+	<p>
+	This site hosts Massachusetts COVID-19 data as released by the state.
+	The source URL for this data is 
+	https://mass.gov/info-details/covid-19-cases-quarantine-and-monitoring.
+	This is an incredibly simple index site for an AWS S3 bucket, so it
+	is very primitive for the time being.</p>
+	<p>This site has all of the PDFs that have been released on that URL 
+	starting on March 9, 2020. You can access these files by appending
+	"/covid-19-case-report-%m-%dd-%YYYY.pdf" to the end of the URL of this site,
+	where "%m is the 
+	single-digit month number, "%dd" is the two-digit day (i.e. 09, not
+	just 9), and "%YYYY" is the four-digit year, 2020.</p>
+	<p><strong>Example: </strong>
+	<em>http://ma-covid-19-data.s3-website.us-east-1.amazonaws.com/covid-19-case-report-3-09-2020.pdf</em></p>
+	<p>In addition to the daily PDF reports, there are three CSV files that
+	aggregate data over time. These are "/cases.csv", "/deaths.csv", and 
+	"/tests.csv". You can reach these by appending these
+	file names to the end of the URL of this site.
+	</p>
+	<p><strong>Example: </strong>
+	<em>http://ma-covid-19-data.s3-website.us-east-1.amazonaws.com/cases.csv</em></p>
+	<p>I intend to update daily, but I may run a day or two behind.</p>
+</html>
