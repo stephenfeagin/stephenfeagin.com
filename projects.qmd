@@ -1,0 +1,9 @@
+---
+title: "Projects"
+listing:
+  contents: projects
+  type: default
+  fields: [date, title, reading-time, image]
+  sort: "date desc"
+  categories: true
+---

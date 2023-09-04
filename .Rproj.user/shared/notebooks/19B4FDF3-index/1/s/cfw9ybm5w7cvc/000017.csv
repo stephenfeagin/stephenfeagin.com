@@ -1,0 +1,4 @@
+"0","ggplot(crits, aes(x = episode, y = nat_1)) +"
+"0","  geom_line() +"
+"0","  labs(x = ""Episode Number"", y = ""Natural 1s"") +"
+"0","  theme_bw()"

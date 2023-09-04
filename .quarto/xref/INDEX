@@ -1,0 +1,53 @@
+{
+  "index.qmd": {
+    "index.html": "a98b832a"
+  },
+  "about.qmd": {
+    "about.html": "f72ac339"
+  },
+  "posts.qmd": {
+    "posts.html": "7c64ee3a"
+  },
+  "posts/2016-10-03-ioslides-in-rstudio/index.qmd": {
+    "index.html": "236551ce"
+  },
+  "posts/2016-10-05-rescaling-variables/index.qmd": {
+    "index.html": "54a3206a"
+  },
+  "posts/2019-04-28-adventures-in-data-cleaning/index.qmd": {
+    "index.html": "4200c19a"
+  },
+  "posts/2016-10-06-mental-health-data-donation/index.qmd": {
+    "index.html": "9bf4fd41"
+  },
+  "posts/2019-10-08-advent-of-code-in-go/index.qmd": {
+    "index.html": "4599d15b"
+  },
+  "posts/2022-10-02-project-euler-multiples-of-3-or-5/index.qmd": {
+    "index.html": "9c0362a9"
+  },
+  "posts/2023-08-30-advantage-disadvantage/index.qmd": {
+    "index.html": "126c9966"
+  },
+  "posts/2022-10-05-project-euler-even-fibonacci/index.qmd": {
+    "index.html": "009db2e3"
+  },
+  "posts/2022-10-08-project-euler-sum-square-difference/index.qmd": {
+    "index.html": "97b5af7c"
+  },
+  "posts/2023-09-03-project-euler-largest-palindrome-product/index.qmd": {
+    "index.html": "12f3f896"
+  },
+  "posts/2023-09-04-project-euler-power-digit-sum/index.qmd": {
+    "index.html": "537aa179"
+  },
+  "projects/nc-eoc-data/index.qmd": {
+    "index.html": "d72f5fdb"
+  },
+  "projects.qmd": {
+    "projects.html": "09f8f756"
+  },
+  "projects/reading-critrole-stats/index.qmd": {
+    "index.html": "814e89e8"
+  }
+}

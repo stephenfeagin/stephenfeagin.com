@@ -1,0 +1,4 @@
+"0","ggplot(crits, aes(x = episode, y = n_rolls)) +"
+"0","  geom_line() +"
+"0","  labs(x = ""Episode Number"", y = ""Total Rolls"") +"
+"0","  theme_bw()"

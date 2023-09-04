@@ -1,0 +1,14 @@
+{
+  "hash": "011a19e8e58828bde22fc9e634da04ce",
+  "result": {
+    "markdown": "---\ntitle: \"Project Euler: Multiples of 3 or 5\"\nsubtitle: \"\"\nexcerpt: \"I've started toying around with Project Euler problems, and I'm starting at problem 1.\"\ndate: \"2022-10-02\"\nauthor: \"Stephen Feagin\"\ndraft: false\nseries:\ntags:\n  - go\n  - r\n  - python\n  - project euler\n  - puzzle\ncategories:\nlayout: single # single or single-sidebar\n---\n\n\nI've started toying around with Project Euler problems, and I'm starting at problem 1. The brief reads:\n\n> If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.\n> \n> Find the sum of all the multiples of 3 or 5 below 1000.\n\n## Solution\n\nMy approach is very straightforward. In Python and R, I can create list/vectors of the multiples of three and five by using `step` or `by` when constructing a sequence. Then it's a simple matter of unioning the two lists (making sure to remove duplicate values for those numbers that are multiples of 15), and getting the sum.\n\nFor Go, it was easier to just go through all numbers between 1 and 1000 and check if it's divisible by 3 or 5, keeping a running sum.\n\n### R\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# First get the multiples of 3 below 1000\nthrees <- seq(3, 999, by = 3)\n# Then the multiples of 5\nfives <- seq(5, 995, by = 5)\n# Take only the unique values to eliminate those that are multiples of 15\nunique_vals <- unique(c(threes, fives))\nsum(unique_vals)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 233168\n```\n:::\n:::\n\n\n### Python\n\n\n::: {.cell}\n\n```{.python .cell-code}\n# Get threes and fives\nthrees = range(3, 1000, 3)\nfives = range(5, 1000, 5)\n# To eliminate duplicates, create a set of one and union the other with it\nunique_vals = set(threes).union(set(fives))\nprint(sum(unique_vals))\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n233168\n```\n:::\n:::\n\n\n### Go\n\n```go\n// Variable to hold the running sum\ntotal := 0\n// Iterate over values below 1000\nfor i := 0; i < 1000; i++ {\n\t// If divisible by 3 or 5, add it to the running total\n\tif i % 3 == 0 || i % 5 == 0 {\n\t\ttotal += i\n\t}\n}\n\nfmt.Println(total)\n```\n\nSee all of my Project Euler solutions on [GitHub](https://github.com/stephenfeagin/projecteuler).\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

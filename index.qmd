@@ -1,0 +1,30 @@
+---
+title: "Stephen Feagin"
+about:
+    template: trestles
+    image: profile.jpeg
+    links: 
+      - icon: github
+        text: GitHub
+        href: https://github.com/stephenfeagin
+        aria-label: GitHub
+      - icon: linkedin
+        text: LinkedIn
+        href: https://linkedin.com/in/feaginsp
+        aria-label: LinkedIn
+---
+
+I'm a data analyst and developer who is passionate about working for social good. I have previously worked as a Data Operations Engineer at [Arcadia](https://arcadia.io) and a Data Specialist at [Connecticut RISE Network](https://ctrise.org).
+
+I primarily use Python for general programming and web development, and R for statistics and data work. I enjoy coding in Go but I'm still somewhat novice in it, as I've only ever used it in a hobby setting. I always like trying out new languages (like Julia, which I find super interesting but have never really gotten into). I’m particularly interested in the role that data and software tools can play in non-profits and organizations that advance social good. 
+
+## Education
+
+**Yale University** | New Haven, CT  
+MA in Political Science | 2017
+
+**University of Chicago** | Chicago, IL  
+MA with Honors in International Relations | 2013
+
+**University of North Carolina** | Chapel Hill, NC  
+BA with Honors in American History | 2011

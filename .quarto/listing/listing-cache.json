@@ -1,0 +1,19 @@
+{
+  "listingMap": {
+    "posts.qmd": [
+      "posts"
+    ],
+    "posts/2022-10-05-project-euler-even-fibonacci/index.qmd": [
+      "posts"
+    ],
+    "posts/2023-08-30-advantage-disadvantage/index.qmd": [
+      "posts"
+    ],
+    "posts/2019-10-08-advent-of-code-in-go/index.qmd": [
+      "posts"
+    ],
+    "projects.qmd": [
+      "projects"
+    ]
+  }
+}

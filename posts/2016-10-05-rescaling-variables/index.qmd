@@ -1,0 +1,34 @@
+---
+title: Rescaling Variables with R
+date: 2016-10-05
+categories: [r, data cleaning]
+---
+
+In doing some RA work, I've needed to rescale or normalize different variables. Working with survey data, it can be very difficult to compare ordinal results across questions. Say for instance that we want to get the correlation of perceived economic status and perceived social status. The [Latinobarómetro](http://www.latinobarometro.org/lat.jsp) survey asks the first question with a scale from 0 to 10. The second item, though, is reported on a five-point scale. Moreover, modeling becomes much easier and more intuitive when we have a simple scale that runs from 0 to 1.
+
+I have also needed to rescale variables from -1 to 1. In particular, using the left-right political spectrum is difficult when it's scaled 0 to 10. Converting it to \[-1, 1\] puts the very liberal response at -1, the very conservative response at 1, and the middle at 0. It works much more intuitively, which can be very helpful when exploring and modeling data.
+
+In other situations, the ordering of two different variables runs in different directions than desired. For instance, in a question asking how fair the previous election was, the survey responses range from 1 (very fair) to 5 (very unfair). If we want to look at the correlation of that question with the item asking "How democratic is your country?", we want the responses to move in the same direction. That is, we should expect a positive correlation between perceived fairness of the election and perceived democracy in a country. So we need to invert the scaling for the fairness question. This mainly matters because of the phrasing of the question. If it were asked "How unfair was the last election?", we would expect high values to indicate greater unfairness. But since the question asked about how fair it was, we intuitively want the responses to range from 0 (unfair) to 5 (fair).
+
+I've written a handful of functions that help out with these tasks. They're nothing groundbreaking, but I've used them over and over again in this type of work. Below is the code. Hope it comes in handy for someone!
+
+```{r}
+# The arguments min and max refer to the hypothetical minimum and maximum of the initial
+# scaling, not the minimum and maximum values in vector x, which are just given as 
+# defaults.
+
+rescale_01 <- function(x, min, max){
+  # Normalizes a vector to [0,1]
+  (x - min) / (max - min)
+}
+
+rescale_negative <- function(x, min, max){
+  # Normalizes a vector to [-1, 1]
+  (((x - min) / (max - min)) - 0.5) * 2
+}
+
+invert <- function(x, max){
+  # Inverts the scaling (i.e. the max value becomes the min -- reverses the direction)
+  max + 1 - x
+}
+```

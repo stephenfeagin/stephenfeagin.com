@@ -1,0 +1,1 @@
+"0","rolls <- filter(rolls, !is.na(type_of_roll))"
