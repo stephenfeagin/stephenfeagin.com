@@ -1,4 +1,0 @@
-"0","rolls$episode[rolls$episode %in% c(""31 p1"", ""31 p2"")] <- 31"
-"0","rolls$episode[rolls$episode %in% c(""33 p1"", ""33 p2"")] <- 33"
-"0","rolls$episode[rolls$episode %in% c(""35 p1"", ""35 p2"")] <- 35"
-"0","rolls$episode <- as.integer(rolls$episode)"

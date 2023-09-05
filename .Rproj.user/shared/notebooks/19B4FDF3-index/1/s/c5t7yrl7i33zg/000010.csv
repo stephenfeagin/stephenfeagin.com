@@ -1,6 +1,0 @@
-"0","crits |>"
-"0","  filter(nat_1 > 0) |>"
-"0","  slice_min(nat_1_prop, n = 1) |>"
-"0","  union(crits |>"
-"0","          filter(nat_20 > 0) |>"
-"0","          slice_min(nat_20_prop, n = 1))"

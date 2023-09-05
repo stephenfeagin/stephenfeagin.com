@@ -1,6 +1,0 @@
-"0","na_values <- c("
-"0","  ""Unknown"", ""unknown"", ""Unkown"", ""Uknown"", ""--"""
-"0",")"
-"0","rolls <- rolls |> "
-"0","  filter(!(natural_value %in% na_values)) |> "
-"0","  filter(!is.na(natural_value))"
