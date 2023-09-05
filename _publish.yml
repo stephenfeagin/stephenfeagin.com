@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 9952c034-9805-4ccb-a99d-294438c3fdac
+      url: 'https://illustrious-nougat-6a8c2d.netlify.app'

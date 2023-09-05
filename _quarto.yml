@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Stephen Feagin"
+  site-url: "https://stephenfeagin.com"
   navbar:
     left:
       - href: index.qmd
