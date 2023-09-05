@@ -2,7 +2,7 @@
 author: Stephen Feagin
 date: '2022-10-03'
 draft: false
-excerpt: Does NC's standardized English test predict performance on the ACT and SAT?
+description: Does NC's standardized English test predict performance on the ACT and SAT?
 categories:
   - r
   - education

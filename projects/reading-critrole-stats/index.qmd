@@ -6,8 +6,7 @@ categories:
   - tidyverse
   - data cleaning
   - "d&d"
-image: featured.jpg
-title-block-banner: true
+image: featured.jpgq
 ---
 
 ```{r}
