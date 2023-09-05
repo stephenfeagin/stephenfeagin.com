@@ -6,7 +6,7 @@ categories:
   - tidyverse
   - data cleaning
   - "d&d"
-image: featured.jpgq
+image: featured.jpg
 ---
 
 ```{r}
