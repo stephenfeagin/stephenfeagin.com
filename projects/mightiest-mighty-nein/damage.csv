@@ -1,0 +1,2106 @@
+episode,character,total_value,natural_value,damage_dealt,notes
+C2E001,Jester,18,NA,18 to Creature 1,NA
+C2E001,Fjord,11,NA,11 to Creature 1,NA
+C2E001,Caleb,9,NA,9 Cold to Creature 1,NA
+C2E001,Beau,11,NA,11 to Creature 1,NA
+C2E001,Molly,9,NA,9 (8 + 1 Cold) to Creature 1,NA
+C2E001,Jester,3,NA,3 Necrotic to Creature 1,Toll the Dead
+C2E001,Fjord,12,NA,12 to Creature 2,NA
+C2E001,Yasha,13,NA,13 to Creature 1,NA
+C2E001,Fjord,17,NA,17 (12 + 5 Necrotic) to Creature 2,NA
+C2E001,Nott,14,NA,14 (10 + 4 SA) to Creature 2,NA
+C2E001,Molly,4,NA,4 to Creature 2,NA
+C2E001,Molly,9,NA,9 (6 + 3 Cold) to Creature 2,NA
+C2E001,Beau,6,NA,6 to Creature 2,NA
+C2E001,Beau,13,NA,13 to Creature 2,HDYWTDT
+C2E003,Beau,8,NA,8 to Zombie 1,NA
+C2E003,Caleb,9,NA,9 Cold to Zombie 1,NA
+C2E003,Molly,9,NA,9 to Zombie 1,NA
+C2E003,Molly,13,NA,13 to Zombie 1,NA
+C2E003,Nott,9,NA,9 (7 + 2 Fury of the Small) to Zombie 2,NA
+C2E003,Nott,2,NA,2 to Zombie 2,Sneak Attack
+C2E003,Fjord,9,NA,9 to Zombie 2,NA
+C2E003,Beau,11,NA,11 to Zombie 2,NA
+C2E003,Beau,6,NA,6 to Zombie 2,NA
+C2E003,Caleb,4,NA,4 Fire to Zombie 2,NA
+C2E003,Molly,9,NA,9 to Zombie 2,NA
+C2E003,Molly,1,NA,1 to Molly,Rite of the Frozen
+C2E003,Beau,7,NA,7 to Kylre,NA
+C2E003,Fjord,15,NA,15 to Kylre,NA
+C2E003,Molly,9,NA,9 (8 + 1 Cold) to Imp 3,NA
+C2E003,Fjord,4,NA,4 to Kylre,NA
+C2E003,Molly,7,NA,7 to Imp 3,NA
+C2E003,Beau,8,NA,8 to Toya,NA
+C2E003,Nott,12,NA,12 to Kylre,NA
+C2E003,Fjord,15,NA,15 (14 + 1 Psychic) to Kylre,NA
+C2E003,Molly,4,NA,4 Psychic to Imp 1,Vicious Mockery
+C2E003,Nott,11,NA,11 to Kylre,NA
+C2E003,Fjord,16,NA,16 to Kylre,NA
+C2E003,Fjord,14,NA,14 to Kylre,HDYWTDT
+C2E003,Jester,6,NA,6 to Imp 1,Word of Radiance
+C2E003,Beau,12,NA,12 to Imp 2,NA
+C2E004,Beau,10,NA,10 to Dairon,NA
+C2E004,Beau,8,NA,8 to Dairon,NA
+C2E004,Beau,5,NA,5 to Dairon,NA
+C2E004,Beau,8,NA,8 to Dairon,NA
+C2E005,Molly,3,NA,3 Psychic to Witherling 1,Vicious Mockery
+C2E005,Jester,10,NA,10 Radiant to Witherling 1,NA
+C2E005,Beau,6,NA,6 to Gnoll 5,NA
+C2E005,Jester,4,NA,4 Radiant to Pack Lord,NA
+C2E005,Caleb,19,NA,19 Fire to Pack Lord,NA
+C2E005,Nott,12,NA,12 to Gnoll 5,NA
+C2E005,Fjord,14,NA,14 to Pack Lord,NA
+C2E005,Molly,9,NA,9 to Gnoll 1,NA
+C2E005,Jester,9,NA,9 Cold to Witherling 4,Hellish Rebuke
+C2E005,Jester,9,NA,9 Radiant to Pack Lord,NA
+C2E005,Jester,9,NA,9 Force to Pack Lord,NA
+C2E005,Beau,8,NA,8 to Witherling 3,NA
+C2E005,Beau,7,NA,7 to Gnoll 5,NA
+C2E005,Molly,7,NA,7 (5 + 2 Radiant) to Gnoll 1,NA
+C2E005,Caleb,11,NA,11 Fire to Gnoll 3,NA
+C2E005,Beau,11,NA,11 to Gnoll 2,NA
+C2E005,Beau,8,NA,8 to Gnoll 2,NA
+C2E005,Beau,8,NA,8 to Gnoll 2,NA
+C2E005,Jester,13,NA,26 (13x2) Necrotic to Gnoll 6,NA
+C2E006,Caleb,1,NA,1 to Hyena 2,NA
+C2E006,Jester,4,NA,4 to Hyena 2,Sacred Flame
+C2E006,Molly,10,NA,10 (7 + 3 Radiant) to Hyena 3,NA
+C2E006,Nott,13,NA,13 to Hyena 1,NA
+C2E006,Nott,11,NA,11 to Gnoll 1,NA
+C2E006,Jester,10,NA,10 to Gnoll 1,NA
+C2E006,Fjord,9,NA,9 to Gnoll 2,NA
+C2E006,Molly,3,NA,3 Psychic to Gnoll 2,Vicious Mockery
+C2E006,Nott,7,NA,7 Lightning to Gnoll 1,NA
+C2E006,Beau,10,NA,10 to Gnoll 2,NA
+C2E006,Jester,9,NA,9 Force to Gnoll 1,NA
+C2E006,Fjord,15,NA,15 to Gnoll 2,NA
+C2E006,Caleb,7,NA,7 Fire to Gnoll 2,NA
+C2E006,Nott,14,NA,14 to Gnoll 1,NA
+C2E006,Molly,3,NA,3 Psychic to Gnoll 5,Vicious Mockery
+C2E006,Jester,9,NA,9 Force to Gnoll 4,NA
+C2E006,Jester,2,NA,2 Necrotic to Gnoll 5,Toll the Dead
+C2E006,Fjord,15,NA,15 to Gnoll 5,NA
+C2E006,Molly,8,NA,8 to Gnoll 5,NA
+C2E006,Molly,4,NA,4 to Hyena 1,NA
+C2E006,Beau,8,NA,8 to Gnoll 4,NA
+C2E006,Jester,7,NA,7 Necrotic to Gnoll 4,Toll the Dead (Beau whacks it to split the kill)
+C2E006,Molly,8,NA,8 to Hyena 1,NA
+C2E006,Fjord,11,NA,11 to Hyena 4,NA
+C2E006,Beau,10,NA,10 to Gnoll 3,NA
+C2E006,Nott,13,NA,13 to Gnoll 3,NA
+C2E007,Nott,11,NA,11 to Gnoll 1,NA
+C2E007,Molly,3,NA,3 Psychic to Gnoll 1,Vicious Mockery
+C2E007,Fjord,16,NA,16 (11 + 5 Necrotic) to Gnoll 2,NA
+C2E007,Nott,8,NA,8 to Gnoll 1,NA
+C2E007,Molly,8,NA,8 to Witherling,NA
+C2E007,Fjord,16,NA,16 (12 + 4 Necrotic) to Gnoll 2,NA
+C2E007,Shakäste,12,NA,12 Thunder to Gnoll 3,Thunderwave
+C2E007,Beau,10,NA,10 to Hyena 2,NA
+C2E007,Molly,13,NA,13 to Witherling,NA
+C2E007,Molly,9,NA,9 to Hyena 1,NA
+C2E007,Fjord,11,NA,11 (8 + 3 Necrotic) to Gnoll 3,NA
+C2E007,Fjord,14,NA,14 to Gnoll,NA
+C2E007,Nott,5,NA,5 to Gnoll,NA
+C2E007,Fjord,13,NA,13 (8 + 5 Necrotic) to Gnoll,NA
+C2E007,Shakäste,1,NA,1 to Gnoll 3,Sacred Flame
+C2E007,Shakäste,3,NA,3 Cold to Gnoll 2,Frostbite
+C2E007,Beau,20,NA,20 to Witherling 2,NA
+C2E007,Molly,11,NA,11 to Witherling 1,NA
+C2E007,Molly,10,NA,10 to Gnoll 2,NA
+C2E007,Nott,12,NA,12 to Gnoll 2,NA
+C2E007,Jester,6,NA,6 Necrotic to Gnoll 1,Toll the Dead
+C2E007,Caleb,20,NA,20 Fire to Pack Lord,NA
+C2E007,Fjord,8,NA,8 to Gnoll 3,NA
+C2E007,Molly,13,NA,13 to Pack Lord,NA
+C2E007,Molly,7,NA,7 to Pack Lord,NA
+C2E007,Molly,3,NA,3 to Molly,Rite damage
+C2E007,Nott,15,NA,15 to Pack Lord,HDYWTDT
+C2E007,Jester,4,NA,4 to Pack Lord,HDYWTDT
+C2E007,Caleb,8,NA,8 Thunder to Gnoll 1,NA
+C2E007,Fjord,15,NA,15 to Gnoll 3,NA
+C2E007,Shakäste,6,NA,6 to Gnoll 1,Sacred Flame
+C2E007,Beau,5,NA,5 to Gnoll 1,NA
+C2E007,Molly,1,NA,1 Psychic to Manticore,Vicious Mockery
+C2E007,Fjord,13,NA,13 to Manticore,NA
+C2E007,Jester,13,NA,13 Cold to Manticore,Hellish Rebuke
+C2E007,Shakäste,4,NA,4 to Manticore,NA
+C2E007,Molly,4,NA,4 to Manticore,Vicious Mockery
+C2E007,Jester,6,NA,6 Radiant to Priest,Sacred Flame
+C2E007,Nott,17,NA,17 to Manticore Cub,NA
+C2E007,Caleb,15,NA,15 Cold to Manticore,NA
+C2E007,Shakäste,3,NA,3 to Priest,Sacred Flame
+C2E007,Beau,9,NA,9 to Priest,NA
+C2E007,Beau,7,NA,7 to Priest,NA
+C2E007,Caleb,10,NA,10 to Priest,HDYWTDT
+C2E007,Shakäste,7,NA,7 to Manticore,NA
+C2E007,Shakäste,6,NA,6 to Manticore,HDYWTDT
+C2E008,Caleb,37,NA,37 Fire to Trevor,NA
+C2E008,Beau,5,NA,5 to Attacker,NA
+C2E008,Fjord,12,NA,12 to Attacker,NA
+C2E010,Fjord,10,NA,10 to Rat 2,NA
+C2E010,Nott,15,NA,15 to Rat 3,NA
+C2E010,Beau,8,NA,8 to Rat 4,NA
+C2E010,Beau,6,NA,6 to Rat 6,NA
+C2E010,Jester,7,NA,7 to Rat 6,NA
+C2E010,Caleb,5,NA,5 Fire to Rat 7,NA
+C2E010,Nott,Unknown,NA,Unknown to Rat 5,HDYWTDT
+C2E010,Jester,7,NA,7 to Web,NA
+C2E010,Yasha,14,NA,14 to Spider,NA
+C2E010,Nott,17,NA,17 to Spider,NA
+C2E010,Jester,2,NA,2 Radiant to Spider,NA
+C2E010,Fjord,10,NA,10 Fire to Spider,NA
+C2E010,Jester,7,NA,7 to Spider,NA
+C2E010,Molly,3,NA,3 Psychic to Spider,"Vicious Mockery, HDYWTDT"
+C2E012,Nott,1,NA,1 Lightning to Rug,NA
+C2E012,Jester,15,NA,15 (8 Radiant to Rug + 7 Radiant to Nott),NA
+C2E012,Beau,6,NA,6 (3 to Rug + 3 to Nott),NA
+C2E012,Beau,7,NA,7 (4 to Rug + 3 to Nott),NA
+C2E012,Nott,15,NA,15 (8 to Rug + 7 to Beau),NA
+C2E012,Nott,10,NA,10 (10 to Rug + 5 to Beau),NA
+C2E013,Nott,16,NA,16 to Shadow Assassin 1,Dissipates
+C2E013,Fjord,12,NA,12 to Assassin,NA
+C2E013,Beau,12,NA,12 to Assassin,NA
+C2E013,Jester,8,NA,4 (8/2) Cold to Assassin,Hellish Rebuke
+C2E013,Molly,Unknown,Unknown,Unknown to Shadow Assassin 3,Dissipates
+C2E013,Molly,5,NA,5 to Assassin,"Unconscious, HDYWTDT"
+C2E014,Nott,11,NA,5 (11/2) Acid to The Gentleman,NA
+C2E015,Fjord,8,NA,8 Force to Darkmantle 1,NA
+C2E015,Beau,6,NA,6 to Darkmantle 2,NA
+C2E015,Beau,7,NA,7 to Darkmantle 2,NA
+C2E015,Beau,8,NA,8 to Darkmantle 2,NA
+C2E015,Molly,9,NA,9 to Darkmantle 2,NA
+C2E015,Caleb,15,8,13 to Darkmantle 1,NA
+C2E015,Nott,6,NA,6 to Darkmantle 1,NA
+C2E015,Nott,20,NA,20 to Darkmantle 3,NA
+C2E015,Beau,9,NA,9 to Darkmantle 3,NA
+C2E015,Nott,28,NA,28 to Will-o'-Wisp 1,NA
+C2E015,Beau,8,NA,4 (8/2) to Will-o'-Wisp 1,NA
+C2E015,Beau,8,NA,4 (8/2) to Will-o'-Wisp 1,NA
+C2E015,Yasha,18,NA,9 (18/2)/Necrotic to WoW 3,With Divine Fury
+C2E015,Molly,8,NA,8 to Urn 2,"Urn breaks, WoW 2 dies"
+C2E015,Caleb,7,NA,7 to Urn 1,"Urn breaks, WoW 1 dies"
+C2E015,Caleb,8,NA,8 to Urn 3,"Urn breaks, WoW 3 dies"
+C2E015,Caleb,7,NA,7 to Gelatinous Cube,Maximilian's Earthen Grasp
+C2E015,Jester,6,NA,6 Radiant to Gelatinous Cube,Sacred Flame
+C2E015,Beau,11,NA,11 to Gelatinous Cube,NA
+C2E015,Beau,6,NA,6 to Gelatinous Cube,NA
+C2E015,Yasha,21,NA,21 Slashing/Necrotic to Gelatinous Cube,With Divine Fury
+C2E015,Beau,6,NA,6 to Gelatinous Cube,NA
+C2E015,Molly,7,NA,7 (6 + 1 Cold) to Gelatinous Cube,With Rite of the Frozen
+C2E015,Nott,32,NA,32 to Gelatinous Cube,With Fury of the Small
+C2E015,Nott,7,NA,7 to Gelatinous Cube,NA
+C2E015,Fjord,14,NA,14 Force to Gelatinous Cube,NA
+C2E015,Beau,9,NA,9 to Gelatinous Cube,NA
+C2E015,Beau,5,NA,5 to Gelatinous Cube,NA
+C2E015,Beau,7,NA,7 to Gelatinous Cube,NA
+C2E015,Yasha,22,NA,22 to Gelatinous Cube,"With Divine Fury, HDYWTDT"
+C2E016,Yasha,10,NA,10 to Siff,NA
+C2E016,Nott,18,NA,9 (18/2) to Siff,NA
+C2E016,Yasha,20,NA,20 to Siff,NA
+C2E016,Beau,8,NA,8 Radiant to Siff,NA
+C2E016,Beau,12,NA,6 (12/2) to Siff,NA
+C2E016,Caleb,11,NA,5 (11/2) Fire to Siff,Burning Hands
+C2E016,Molly,11,NA,8 [2 (5/2) Slashing + 6 Radiant] to Siff,NA
+C2E016,Fjord,14,NA,14 to Urn 3,Will-o'-Wisp 3 dies
+C2E016,Nott,6,NA,6 to Urn 1,Will-o'-Wisp 1 dies
+C2E016,Nott,7,NA,7 to Urn 2,Will-o'-Wisp 2 dies
+C2E016,Yasha,14,NA,14 to Siff,NA
+C2E016,Molly,10,NA,7 [2 (5/2) Slashing + 5 Radiant] to Siff,HDYWTDT
+C2E016,Fjord,11,NA,11 to Urn 4,Will-o'-Wisp 4 dies
+C2E016,Molly,8,NA,8 to Siff's Urn,NA
+C2E016,Molly,5,NA,5 to Siff's Urn,Siff dies
+C2E017,Beau,12,NA,12 to Otyugh,NA
+C2E017,Nott,19,NA,19 to Otyugh,NA
+C2E017,Jester,7,NA,7 Necrotic to Otyugh,Toll the Dead
+C2E017,Yasha,20,NA,20 to Otyugh,NA
+C2E017,Fjord,14,NA,14 to Otyugh,NA
+C2E017,Beau,9,NA,9 to Otyugh,NA
+C2E017,Beau,7,NA,7 to Otyugh,NA
+C2E017,Jester,12,NA,12 Cold to Otyugh,Hellish Rebuke (2nd)
+C2E017,Caleb,15,NA,15 Fire to Otyugh,NA
+C2E017,Nott,19,NA,19 to Otyugh,With Fury of the Small
+C2E017,Jester,2,NA,2 Necrotic to Otyugh,Toll the Dead
+C2E017,Yasha,41,NA,41 to Otyugh,HDYWTDT
+C2E017,Jester,5,NA,5 to Wolf 1,Sacred Flame
+C2E017,Molly,1,NA,1 Psychic to Wolf 1,Vicious Mockery
+C2E017,Yasha,27,NA,27 to Wolf 1,NA
+C2E017,Nott,16,NA,16 to Wolf 1,NA
+C2E017,Nott,6,NA,6 to Wolf 1,NA
+C2E017,Beau,6,NA,6 to Wolf 2,NA
+C2E017,Beau,8,NA,8 to Wolf 2,NA
+C2E017,Caleb,6,NA,6 to Wolf 2,Maximilian's Earthen Grasp
+C2E017,Jester,9,NA,9 to Wolf 1,NA
+C2E017,Beau,8,NA,8 to Wolf 2,NA
+C2E017,Yasha,23,NA,23 to Wolf 1,HDYWTDT
+C2E017,Nott,12,NA,12 to Wolf 2,NA
+C2E017,Fjord,13,NA,17 (13 + 4 Necrotic) to Wolf 2,NA
+C2E017,Caleb,9,NA,9 Fire to Wolf 2,NA
+C2E017,Beau,8,NA,8 to Wolf 2,NA
+C2E017,Molly,7,NA,7 to Wolf 2,NA
+C2E017,Molly,7,NA,7 to Wolf 2,HDYWTDT
+C2E018,Caleb,1,NA,1 Fire to Giant,NA
+C2E018,Jester,10,NA,10 Force to Giant,NA
+C2E018,Jester,8,NA,8 Radiant to Giant,Sacred Flame
+C2E018,Molly,8,NA,8 to Giant,NA
+C2E018,Molly,14,NA,14 to Giant,NA
+C2E018,Beau,10,NA,10 to Giant,NA
+C2E018,Fjord,15,NA,15 to Giant,NA
+C2E018,Yasha,5,NA,5 to Giant,NA
+C2E018,Nott,9,NA,9 to Giant,NA
+C2E018,Nott,16,NA,15 to Giant,NA
+C2E018,Jester,12,NA,12 Force to Giant,NA
+C2E018,Fjord,14,NA,14 Force to Giant,NA
+C2E018,Beau,6,NA,6 to Giant,NA
+C2E018,Beau,5,NA,5 to Giant,NA
+C2E018,Nott,13,NA,13 to Giant,HDYWTDT
+C2E019,Jester,17,NA,17 Necrotic to Beau,NA
+C2E019,Beau,7,NA,7 to Jester,NA
+C2E019,Beau,6,NA,6 to Jester,NA
+C2E019,Beau,12,NA,12 to Jester,NA
+C2E019,Beau,6,NA,6 to Jester,NA
+C2E019,Beau,12,NA,12 to Jester,Jester is unconscious
+C2E019,Fjord,12,NA,12 Force to Goblin 7,NA
+C2E019,Molly,11,NA,11 to Goblin 6,NA
+C2E019,Beau,12,NA,12 to Wolf 2,NA
+C2E019,Jester,15,NA,15 Cold to Wolf 1,Hellish Rebuke
+C2E019,Beau,6,NA,6 to Ogre 1,NA
+C2E019,Beau,10,NA,10 to Ogre 1,NA
+C2E019,Beau,8,NA,8 to Ogre 1,NA
+C2E019,Fjord,18,NA,18 to Goblin 5,NA
+C2E019,Molly,8,NA,8 to Goblin 8,NA
+C2E019,Molly,9,NA,9 to Goblin 8,NA
+C2E019,Fjord,13,NA,13 to Ogre 2,NA
+C2E019,Nott,20,NA,20 to Ogre 2,NA
+C2E019,Jester,5,NA,5 Radiant to Wolf 3,NA
+C2E019,Jester,9,NA,9 Force to Wolf 3,NA
+C2E019,Yasha,23,NA,23 to Ogre 2,HDYWTDT
+C2E019,Yasha,21,NA,21 to Ogre 1,NA
+C2E019,Beau,5,NA,5 to Ogre 1,NA
+C2E019,Beau,9,NA,9 to Ogre 1,NA
+C2E019,Beau,7,NA,7 to Ogre 1,NA
+C2E019,Beau,6,NA,6 to Ogre 1,NA
+C2E019,Molly,5,NA,5 to Goblin 1,NA
+C2E019,Caleb,3,NA,3 to Goblin 1,Magic Missile
+C2E019,Caleb,7,NA,7 to Goblin 2,Magic Missile
+C2E019,Caleb,7,NA,7 to Goblin 1,Magic Missile
+C2E019,Fjord,13,NA,13 to Ogre 1,HDYWTDT
+C2E019,Molly,18,NA,18 to Wolf 3,NA
+C2E019,Nott,7,NA,7 to Goblin 2,NA
+C2E019,Caleb,20,NA,20 to Goblin 3,Magic Missile
+2-20,Jester,13,NA,13 Radiant to Gator 1,NA
+2-20,Jester,3,NA,3 Radiant to Gator 1,Sacred Flame against Gator
+2-20,Beau,7,NA,7 piercing to Gator,NA
+2-20,Beau,5,NA,5 piercing to Gator,NA
+2-20,Jester,8,NA,8 force to Gator 1,NA
+2-20,Caleb,21,NA,21 fire to Gator 2,NA
+2-20,Nott,26,NA,26 piercing to Gator 2,with Sneak Attack and Fury of the Small
+2-20,Nott,8,NA,8 piercing to Gator 2,NA
+2-20,Nott,10,NA,10 piercing to Gator 2,NA
+2-20,Fjord,12,NA,12 force to Gator 1,NA
+2-20,Fjord,6,NA,6 force to Gator 1,NA
+2-20,Beau,7,NA,7 bludgeoning to Gator 1,NA
+2-20,Beau,7,NA,7 bludgeoning to Gator 1,NA
+2-20,Beau,6,NA,6 bludgeoning to Gator 1,NA
+2-20,Yasha,18,NA,18 Slashing to Gator 2,NA
+2-20,Caleb,18,NA,18 force to Gator 1,Magic Missile against Gator 1
+2-20,Nott,12,NA,12 piercing to Gator 1,with Sneak Attack
+2-20,Nott,5,NA,5 piercing to Gator 1,NA
+2-20,Beau,12,NA,12 bludgeoning to Gator 1,NA
+2-20,Fjord,14,NA,14 force to Gator 1,NA
+2-21,Cali,28,NA,28 Fire to Plant,Fireball
+2-21,Caleb,12,NA,12 Fire to Plant,NA
+2-21,Fjord,27,NA,27 Lightning to Plant,NA
+2-21,Caleb,16,NA,16 Force to Troll,Magic Missile
+2-21,Cali,7,NA,7 Acid to Troll,Acid Splash
+2-21,Jester,6,NA,6 Necrotic to Troll,Toll the Dead
+2-21,Nott,5,NA,5 to Troll,Febron dies
+2-21,Beau,12,NA,12 to Troll,NA
+2-21,Beau,7,NA,7 to Troll,NA
+2-21,Beau,10,NA,10  to Troll,NA
+2-21,Fjord,8,NA,8 Force to Troll,NA
+2-21,Fjord,14,NA,14 Force to Troll,Beau goes unconscious
+2-21,Jester,9,NA,9 Radiant to Troll,Sacred Flame
+2-21,Nott,10,NA,10 to Troll,NA
+2-21,Nott,7,NA,7 to Troll,NA
+2-21,Molly,4,NA,4 Psychic to Troll,Vicious Mockery
+2-21,Beau,8,NA,8 to Troll,NA
+2-21,Nott,8,NA,8 to Troll,NA
+2-21,Fjord,13,NA,13 Force to Troll,NA
+2-21,Beau,7,NA,7 to Merrow 1,NA
+2-21,Fjord,9,NA,9 Cold to Merrow 1 and 2,Hunger of Hadar
+2-21,Fjord,7,NA,7 Acid to Merrow 1 and 2,NA
+2-21,Nott,18,NA,18 to Merrow 3,With Fury of the Small
+2-21,Cali,9,NA,9 Poison to Merrow 3,Merrow 3 poisoned
+2-21,Beau,10,NA,10 to Merrow 3,NA
+2-21,Fjord,5,NA,5 Cold to Merrow 1 and 2,NA
+2-21,Beau,16,NA,16 to Merrow 2,NA
+2-21,Yasha,20,NA,20 to Merrow 3,NA
+2-21,Yasha,11,NA,11 to Merrow 3,NA
+2-21,Caleb,12,NA,12 Fire to Merrow 2,NA
+2-21,Nott,15,NA,15 to Merrow 1,NA
+2-21,Nott,6,NA,6 to Merrow 4,NA
+2-21,Jester,8,NA,8 Force to Merrow 4,NA
+2-21,Cali,19,NA,19 Acid to Merrow 4,Dragon's Breath (Acid)
+2-21,Beau,13,NA,13 to Merrow 4,NA
+2-21,Beau,10,NA,10 to Merrow 4,NA
+2-21,Fjord,6,NA,6 to Merrow 4,NA
+2-21,Fjord,14,NA,14 to Merrow 4,HDYWTDT
+2-22,Jester,10,NA,10 Radiant to Merrow,Sacred Flame
+2-22,Beau,11,NA,11 to Merrow,NA
+2-22,Fjord,10,NA,10 Force to Merrow,NA
+2-22,Fjord,9,NA,9 Force to Merrow,NA
+2-22,Yasha,10,NA,10 to Merrow,NA
+2-22,Beau,8,NA,8 to Merrow 1,NA
+2-22,Beau,10,NA,10 to Merrow 1,NA
+2-22,Jester,7,NA,7 Necrotic to Merrow 1,Toll the Dead
+2-22,Fjord,18,NA,18 to Merrow 2,NA
+2-22,Yasha,19,NA,19 to Merrow 1,NA
+2-22,Beau,7,NA,7 to Merrow 3,NA
+2-22,Jester,11,NA,11 Force to Merrow 1,HDYWTDT
+2-22,Caleb,6,NA,6 Fire to Merrow Shallow Priest,NA
+2-22,Molly,8,NA,8 Slashing/Radiant to Merrow 2,NA
+2-22,Molly,9,NA,9 Slashing/Radiant to Merrow 2,NA
+2-22,Yasha,19,NA,19 to Merrow 3,NA
+2-22,Yasha,15,NA,15 to Merrow 3,NA
+2-22,Molly,9,NA,9 to Merrow 2,NA
+2-22,Molly,10,NA,10 to Merrow 2,HDYWTDT
+2-22,Fjord,21,NA,21 to Merrow 4,NA
+2-22,Fjord,17,NA,17 to Merrow 4,HDYWTDT
+2-22,Yasha,14,NA,14 to Merrow 3,NA
+2-22,Yasha,8,NA,8 to Merrow 3,HDYWTDT
+2-22,Beau,18,NA,18 to Merrow 6,NA
+2-22,Jester,11,NA,11 Force to Merrow 6,NA
+2-22,Molly,9,NA,9 to Merrow 5,NA
+2-22,Molly,11,NA,11 to Merrow 5,NA
+2-22,Molly,11,NA,11 to Merrow 5,NA
+2-22,Fjord,12,NA,12 Force to Merrow 5,NA
+2-22,Fjord,7,NA,7 Force to Merrow 5,HDYWTDT
+2-22,Beau,12,NA,12 to Merrow 6,NA
+2-22,Beau,5,NA,5 to Merrow 6,NA
+2-22,Beau,7,NA,7 to Merrow 6,HDYWTDT
+2-22,Caleb,6,NA,6 to Merrow Shallow Priest,Maximilian's Earthen Grasp
+2-22,Beau,10,NA,10 to Merrow Shallow Priest,NA
+2-22,Beau,12,NA,12 to Merrow Shallow Priest,NA
+2-22,Nott,24,NA,24 (21 Piercing + 3 Fire to Merrow Shallow Priest,With Fury of the Small
+2-22,Nott,8,NA,8 to Merrow Shallow Priest,NA
+2-22,Yasha,12,NA,12 to Merrow Shallow Priest,NA
+2-22,Yasha,12,NA,12 to Merrow Shallow Priest,NA
+2-22,Jester,5,NA,5 to Merrow Shallow Priest,HDYWTDT
+2-22,Yasha,9,NA,9 to Merrow Shallow Priest,HDYWTDT
+2-23,Nott,2,NA,2 to Troll,Dynamite
+2-23,Caleb,11,NA,22 (11x2) Fire to Troll,NA
+2-23,Beau,4,NA,4 to Troll,NA
+2-23,Jester,12,NA,12 Force to Troll,NA
+2-23,Jester,14,NA,14 Necrotic to Troll,Toll the Dead
+2-23,Fjord,11,NA,11 (7 + 4 Necrotic to Troll),NA
+2-23,Caleb,11,NA,11 to Troll,Magic Missile
+2-23,Nott,6,NA,6 to Troll,NA
+2-23,Fjord,20,NA,20 (18 Lightning + 2 Necrotic) to Troll,NA
+2-23,Molly,10,NA,10 to Troll,NA
+2-23,Molly,21,NA,21 to Troll,NA
+2-23,Nott,17,NA,17 to Troll,NA
+2-23,Nott,6,NA,6 to Troll,NA
+2-23,Molly,9,NA,9 to Troll,HDYWTDT
+2-23,Nott,5,NA,5 to Troll,NA
+2-23,Caleb,27,NA,27 Fire to Troll,HDYWTDT
+2-23,Beau,12,NA,12 to Bandit,NA
+2-23,Nott,8,NA,8 to Bandit,NA
+2-25,Yasha,16,NA,16 to Gear Keeper,NA
+2-25,Fjord,9,NA,9 to Gear Keeper,NA
+2-25,Molly,18,NA,18 to Gear Keeper,NA
+2-25,Caleb,5,NA,5 to Gear Keeper,Maximilian's Earthen Grasp
+2-25,Jester,14,NA,14 to Gear Keeper,NA
+2-25,Yasha,16,NA,16 to Gear Keeper,Gear Keeper AC lowered to 17
+2-25,Yasha,11,NA,11 to Gear Keeper,NA
+2-25,Fjord,13,NA,13 to Gear Keeper,NA
+2-25,Fjord,13,NA,13 to Gear Keeper,NA
+2-25,Beau,8,NA,4 (8/2) to Gear Keeper,NA
+2-25,Beau,10,NA,5 (10/2) to Gear Keeper,NA
+2-25,Beau,5,NA,2 (5/2) to Gear Keeper,NA
+2-25,Nott,8,NA,6 (13/2) to Gear Keeper,With Fury of the Small
+2-25,Molly,12,NA,12 to Gear Keeper,NA
+2-25,Molly,16,NA,11 [5 (10/2) Slashing + 6 Cold] to Gear Keeper,Gear Keeper AC lowered to 16
+2-25,Jester,17,NA,17 Necrotic to Gear Keeper,Toll the Dead
+2-25,Yasha,17,NA,17 to Gear Keeper,NA
+2-25,Yasha,16,NA,16 to Gear Keeper,NA
+2-25,Fjord,13,NA,13 to Gear Keeper,NA
+2-25,Fjord,13,NA,13 to Gear Keeper,NA
+2-25,Beau,12,NA,6 (12/2) to Gear Keeper,NA
+2-25,Molly,9,NA,9 to Gear Keeper,NA
+2-25,Nott,10,NA,5 (10/2) to Gear Keeper,NA
+2-25,Nott,6,NA,3 (6/2) to Gear Keeper,NA
+2-25,Molly,12,NA,12 to Gear Keeper,NA
+2-25,Molly,10,NA,10 to Gear Keeper,HDYWTDT
+2-25,Yasha,18,NA,18 to Attacker,NA
+2-26,Beau,5,NA,5 to Ankheg 1,NA
+2-26,Beau,12,NA,12 to Ankheg 1,NA
+2-26,Molly,13,NA,13 (10 + 3 Radiant) to Ankheg 1,NA
+2-26,Molly,11,NA,11 (9 + 2 Radiant) to Ankheg 1,NA
+2-26,Keg,6,NA,6 to Ankheg 2,NA
+2-26,Keg,12,NA,12 to Ankheg 2,NA
+2-26,Keg,9,NA,9 to Ankheg 2,NA
+2-26,Beau,9,NA,9 to Ankheg 3,NA
+2-26,Beau,11,NA,11 to Ankheg 3,NA
+2-26,Beau,7,NA,7 to Ankheg 3,NA
+2-26,Beau,10,NA,10 to Ankheg 3,NA
+2-26,Molly,14,NA,14 to Ankheg 2,NA
+2-26,Molly,14,NA,14 to Ankheg 2,NA
+2-26,Keg,9,NA,9 to Ankheg 4,NA
+2-26,Keg,7,NA,7 to Ankheg 4,NA
+2-26,Caleb,4,NA,4 to Ankheg 4,Magic Missile
+2-26,Caleb,2,NA,2 to Ankheg 4,Magic Missile
+2-26,Caleb,4,NA,4 to Ankheg 4,Magic Missile
+2-26,Beau,15,NA,15 to Ankheg 4,HDYWTDT
+2-26,Beau,8,NA,8 to Dwelma,NA
+2-26,Beau,8,NA,8 to Dwelma,NA
+2-26,Molly,7,NA,7 to Dwelma,NA
+2-26,Molly,12,NA,12 to Dwelma,NA
+2-26,Molly,5,NA,5 to Molly,Amplified Blood Curse
+2-26,Caleb,10,NA,10 Fire to Ruzza,NA
+2-26,Beau,5,NA,5 to Dwelma,NA
+2-26,Beau,10,NA,10 to Dwelma,NA
+2-26,Beau,11,NA,11 to Dwelma,NA
+2-26,Molly,18,NA,18 to Lorenzo,NA
+2-26,Molly,4,NA,4 to Molly,"Amplified Blood Curse, Molly is unconscious"
+2-26,Beau,4,NA,4 Fire to Lorenzo,NA
+2-26,Beau,6,NA,6 to Lorenzo,NA
+2-26,Beau,4,NA,4 Fire to Lorenzo,NA
+2-28,Nott,16,NA,NA,NA
+2-28,Nott,8,NA,8 to Beau,NA
+2-28,Nott,24,NA,24 to Guard,NA
+2-28,Keg,5,NA,5 to Guard,NA
+2-28,Nott,9,NA,9 to Guard,NA
+2-28,Beau,6,NA,6 to Guard,NA
+2-28,Nila,13,NA,13 to Guard,NA
+2-28,Beau,12,NA,12 to Guard,NA
+2-28,Nila,12,NA,12 Poison to Guard,Poison Spray
+2-28,Keg,8,NA,8 to Guard,NA
+2-28,Keg,11,NA,11 to Guard,NA
+2-28,Caleb,10,NA,10 Fire to Phil,NA
+2-28,Nila,10,NA,10 to Phil,NA
+2-28,Keg,9,NA,9 to Phil,NA
+2-28,Keg,10,NA,10 to Juam,NA
+2-28,Keg,11,NA,11 to Juam,NA
+2-28,Keg,14,NA,14 to Juam,NA
+2-28,Beau,5,NA,5 to Juam,NA
+2-28,Beau,8,NA,8 to Juam,NA
+2-28,Caleb,8,NA,8 Fire to Juam,NA
+2-28,Caleb,8,NA,8 Fire to Juam,HDYWTDT
+2-28,Nila,16,NA,16 to Guard,NA
+2-28,Keg,6,NA,6 to Guard,NA
+2-28,Caduceus,8,NA,8 to Guard,NA
+2-28,Nott,18,NA,18 to Guard,NA
+C2E029,Beau,11,NA,11 to Guard,NA
+C2E029,Beau,11,NA,11 to Guard,NA
+C2E029,Beau,9,NA,9 to Guard,NA
+C2E029,Nott,11,NA,11 to Guard 2,NA
+C2E029,Nott,6,NA,6 to Guard 2,NA
+C2E029,Caduceus,14,NA,14 Radiant to Guard 2,Sacred Flame
+C2E029,Keg,12,NA,12 to Guard 2,NA
+C2E029,Nott,10,NA,10 to Protto,NA
+C2E029,Nott,6,NA,6 to Ruzza,NA
+C2E029,Nott,11,NA,11 to Ruzza,NA
+C2E029,Keg,8,NA,8 to Door,NA
+C2E029,Nott,10,NA,10 to Protto,NA
+C2E029,Beau,18,NA,18 to Guard,NA
+C2E029,Beau,6,NA,6 to Guard,NA
+C2E029,Keg,7,NA,7 to Protto,NA
+C2E029,Beau,10,NA,10 to Guard,NA
+C2E029,Nott,17,NA,17 to Protto,NA
+C2E029,Beau,9,NA,9 to Protto,NA
+C2E029,Beau,9,NA,9 to Protto,NA
+C2E029,Beau,9,NA,9 to Protto,NA
+C2E029,Caleb,19,NA,19 Fire to Lorenzo,NA
+C2E029,Keg,10,NA,10 to Ruzza,NA
+C2E029,Keg,12,NA,12 to Ruzza,NA
+C2E029,Keg,5,NA,5 to Ruzza,NA
+C2E029,Caduceus,9,NA,4 (9/2) Radiant to Ruzza,Spirit Guardians damage
+C2E029,Nott,17,NA,17 to Ruzza,NA
+C2E029,Nott,7,NA,7 to Ruzza,NA
+C2E029,Caleb,14,NA,14 Fire to Lorenzo,NA
+C2E029,Keg,6,NA,6 to Lorenzo,NA
+C2E029,Caduceus,18,NA,9 (18/2) Radiant to Lorenzo,Spirit Guardians damage
+C2E029,Beau,7,NA,7 to Lorenzo,NA
+C2E029,Beau,5,NA,5 to Lorenzo,NA
+C2E029,Keg,7,NA,7 to Lorenzo,NA
+C2E029,Nott,9,NA,9 to Lorenzo,NA
+C2E029,Beau,7,NA,7 to Lorenzo,NA
+C2E029,Beau,5,NA,5 to Lorenzo,NA
+C2E029,Beau,8,NA,8 to Lorenzo,NA
+C2E029,Caleb,6,NA,6 Fire to Lorenzo,NA
+C2E029,Keg,7,NA,7 to Lorenzo,NA
+C2E029,Keg,6,NA,6 to Lorenzo,NA
+C2E029,Nott,17,NA,22 to Lorenzo,NA
+C2E029,Beau,8,NA,8 to Lorenzo,NA
+C2E029,Beau,8,NA,8 to Lorenzo,NA
+C2E029,Beau,7,NA,7 to Lorenzo,NA
+C2E029,Keg,6,NA,6 to Lorenzo,NA
+C2E029,Caleb,11,NA,11 Fire to Lorenzo,HDYWTDT
+C2E032,Nott,25,NA,25 to Ettin 1,With Fury of the Small
+C2E032,Fjord,9,NA,9 to Ettin 1,NA
+C2E032,Fjord,5,NA,4 to Ettin 2,"Called as 5, told Matt total was 13"
+C2E032,Jester,5,NA,5 to Ettin 1,NA
+C2E032,Jester,18,NA,18 Necrotic to Ettin 1,Toll the Dead
+C2E032,Nott,21,14,21 to Ettin 1,NA
+C2E032,Beau,8,NA,8 to Ettin 2,NA
+C2E032,Beau,1,NA,1 to Ettin 2,Enlarge damage
+C2E035,Beau,10,NA,NA,NA
+C2E032,Beau,9,NA,9 to Ettin 1,NA
+C2E032,Caleb,12,NA,12 Fire to Ettin 2,NA
+C2E032,Caleb,2,NA,2 Fire to Ettin 2,NA
+C2E032,Beau,9,NA,9 to Ettin 1,HDYWTDT
+C2E032,Fjord,7,NA,7 to Ettin 2,NA
+C2E032,Fjord,9,NA,9 to Ettin 2,NA
+C2E032,Jester,24,NA,24 to Ettin 2,NA
+C2E032,Caleb,16,NA,16 Fire to Ettin 2,Fireball
+C2E032,Caleb,25,NA,25 Fire to Ettin 2,"Fireball, HDYWTDT"
+C2E034,Beau,13,NA,6 (13/2) Bludgeoning WE,NA
+C2E034,Beau,7,NA,3 (7/2) Bludgeoning to WE1,NA
+C2E034,Jester,11,NA,11 Force to WE1,NA
+C2E034,Jester,11,NA,11 Necrotic to WE1,Toll the Dead against WE1
+C2E034,Fjord,5,NA,5 Force to WE1,NA
+C2E034,Nott,17,NA,17 Piercing to WE2,NA
+C2E034,Nott,1,NA,1 Piercing to WE2,Additional SA die
+C2E034,Beau,9,NA,9 Bludgeoning to WE1,NA
+C2E034,Beau,10,NA,10 Bludgeoning to WE1,NA
+C2E034,Jester,5,NA,5 Force to WE1,NA
+C2E034,Jester,15,NA,15 Radiant to WE2,NA
+C2E034,Caduceus,12,NA,12 Radiant to WE2,Sacred Flame
+C2E034,Fjord,8,NA,8 Thunder to WE2,Booming Blade
+C2E034,Fjord,9,NA,9 Thunder to WE2,Booming Blade secondary damage
+C2E034,Caleb,9,NA,4 (9/2) Acid to WE1,WE1 dies
+C2E034,Nott,17,NA,17 Piercing to WE2,WE2 dies
+C2E034,Beau,9,NA,9 Piercing against Algar,NA
+C2E034,Beau,6,NA,6 Bludgeoning to WE,NA
+C2E034,Fjord,19,NA,"19 Thunder to G1, 9 (19/2) Thunder to Algar and G2",NA
+C2E034,Yasha,13,NA,13 Slashing to WE,NA
+C2E034,Caleb,34,NA,"34 Fire to G1, 17 (34/2) FIre to G2 and Algar",Fireball
+C2E034,Jester,10,NA,10 Force to Algar,NA
+C2E034,Fjord,7,NA,"7 Cold to Algar, 3 (7/2) Cold to G1 and G2",Algar is unconscious
+C2E034,Yasha,18,NA,18 Slashing to WE,NA
+C2E034,Yasha,15,NA,15 Slashing to WE,NA
+C2E034,Fjord,5,NA,2 (5/2) to G1 and G2,Algar autofails death save
+C2E034,Jester,11,NA,5 (11/2) Cold to WE,NA
+C2E034,Fjord,10,NA,10 Force to G1,G1 dies
+C2E034,Yasha,17,NA,17 slashing to WE,WE dies
+C2E034,Caleb,20,NA,10 (20/2) to Fire Zsundie,Fireball
+C2E034,Jester,12,NA,12 Force to G2,G2 dies
+C2E035,Jester,11,NA,11 radiant to Fjord's Specter,NA
+C2E035,Caduceus,3,NA,3 radiant to Fjord's Specter,NA
+C2E035,Beau,7,NA,7 to Bowman,NA
+C2E035,Beau,8,NA,8 to bowman,NA
+C2E035,Fjord,8,NA,8 Thunder to Marius,NA
+C2E035,Beau,6,NA,6 to Captain,NA
+C2E035,Nott,21,NA,21 to Captain,NA
+C2E035,Caleb,30,NA,30 to Captain,NA
+C2E035,Caduceus,15,NA,NA,NA
+C2E035,Yasha,34,NA,34 to Captain,Captain dies
+C2E035,Nott,20,NA,20 to Bowman,NA
+C2E035,Nott,8,NA,8 to Bowman,Bowman dies
+C2E035,Jester,6,NA,NA,NA
+C2E035,Caleb,27,NA,"27 to enforcer and Marius(?), 13 to Bowman and Bowman(?)",NA
+C2E035,Fjord,11,NA,11 to Enforcer,NA
+C2E035,Fjord,10,NA,10 to Enforcer,Enforcer dies
+C2E035,Nott,23,NA,23 to Enforcer,NA
+C2E035,Beau,8,NA,8 to Bowman,Bowman dies
+C2E035,Beau,9,NA,9 to Bowman,Bowman dies
+C2E035,Caleb,12,NA,12 to dock,NA
+C2E035,Caleb,17,NA,17 to Enforcer,Catapult against Enforcer
+C2E035,Jester,21,NA,11 to Enforcer,Hellish Rebuke against Enforcer
+C2E035,Jester,10,NA,10 to Enforcer,Enforcer dies
+C2E036,Jester,12,NA,12 to Singing Harpy,NA
+C2E036,Jester,7,NA,7 to Singing Harpy,Toll the Dead
+C2E036,Caduceus,15,NA,15 to Singing Harpy,NA
+C2E036,Yasha,13,NA,13 to Harpy Holding Deckhand,NA
+C2E036,Nott,18,NA,18 to Harpy Holding Deckhand,NA
+C2E036,Nott,8,NA,8 to Harpy Holding Deckhand,Harpy Holding Deckhand dies
+C2E036,Fjord,11,NA,11 to Harpy,NA
+C2E036,Fjord,7,NA,7 to Harpy,NA
+C2E036,Beau,10,NA,10 to Harpy,NA
+C2E036,Beau,19,NA,19 to Harpy,NA
+C2E036,Beau,10,NA,10 to Harpy,Harpy dies
+C2E036,Jester,8,NA,8 to Harpy,NA
+C2E036,Jester,7,NA,7 to Harpy,Harpy dies
+C2E036,Caduceus,16,NA,16 to Harpy,NA
+C2E036,Nott,7,NA,7 to Harpy,NA
+C2E036,Nott,8,NA,8 to Harpy,Harpy dies
+C2E038,Caduceus,10,NA,10 Necrotic to Kamadan 1,Caduceus heals 5 points
+C2E038,Yasha,9,NA,9 to Kamadan,NA
+C2E038,Yasha,10,NA,10 to Kamadan,NA
+C2E038,Fjord,11,NA,11 to Kamadan,NA
+C2E038,Beau,5,NA,5 to Kamadan,NA
+C2E038,Beau,9,NA,9 to Kamadan,NA
+C2E038,Beau,16,NA,16 to Kamadan,NA
+C2E038,Caduceus,7,NA,7 to Kamadan,Caduceus heals 3 points
+C2E038,Yasha,14,NA,14 to Kamadan,NA
+C2E038,Yasha,20,NA,20 to Kamadan,HDYWTDT
+C2E038,Yasha,14,NA,14 to Kamadan,NA
+C2E038,Nott,15,NA,15 to Kamadan,NA
+C2E038,Nott,16,NA,15 to Kamadan,HDYWTDT
+C2E038,Fjord,19,NA,19 to Kamadan,HDYWTDT
+C2E038,Fjord,29,NA,29 to Yuan-Ti 1,NA
+C2E038,Beau,6,NA,6 to Yuan-Ti 2,NA
+C2E038,Nott,17,NA,17 to Yuan-Ti 2,NA
+C2E038,Caleb,19,NA,19 Fire to Yuan-Ti 2,NA
+C2E038,Fjord,14,NA,14 to Guard,NA
+C2E038,Caleb,5,NA,5 to Broodguard,NA
+C2E039,Beau,9,NA,9 to PB 2,NA
+C2E039,Beau,8,NA,8 to PB 1,NA
+C2E039,Beau,10,NA,10 to PB 1,NA
+C2E039,Beau,10,NA,10 to PB 2,NA
+C2E039,Yasha,17,NA,17 to PB 1,NA
+C2E039,Yasha,17,NA,17 to PB 1,NA
+C2E039,Yasha,15,NA,15 to PB 3,NA
+C2E039,Fjord,12,NA,12 to MW,NA
+C2E039,Nott,34,NA,34 to MW,NA
+C2E039,Caleb,25,NA,25 to MW,NA
+C2E039,Beau,8,NA,8 to MW,NA
+C2E039,Yasha,16,NA,31 to MW,NA
+C2E039,Yasha,9,NA,9 to Vine 1,NA
+C2E039,Yasha,12,NA,12 to Vine 1,NA
+C2E039,Caduceus,11,NA,11 to Vine 1,Sacred Flame
+C2E039,Jester,15,NA,30 (15 to Vine 1 and Vine 2),Spirit Guardians
+C2E039,Yasha,19,NA,19 to Vine 1,NA
+C2E039,Yasha,11,NA,11 to Vine 1,NA
+C2E039,Beau,10,NA,10 to Vine 1,NA
+C2E039,Beau,8,NA,8 to Vine 1,NA
+C2E039,Fjord,5,NA,5 to Vine 1,NA
+C2E039,Caleb,3,NA,3 to Vine 2,NA
+C2E039,Jester,14,NA,14 to Vine 2,Spiritual Guardians
+C2E039,Yasha,26,NA,26 to Vine 2,NA
+C2E039,Jester,5,NA,5 to Vine 2,Sacred Flame
+C2E039,Jester,38,NA,38 to Abomination,NA
+C2E039,Nott,21,NA,21 to Abomination,NA
+C2E039,Beau,13,NA,13 to Abomination,NA
+C2E039,Nott,11,NA,11 to Abomination,NA
+C2E039,Fjord,10,NA,10 cold to Warden,Hunger of Hadar damage
+C2E039,Fjord,9,NA,9 acid to Warden,Hunger of Hadar damage
+C2E039,Fjord,11,NA,11 cold to Abomination,Hunger of Hadar damage
+C2E039,Fjord,12,NA,12 to Warden,NA
+C2E039,Fjord,22,NA,22 to Warden,1 head pops off
+C2E039,Caleb,16,NA,16 to Warden,NA
+C2E039,Caleb,10,NA,10 to Warden,NA
+C2E039,Caleb,9,NA,9 to Warden,1 head pops off (2 necks cauterized)
+C2E039,Jester,12,NA,12 to Warden,NA
+C2E039,Fjord,9,NA,9 to Warden,NA
+C2E039,Beau,6,NA,6 to Warden,NA
+C2E039,Beau,6,NA,NA,NA
+C2E039,Fjord,16,NA,16 to Warden,NA
+C2E039,Yasha,16,NA,32 to Warden,1 head pops off
+C2E039,Yasha,17,NA,17 to Warden,NA
+C2E039,Beau,5,NA,5 to Warden,NA
+C2E039,Nott,23,NA,23 to Warden,NA
+C2E039,Fjord,30,NA,30 to Warden,1 head pops off
+C2E039,Yasha,18,NA,36 to Warden,1 head pops off
+C2E039,Yasha,16,NA,16 to Warden,NA
+C2E039,Yasha,12,NA,12 to Warden,NA
+C2E039,Nott,20,NA,20 to Abomination,NA
+C2E039,Nott,10,NA,10 to Abomination,NA
+C2E039,Fjord,22,NA,22 to Warden,NA
+C2E039,Yasha,20,NA,20 to Warden,NA
+C2E039,Yasha,10,NA,10 to Warden,Warden dies- HDYWTDT
+C2E40,Caduceus,12,NA,"30 (12 to Broodguard 1 + 12 to Broodguard 2 
++ 6 (12/2) to Pit Master)",Spirit Guardians
+C2E40,Nott,9,NA,9 to Pit Master,NA
+C2E40,Nott,11,NA,11 to Pit Master,NA
+C2E40,Caduceus,19,NA,19 to Pit Master,Spirit Guardians
+C2E40,Yasha,13,NA,13 to Broodguard 2,NA
+C2E40,Yasha,13,NA,13 to Broodguard 2,NA
+C2E40,Nott,8,NA,8 to Broodguard 1,NA
+C2E40,Jester,10,NA,10 Necrotic to Broodguard 1,Toll the Dead
+C2E40,Fjord,9,NA,9 to Broodguard 2,NA
+C2E40,Fjord,11,NA,11 to Broodguard 2,NA
+C2E40,Caduceus,16,NA,16 to Pit Master,Spirit Guardians
+C2E40,Caduceus,15,NA,15 to Broodguard 1,Spirit Guardians
+C2E40,Nott,15,NA,15 to Pit Master,HDYWTDT
+C2E40,Caleb,12,NA,12 to Keg,NA
+C2E41,Beau,5,NA,5 to Guard,NA
+C2E41,Beau,6,NA,6 to Guard,NA
+C2E41,Beau,5,NA,5 to Guard,NA
+C2E41,Caleb,8,NA,8 to Guard,NA
+C2E43,Caleb,17,NA,"101 Fire {16 [8 (17/2) to Vera+ 8 (17/2) to Crew] + 
+85 [17 to Bouldergut + 17 to Crew 
++ 17 to Avantika + 17 to Crew]}",Wall of Fire
+C2E43,Caleb,24,NA,24 Fire to Bouldergut,Wall of Fire
+C2E43,Fjord,18,NA,18 Thunder to Bouldergut,Thunder Step
+C2E43,Yasha,14,NA,14 to Avantika,NA
+C2E43,Caleb,31,NA,"172 Fire {45 [15 (31/2) to Crew + 15 (31/2) to Crew 
++ 15 (31/2) to Ipess] + 124 [31 to Bouldergut 
++ 31 to Crew + 31 to Vera + 31 to Crew] + 3 to Barlgura}","Fireball; 4 Crew, Vera, and Barlgura die"
+C2E044,Jester,17,NA,17 radiant to Merrow 1,NA
+C2E044,Beau,10,NA,10 bludgeoning to Merrow 1,NA
+C2E044,Fjord,12,NA,12 force to Merrow SP,NA
+C2E044,Fjord,11,NA,11 force to Merrow SP,NA
+C2E044,Yasha,13,NA,13 slashing to Merrow 1,NA
+C2E044,Beau,11,NA,11 bludgeoning to Merrow 1,NA
+C2E044,Yasha,10,NA,10 slashing to Merrow 1,NA
+C2E044,Yasha,14,NA,14 slashing to Merrow 3,NA
+C2E044,Jester,12,NA,12 radiant to Merrow SP,NA
+C2E044,Beau,9,NA,9 bludgeoning to Merrow SP,NA
+C2E044,Beau,9,NA,9 bludgeoning to Merrow SP,NA
+C2E044,Yasha,14,NA,14 slashing to Merrow 3,NA
+C2E044,Nott,11,NA,11 piercing to Merrow SP,NA
+C2E044,Caleb,19,NA,19 force to Merrow SP,Magic Missile
+C2E044,Caduceus,17,NA,NA,"Prayer of Healing, Caleb, Beau, and Fjord heal 17 points"
+C2E044,Fjord,26,NA,26 force to seaweed,NA
+C2E044,Jester,4,NA,4 radiant to seaweed,Sacred Flame
+C2E044,Caduceus,7,NA,7 radiant to seaweed,Sacred Flame
+C2E044,Fjord,18,NA,18 force to Dashilla,NA
+C2E044,Fjord,18,NA,18 force to Dashilla,NA
+C2E044,Nott,33,NA,33 piercing to Dashilla,NA
+C2E044,Beau,9,NA,9 bludgeoning to Dashilla,NA
+C2E044,Jester,13,NA,13 radiant to Dashilla,Spirit Guardians damage
+C2E044,Jester,27,NA,27 force to Dashilla,NA
+C2E044,Caduceus,9,NA,9 radiant to Dashilla,NA
+C2E044,Jester,13,NA,13 radiant to Dashilla,Spirit Guardians damage
+C2E044,Fjord,10,NA,10 force to Dashilla,NA
+C2E044,Fjord,16,NA,16 force to Dashilla,NA
+C2E044,Jester,32,NA,32 radiant to Dashilla,NA
+C2E044,Nott,20,NA,20 piercing to Dashilla,NA
+C2E044,Jester,5,NA,2 (5/2) to Dashilla,NA
+C2E044,Jester,15,NA,15 cold to Dashilla,Hellish Rebuke
+C2E044,Fjord,15,NA,19 force to Dashilla,NA
+C2E044,Fjord,9,NA,NA,NA
+C2E044,Beau,5,NA,5 to Ghost,NA
+C2E044,Beau,5,NA,5 to Ghost,NA
+C2E044,Beau,5,NA,5 to Ghost,NA
+C2E044,Caduceus,10,NA,10 radiant to Ghost,Sacred Flame
+C2E044,Nott,29,NA,29 piercing to Ghost,NA
+C2E045,Jester,20,NA,20 Necrotic to Mimic,NA
+C2E045,Caduceus,14,NA,14 Radian to Mimic,Sacred Flame
+C2E045,Twiggy,19,NA,19 to Mimic,NA
+C2E045,Nott,28,NA,28 to Mimic,HDYWTDT
+C2E045,Summoned Creature,8,NA,8 Fire to Dragon,Fire Elemental
+C2E045,Summoned Creature,10,NA,10 Fire to Dragon,Fire Elemental
+C2E045,Fjord,16,NA,16 to Dragon,NA
+C2E045,Fjord,12,NA,12 to Dragon,NA
+C2E045,Summoned Creature,9,NA,9 Fire (1 to Weasel!Dragon + 8 to Dragon),Fire Elemental
+C2E045,Summoned Creature,11,NA,11 to Dragon,Fire Elemental
+C2E045,Summoned Creature,6,NA,6 to Dragon,Fire Elemental
+C2E045,Summoned Creature,13,NA,13 Fire to Dragon,Fire Elemental
+C2E045,Summoned Creature,6,NA,6 Fire to Dragon,Fire Elemental
+C2E045,Fjord,7,NA,7 to Dragon,NA
+C2E045,Fjord,10,NA,10 to Dragon,NA
+C2E045,Twiggy,27,NA,27 to Dragon,NA
+C2E045,Nott,18,NA,18 to Dragon,Arrow SA Damage
+C2E045,Nott,11,NA,11 Fire to Dragon,Explosive Damage
+C2E045,Nott,2,NA,2 to Nott,NA
+C2E045,Twiggy,20,NA,20 to Dragon,NA
+C2E045,Twiggy,51,NA,51 to Dragon,HDYWTDT
+C2E046,Yasha,30,NA,30 to Lightning Creature,NA
+C2E046,Yasha,19,NA,19 to Lightning Creature,NA
+C2E046,Yasha,10,NA,10 to Lightning Creature,NA
+C2E046,Yasha,10,NA,10 to Lightning Creature,NA
+C2E046,Fjord,21,NA,21 to Sea Spawn,NA
+C2E046,Caduceus,11,NA,11 to Sea Spawn,NA
+C2E046,Caleb,13,NA,13 to Sea Spawn,NA
+C2E046,Jester,14,NA,14 to Sea Spawn,NA
+C2E046,Beau,5,NA,5 to Sea Spawn,NA
+C2E046,Yasha,20,NA,20 to Sea Spawn,NA
+C2E046,Caduceus,11,NA,11 to Sea Spawn,Sacred Flame
+C2E046,Nott,27,NA,27 to Sea Spawn,NA
+C2E046,Nott,8,NA,8 to Sea Spawn,NA
+C2E046,Beau,8,NA,8 to Sea Spawn,NA
+C2E046,Beau,12,NA,12 to Sea Spawn,NA
+C2E046,Beau,10,NA,10 to Sea Spawn,NA
+C2E046,Beau,6,NA,6 to Sea Spawn,NA
+C2E046,Fjord,10,NA,10 to Sea Spawn,NA
+C2E046,Fjord,8,NA,8 to Sea Spawn,NA
+C2E046,Fjord,6,NA,6 to Sea Spawn,NA
+C2E046,Caleb,12,NA,12 to Sea Spawn,Magic Missile
+C2E046,Jester,22,NA,22 to Sea Spawn,Toll the Dead
+C2E047,Nott,25,NA,25 to Deep Scion,NA
+C2E047,Fjord,10,NA,10 to Deep Scion,NA
+C2E047,Yasha,15,NA,15 to Deep Scion,NA
+C2E047,Yasha,10,NA,10 to Deep Scion,NA
+C2E047,Caleb,12,NA,12 to Deep Scion,Magic Missile (2nd)
+C2E047,Fjord,14,NA,14 to Chuul 1,NA
+C2E047,Fjord,13,NA,13 to Chuul 1,NA
+C2E047,Jester,12,NA,12 to Chuul,Sacred Flame
+C2E047,Beau,6,NA,6 to Chuul 4,NA
+C2E047,Yasha,34,NA,34 to Chuul 2,NA
+C2E047,Yasha,12,NA,12 to Chuul 2,NA
+C2E047,Nott,3,NA,3 to Chuul 4,Phantasmal Force
+C2E047,Nott,33,NA,33 to Chuul 1,With Fury of the Small
+C2E047,Nott,10,NA,10 to Chuul 1,NA
+C2E047,Beau,9,NA,9 to Chuul 1,NA
+C2E047,Caleb,22,NA,22 to Chuul 4,Magic Missile (4th)
+C2E047,Fjord,11,NA,11 to Chuul 1,NA
+C2E047,Fjord,7,NA,7 to Chuul 1,NA
+C2E047,Jester,12,NA,12 Necrotic to Chuul 3,Toll the Dead
+C2E047,Caduceus,14,NA,14 to Chuul 3,Shield of Retribution
+C2E047,Yasha,17,NA,38 (17x2) to Chuul 2,HDYWTDT
+C2E047,Beau,9,NA,9 to Chuul 4,NA
+C2E047,Beau,6,NA,6 to Chuul 1,NA
+C2E047,Beau,10,NA,NA,NA
+C2E047,Beau,6,NA,6 to Chuul 1,NA
+C2E047,Nott,22,NA,22 to Chuul 1,HDYWTDT
+C2E047,Nott,7,NA,7 to Chuul 4,NA
+C2E047,Nott,7,NA,7 to Chuul 4,NA
+C2E047,Nott,5,NA,5 Psychic to Chuul 4,Phantasmal Force
+C2E047,Caleb,15,NA,15 to Chuul 3,Magic Missile (3rd)
+C2E047,Fjord,20,NA,10 (20/2) to Chuul 4,Thunder Step
+C2E047,Jester,12,NA,12 to Chuul 4,HDYWTDT
+C2E047,Jester,14,NA,14 Necrotic to Chuul 3,NA
+C2E047,Caduceus,7,NA,7 Radian to Chuul 3,Sacred Flame
+C2E047,Beau,7,NA,7 to Chuul 3,NA
+C2E047,Nott,23,NA,23 to Chuul 3,HDYWTDT
+C2E047,Nott,30,NA,30 to Salty Criss,NA
+C2E050,Jester,19,NA,19 Cold to Roper 2,Hellish Rebuke (2nd)
+C2E050,Beau,7,NA,7 to Roper 2,NA
+C2E050,Fjord,15,NA,15 to Roper 2,NA
+C2E050,Yasha,29,NA,29 to Roper 1,NA
+C2E050,Caduceus,10,NA,10 to Roper 2,NA
+C2E050,Nott,30,NA,30 to Roper 2,With Fury of the Small
+C2E050,Beau,7,NA,7 to Roper 2,NA
+C2E050,Beau,11,NA,11 to Roper 2,NA
+C2E050,Beau,11,NA,11 to Roper 2,NA
+C2E050,Fjord,14,NA,14 (10 + 4 Necrotic) to Roper 2,NA
+C2E050,Fjord,19,NA,19 (14 + 5 Necrotic) to Roper 2,HDYWTDT
+C2E050,Caduceus,10,NA,10 to Roper 1,NA
+C2E050,Fjord,16,NA,16 to Roper 1,NA
+C2E050,Nott,12,NA,12 to Roper 1,NA
+C2E050,Jester,13,NA,13 to Roper 1,NA
+C2E050,Caleb,18,NA,18 to Roper 1,NA
+C2E050,Fjord,19,NA,19 (15 + 4 Necrotic) to Roper 1,NA
+C2E050,Caduceus,15,NA,15 Radiant to Roper 1,Sacred Flame
+C2E050,Fjord,13,NA,13 to Roper 1,NA
+C2E050,Fjord,13,NA,13 to Roper 1,HDYWTDT (Mighty Nein)
+C2E050,Spurt,7,NA,7 Poison to Nott,NA
+C2E050,Fjord,22,NA,NA,NA
+C2E050,Jester,36,NA,36 Necrotic to Fire Giant,NA
+C2E051,Beau,9,NA,9 to Warrior,NA
+C2E051,Beau,9,NA,9 to Shadow Warrior,NA
+C2E051,Beau,6,NA,6 to Warrior,NA
+C2E051,Caduceus,22,NA,22 to Warrior,NA
+C2E051,Yasha,18,NA,18 to Warrior,NA
+C2E051,Beau,10,NA,10 to Warrior,NA
+C2E051,Caleb,25,NA,"25 to Gnoll, 25 to Gnoll, 25 to Gnoll, 12 (25/2) to Gnoll, 12 (25/2) to Mage",Fireball
+C2E051,Nott,28,NA,28 to Mage,With Fury of the Small
+C2E051,Caduceus,9,NA,9 to Warrior,NA
+C2E051,Summoned Creature,10,NA,10 to Mage,Barlgura
+C2E051,Summoned Creature,12,NA,12 to Mage,Barlgura
+C2E051,Fjord,11,NA,11 to Gnoll,NA
+C2E051,Fjord,8,NA,8 to Gnoll,NA
+C2E051,Jester,13,NA,13 to Warrior,NA
+C2E051,Nott,27,NA,27 to Mage,NA
+C2E051,Yasha,10,NA,20 (10x2) to Warrior,NA
+C2E051,Yasha,19,NA,19 to Warrior,NA
+C2E051,Yasha,15,NA,15 to Warrior,NA
+C2E051,Jester,16,NA,8 (16/2) Cold to Warrior,Hellish Rebuke
+C2E051,Beau,6,NA,6 to Warrior,NA
+C2E051,Beau,13,NA,13 to Warrior,NA
+C2E051,Caleb,10,NA,10 Fire to Mage,NA
+C2E052,Nott,31,NA,31 to Shoosuva 1,NA
+C2E052,Yasha,15,NA,15 to Shoosuva 1,NA
+C2E052,Beau,8,NA,8 to Shoosuva 1,NA
+C2E052,Beau,7,NA,7 to Shoosuva 1,NA
+C2E052,Caduceus,7,NA,7 to Shoosuva 1,NA
+C2E052,Nott,37,NA,37 to Shoosuva 1,With Fury of the Small
+C2E052,Beau,13,NA,13 to Shoosuva 1,NA
+C2E052,Beau,10,NA,10 to Shoosuva 1,NA
+C2E052,Beau,10,NA,10 to Shoosuva 1,Unconscious
+C2E052,Fjord,28,NA,14 (28/2) to Shoosuva 3,Thunder Step
+C2E052,Caduceus,14,NA,14 to Rat Swarm 2,Shield of Retribution
+C2E052,Jester,27,NA,27 Radiant to Shoosuva 2,NA
+C2E052,Nott,8,NA,8 to Shoosvua 2,NA
+C2E052,Yasha,22,NA,22 to Shoosuva 2,NA
+C2E052,Yasha,14,NA,14 to Shoosuva 2,NA
+C2E052,Beau,7,NA,7 to Shoosuva 2,NA
+C2E052,Beau,10,NA,10 to Shoosuva 2,NA
+C2E052,Beau,8,NA,8 to Shoosuva 2,NA
+C2E052,Beau,8,NA,8 to Shoosuva 2,NA
+C2E052,Fjord,15,NA,15 Force to Shoosuva 3,NA
+C2E052,Caduceus,14,NA,7 (14/2) Piercing to Rat Swarm 1,NA
+C2E052,Jester,31,NA,31 to Shoosuva 2,HDYWTDT
+C2E052,Nott,8,NA,8 to Rat Swarm 1,NA
+C2E052,Beau,11,NA,11 to Rat Swarm 1,HDYWTDT
+C2E053,Beau,8,NA,8 bludgeoning to Dairon,NA
+C2E053,Jester,17,NA,17 Cold to Ogre,Hellish Rebuke
+C2E053,Beau,6,NA,6 bludgeoning to Ogre,NA
+C2E053,Beau,9,NA,9 bludgeoning to Dairon,NA
+C2E053,Beau,11,NA,11 bludgeoning to Dairon,NA
+C2E053,Beau,9,NA,9 bludgeoning to Dairon,NA
+C2E053,Jester,17,NA,17 radiant to Dairon,Spirit Guardians
+C2E053,Jester,13,NA,13 radiant to Ogre,Spirit Guardians
+C2E053,Beau,10,NA,10 bludgeoning to Dairon,NA
+C2E053,Beau,9,NA,9 bludgeoning to Dairon,NA
+C2E053,Beau,10,NA,10 bludgeoning to Dairon,NA
+C2E054,Beau,NA,NA,6 to Dairon,NA
+C2E054,Nott,26,NA,26 to Succubus,NA
+C2E054,Jester,26,NA,26 Necrotic to Incubus,NA
+C2E054,Beau,10,NA,10 to Succubus,NA
+C2E054,Beau,6,NA,6 to Succubus,NA
+C2E054,Beau,8,NA,8 to Succubus,NA
+C2E054,Beau,10,NA,10 to Succubus,NA
+C2E054,Caleb,10,NA,10 Acid to Incubus,NA
+C2E055,Beau,9,NA,9 to Quasit 1,NA
+C2E055,Beau,7,NA,7 to Quasit 1,Quasit 1 dies
+C2E055,Caleb,7,NA,3 (7/2) to Quasit 3,NA
+C2E055,Beau,11,NA,11 to Quasit 3,Quasit 3 dies
+C2E055,Fjord,11,NA,11 to Quasit 2,NA
+C2E055,Caleb,34,NA,NA,Fireball
+C2E055,Caleb,15,NA,NA,Wall of Fire
+C2E055,Caleb,28,NA,NA,Wall of Fire
+C2E055,Yasha,14,NA,14 to Caleb,NA
+C2E055,Fjord,6,NA,6 to Quasit,NA
+C2E055,Fjord,6,NA,6 to Quasit,Quasit dies
+C2E055,Yasha,17,NA,17 to Quasit,Quasit dies
+C2E055,Yasha,11,NA,17 to Quasit,Quasit dies
+C2E055,Caleb,5,NA,5 Acid to Minotaur,NA
+C2E055,Beau,9,NA,9 to Succubus,NA
+C2E055,Beau,9,NA,9 to Succubus,NA
+C2E055,Beau,7,NA,7 to Succubus,NA
+C2E055,Fjord,22,NA,22 to Minotaur,Thunder Step
+C2E055,Nott,31,NA,31 to Succubus,Succubus dies- HDYWTDT
+C2E055,Nott,10,NA,10 to Incubus,NA
+C2E055,Jester,19,NA,4 (19/2/2) to Minotaur,Hellish Rebuke
+C2E055,Caleb,8,NA,4 (8/2) to Minotaur,NA
+C2E055,Caduceus,11,NA,11 to Minotaur,Sacred Flame
+C2E055,Beau,6,NA,6 to Minotaur,NA
+C2E055,Beau,9,NA,9 to Minotaur,NA
+C2E055,Nott,21,NA,21 to Minotaur,NA
+C2E055,Jester,20,NA,20 to Minotaur,NA
+C2E055,Caduceus,19,NA,19 to Minotaur,Sacred Flame
+C2E055,Beau,6,NA,6 to Minotaur,NA
+C2E055,Beau,7,NA,7 to Minotaur,NA
+C2E055,Yasha,20,NA,20 to Caleb,NA
+C2E055,Nott,20,NA,10 (20/2) to Yasha,NA
+C2E055,Nott,9,NA,4 (9/2) to Yasha,NA
+C2E055,Caduceus,14,NA,14 to Minotaur,Sacred Flame
+C2E055,Fjord,7,NA,7 to Yasha,NA
+C2E055,Yasha,17,NA,17 to Caleb,Caleb is unconscious
+C2E055,Yasha,16,NA,16 to Caduceus,Beacon of Hope is dispelled
+C2E055,Beau,9,NA,9 to Minotaur,NA
+C2E055,Beau,8,NA,8 to Minotaur,NA
+C2E055,Beau,7,NA,7 to Minotaur,NA
+C2E055,Fjord,9,NA,9 to Minotaur,NA
+C2E055,Yasha,24,NA,24 to Caduceus,Caduceus is unconscious
+C2E055,Jester,6,NA,6 to Minotaur,NA
+C2E055,Beau,7,NA,3 (7/2) to Yasha,NA
+C2E055,Beau,8,NA,3 (7/2) to Yasha,NA
+C2E055,Beau,10,NA,3 (7/2) to Yasha,NA
+C2E055,Yasha,21,NA,21 to Minotaur,NA
+C2E055,Nott,25,NA,25 to Minotaur,NA
+C2E055,Nott,8,NA,8 to Minotaur,NA
+C2E055,Beau,6,NA,6 to Minotaur,NA
+C2E055,Beau,10,NA,10 to Minotaur,Minotaur dies- HDYWTDT
+C2E055,Jester,6,NA,6 to Incubus,NA
+C2E055,Jester,8,NA,8 to Incubus,NA
+C2E055,Nott,20,NA,20 to Incubus,"Incubus dies- HDYWTDT, Caduceus is dead"
+C2E059,Caleb,23,NA,23 Force to Door,NA
+C2E059,Nott,35,NA,35 to Giant 3,SA with Fury of the Small
+C2E059,Nott,11,NA,11 to Giant 3,NA
+C2E059,Beau,7,NA,7 to Giant 1,NA
+C2E059,Beau,8,NA,8 to Giant 1,NA
+C2E059,Beau,19,NA,19 to Giant 1,NA
+C2E059,Yasha,16,NA,16 to Giant 1,NA
+C2E059,Yasha,22,NA,22 to Giant 1,NA
+C2E059,Caduceus,19,NA,19 to Giant 1,Sacred Flame
+C2E059,Caleb,20,NA,20 to Door,NA
+C2E059,Nott,3,NA,3 to Giant 2,Phantasmal Force
+C2E059,Caduceus,18,NA,9 to Babau 2,Shield of Retribution
+C2E059,Caleb,20,NA,"5 to Babau 1 and 3, 10 to Babau 2","Wall of Fire, Babau are resistant"
+C2E059,Fjord,12,NA,12 to Babau 2,NA
+C2E059,Fjord,9,NA,9 to Babau 3,NA
+C2E059,Nott,24,NA,NA,Sneak Attack
+C2E059,Yasha,26,NA,13 to Babau 2,Halved by Weakening Gaze
+C2E059,Yasha,22,NA,11 to Babau 2,"Halved by Weakening Gaze, Babau 2 dies"
+C2E059,Caleb,26,NA,13 to Beau,Wall of Fire
+C2E059,Beau,45,NA,45 to Babau 3,with Holy Weapon
+C2E059,Beau,42,NA,42 to Babau 1,with Holy Weapon
+C2E059,Jester,12,NA,12 to Babau 1 and 3,Spirit Guardians
+C2E059,Caduceus,19,NA,19 to Babau 3,Sacred Flame
+C2E059,Caleb,30,NA,15 to Babau 1,Wall of Fire
+C2E059,Caleb,3,NA,3 to Chasme,NA
+C2E059,Caduceus,15,NA,7 to Babau 3,"Sacred Flame, Babau 3 dies"
+C2E059,Nott,28,NA,28 to Babau 1,"with SA, Babau 1 dies"
+C2E059,Yasha,21,NA,10 to Chasme,Halved by Weakened Gaze
+C2E059,Yasha,16,NA,8 to Chasme,Halved by Weakened Gaze
+C2E059,Beau,11,NA,1 to Jester,Jester is awake
+C2E060,Jester,15,NA,15 Cold to Dybbuk 1 (Stone Giant 1),Hellish Rebuke
+C2E060,Nott,25,NA,25 to Dybbuk 1 (Stone Giant 1),NA
+C2E060,Nott,9,NA,9 to Dybbuk 1 (Stone Giant 1),NA
+C2E060,Jester,31,NA,31 Necrotic to Dybbuk 1 (Stone Giant 1),NA
+C2E060,Caleb,9,NA,4 (9/2) Fire to Dybbuk 1 (Stone Giant 1),Flaming Sphere (3rd)
+C2E060,Yasha,23,NA,46 (23x2) to Dybbuk 1 (Stone Giant 1),"With Path to the Grave, HDYWTDT"
+C2E060,Yasha,14,NA,14 to Dybbuk 1,NA
+C2E060,Fjord,12,NA,12 Force to Dybbuk 1,NA
+C2E060,Caleb,12,NA,12 Fire to Goblin,Flaming Sphere
+C2E060,Nott,23,NA,23 to Chasme,NA
+C2E060,Yasha,21,NA,21 to Chasme,NA
+C2E060,Beau,21,NA,21 Lightning/Radiant to Chasme,With Holy Weapon and with Maelstrom Gloves
+C2E060,Beau,21,NA,21 Lightning/Radiant to Chasme,With Holy Weapon and with Maelstrom Gloves
+C2E060,Fjord,15,NA,15 Force to Chasme,NA
+C2E060,Yasha,17,NA,17 to Dybbuk 2,NA
+C2E060,Caleb,6,NA,3 (6/2) Acid to Dybbuk 2,NA
+C2E060,Beau,18,NA,18 Lightning/Radiant to Dybbuk 2,With Malestrom Gloves and Holy Weapon
+C2E060,Beau,24,NA,24 Lightning/Radiant to Dybbuk 2,"With Malestrom Gloves and Holy Weapon, HDYWTDT"
+C2E060,Nott,7,NA,7 to Abyssal Anchor,Pistol
+C2E060,Nott,14,NA,14 to Dybbuk 1 (Stone Giant 2),NA
+C2E060,Jester,21,NA,21 Radiant to Dybbuk 1 (Stone Giant 2),NA
+C2E060,Caleb,15,NA,15 Force to Dybbuk 1 (Stone Giant 2),Cat's Ire
+C2E060,Fjord,15,NA,15 Force to Dybbuk 1 (Stone Giant 2),NA
+C2E060,Fjord,12,NA,12 Force to Dybbuk 1 (Stone Giant 2),NA
+C2E060,Nott,11,NA,11 to Dybbuk 1 (Stone Giant 2),NA
+C2E060,Caleb,15,NA,15 Force to Dybbuk 1 (Stone Giant 2),Cat's Ire
+C2E060,Caleb,25,NA,25 Fire to Dybbuk 1 (Stone Giant 2),HDYWTDT
+C2E060,Fjord,9,NA,9 Force to Dybbuk 1,NA
+C2E060,Fjord,8,NA,8 Force to Dybbuk 1,HDYWTDT
+C2E063,Caleb,20,NA,20 to Horse,HDYWTDT
+C2E063,Fjord,6,NA,6 Force to Dragonborn,NA
+C2E063,Fjord,14,NA,14 Force to Dragonborn,NA
+C2E063,Nott,25,NA,12 (25/2) to Yasha,NA
+C2E063,Caleb,18,NA,18 to Hobgoblin,Magic Missile (3rd)
+C2E063,Nott,12,NA,6 (12/2) to Yasha,NA
+C2E063,Nott,9,NA,4 (9/2) to Yasha,NA
+C2E063,Beau,11,NA,11 to Hobgoblin,NA
+C2E063,Beau,7,NA,7 to Hobgoblin,NA
+C2E063,Caleb,25,NA,25 to Hobgoblin,Magic Missile (3rd)
+C2E063,Yasha,24,NA,24 to Hobgoblin,NA
+C2E063,Caduceus,14,NA,14 Radiant to Hobgoblin,Sacred Flame
+C2E063,Caleb,26,NA,26 to Hobgoblin,Magic Missile (4th)
+C2E063,Yasha,25,NA,25 to Hobgoblin,NA
+C2E063,Yasha,4,NA,4 to Hobgoblin,NA
+C2E063,Yasha,13,NA,13 to Hobgoblin,NA
+C2E063,Caduceus,18,NA,18 Radiant to Hobgoblin,HDYWTDT
+C2E064,Beau,12,NA,6 (12/2) to The Lost 1,NA
+C2E064,Beau,10,NA,5 (10/2) to The Lost 1,NA
+C2E064,Beau,9,NA,4 (9/2) to The Lost 1,NA
+C2E064,Beau,10,NA,5 (10/2) to The Lost 1,NA
+C2E064,Jester,23,NA,23 Radiant to The Lost 1,NA
+C2E064,Fjord,13,NA,13 Force to The Lost 2,NA
+C2E064,Clarabelle,7,NA,3 (7/2) to Swarm of Bats,NA
+C2E064,Yarnball,11,NA,5 (11/2) to The Lost 2,NA
+C2E064,Jannik,6,NA,3 (6/2) to The Lost 3,NA
+C2E064,Nott,30,NA,30 to The Lost 2,With Fury of the Small
+C2E064,Nott,10,NA,10 to The Lost 2,NA
+C2E064,Beau,7,NA,7 to The Lost 1,NA
+C2E064,Beau,12,NA,12 to The Lost 1,NA
+C2E064,Beau,11,NA,11 to The Lost 1,NA
+C2E064,Beau,10,NA,10 to The Lost 1,HDYWTDT
+C2E064,Yasha,15,NA,15 to The Lost 2,NA
+C2E064,Yasha,12,NA,12 to The Lost 2,NA
+C2E064,Jester,23,NA,23 Radiant to The Lost 2,HDYWTDT
+C2E064,Fjord,11,NA,11 Force to The Lost 3,NA
+C2E064,Fjord,13,NA,13 Force to The Lost 3,NA
+C2E064,Beau,11,NA,11 to The Lost 3,NA
+C2E064,Jannik,9,NA,9 to The Lost 3,NA
+C2E064,Caleb,25,NA,25 Force to The Lost 3,Magic Missile (5th)
+C2E064,Nott,24,NA,24 to The Lost 4,NA
+C2E064,Nott,18,NA,18 to The Lost 4,NA
+C2E064,Nott,4,NA,4 to Nott,NA
+C2E064,Beau,16,NA,16 to The Lost 3,NA
+C2E064,Beau,12,NA,12 to The Lost 3,HDYWTDT
+C2E064,Beau,12,NA,6 (12/2) to Swarm of Bats,NA
+C2E064,Yasha,16,NA,16 to The Lost 4,NA
+C2E064,Jester,12,NA,12 Force to The Lost 4,HDYWTDT
+C2E064,Fjord,6,NA,6 Force to Swarm of Bats,NA
+C2E064,Fjord,14,NA,14 Force to Swarm of Bats,HDYWTDT
+C2E065,Fjord,11,NA,11 Force to Gloomstalker 2,NA
+C2E065,Jester,17,NA,32 (17x2) to Gloomstalker 2,NA
+C2E065,Fjord,9,NA,9 Force to Gloomstalker 1,NA
+C2E065,Fjord,10,NA,10 Force to Gloomstalker 1,Savage Attack
+C2E065,Nott,4,NA,4 to Gloomstalker 1,Phantasmal Force
+C2E065,Yasha,11,NA,11 to Gloomstalker 1,NA
+C2E065,Caduceus,15,NA,"30 (15x) Radiant to Gloomstalker 3, 15 [(15/2)x2] to Gloomstalker 2","Spirit Guardians, HDYWTDT to Gloomstalker 2"
+C2E065,Yasha,19,NA,19 to Gloomstalker 1,NA
+C2E065,Nott,6,NA,6 to Gloomstalker 1,Phantasmal Force
+C2E065,Nott,30,NA,30 to Gloomstalker 1,HDYWTDT
+C2E065,Jester,14,NA,28 (14x2) Radiant to Gloomstalker 3,NA
+C2E065,Caduceus,17,NA,17 [(17/2)x2] Radiant to Gloomstalker 3,"Sacred Flame, HDYWTDT"
+C2E065,Jester,26,NA,52 (26x2) Radiant to Gloomstalker 4,NA
+C2E066,Beau,11,NA,11 to Baby Roc,NA
+C2E066,Caleb,26,NA,"26 Fire to 4 Orcs, 13 (26/2) Fire to Other Orcs",Fireball
+C2E066,Caleb,23,NA,"23 Fire to 2 orcs, 23 to 2 wargs",Fireball
+C2E067,Beau,8,NA,8 to Dire Spider,NA
+C2E067,Yasha,7,NA,7 to Spider 1,NA
+C2E067,Caduceus,19,NA,19 to Spider 4,NA
+C2E067,Nott,68,NA,68 to Dire Spider,NA
+C2E067,Nott,8,NA,8 to Dire Spider,HDYWTDT
+C2E067,Nott,8,NA,8 to Spider 9,NA
+C2E067,Fjord,9,NA,9 to Spider 5,NA
+C2E067,Fjord,14,NA,14 to Spider 5,NA
+C2E067,Yasha,15,NA,15 to Spider 1,NA
+C2E067,Yasha,14,NA,14 to Spider 2,NA
+C2E067,Jester,16,NA,16 to Spider 3,NA
+C2E067,Beau,14,NA,14 to Spider 7,NA
+C2E067,Beau,7,NA,7 to Spider 8,NA
+C2E067,Beau,13,NA,13 tp Spider 8,NA
+C2E067,Beau,10,NA,10 to Spider 9,NA
+C2E067,Caleb,8,NA,8 to Spider 9,NA
+C2E067,Nott,30,NA,30 to Spider 6,NA
+C2E067,Caleb,12,NA,12 Fire to Egg Sac,NA
+C2E067,Caduceus,15,NA,15 to Mist Elemental,NA
+C2E067,Nott,11,NA,11 to Mist Elemental,NA
+C2E067,Fjord,7,NA,7 force to Lightning Crystal,NA
+C2E067,Fjord,13,NA,13 to Door,NA
+C2E067,Fjord,7,NA,7 to Door,NA
+C2E067,Caleb,5,NA,5 to Mist Elemental,NA
+C2E067,Jester,6,NA,6 to Mist Elemental,NA
+C2E067,Caleb,22,NA,22 to Mist Elemental,NA
+C2E067,Yasha,18,NA,18 to Zomibie 5,NA
+C2E067,Yasha,12,NA,12 to Zombie 5,NA
+C2E067,Beau,13,NA,13 to Zombie 5,NA
+C2E067,Beau,9,NA,9 to Zombie 5,NA
+C2E067,Caduceus,12,NA,12 Radiant to Zombie 5,Gold Heart
+C2E067,Caleb,29,NA,29 to Unknown Number of Zombies,Fireball
+C2E067,Fjord,13,NA,13 to Zombie 16,NA
+C2E067,Fjord,13,NA,13 to Zombie 16,NA
+C2E067,Yasha,8,NA,8 to Zombie 16,NA
+C2E067,Yasha,11,NA,11 to Zombie 17,NA
+C2E067,Beau,11,NA,11 to Zombie 18,NA
+C2E067,Beau,7,NA,7 to Zombie 18,NA
+C2E067,Beau,7,NA,7 to Zombie 18,NA
+C2E067,Caduceus,17,NA,17 Radiant to Zombie 19,Sacred Flame
+C2E067,Caleb,21,NA,21 to Zombie 20,NA
+C2E067,Jester,14,NA,"14 to Zombies 19-22, 7 to Zombie 23",Spirit Guardians
+C2E067,Jester,7,NA,7 to Zombies 24-26,Spirit Guardians
+C2E067,Nott,25,NA,25 to Zombie 21,NA
+C2E067,Fjord,8,NA,8 to Zombie 27,NA
+C2E067,Jester,12,NA,12 to Zombie 22,Sacred Flame
+C2E067,Yasha,22,NA,22 to Zombie 17,NA
+C2E067,Yasha,12,NA,12 to Zombie 27,Gold heart
+C2E067,Caleb,14,NA,14 to Zombie 22,NA
+C2E067,Jester,8,NA,"8 to Zombies 18, 22-26",Spirit Guardians
+C2E067,Jester,15,NA,15 to Zombies 28-30,Spirit Guardians
+C2E068,Nott,10,NA,10 piercing to Rope,NA
+C2E068,Fjord,8,NA,8 slashing to Caduceus,NA
+C2E068,Nott,10,NA,10 slashing to Jester,NA
+C2E068,Yasha,17,NA,17 to Doppelganger Yasha,NA
+C2E068,Yasha,11,NA,17 to Doppelganger Yasha,NA
+C2E068,Yasha,27,NA,27 to Doppelganger Yasha,HDYWTDT
+C2E068,Yasha,14,NA,14 to Doppelganger Fjord,NA
+C2E068,Caduceus,19,NA,19 to Doppelganger Caduceus,NA
+C2E068,Caduceus,14,NA,14 Force to Doppelganger Caduceus,NA
+C2E068,Fjord,8,NA,8 to Doppelganger Caleb,NA
+C2E068,Fjord,12,NA,12 to Doppelganger Caleb,NA
+C2E068,Yasha,16,NA,16 to Doppelganger Caleb,NA
+C2E068,Yasha,12,NA,12 to Doppelganger Caleb,NA
+C2E068,Caduceus,10,NA,5 to Doppelganger Caleb and 5 to Doppelganger Fjord,Spirit Guardians
+C2E068,Caduceus,16,NA,16 to Doppelganger Caduceus,Spirit Guardians
+C2E069,Beau,9,NA,4 Lighting to Obann,NA
+C2E069,Jester,11,NA,11 Force to Obann,NA
+C2E069,Fjord,14,NA,14 Force to The Laughing Hand,NA
+C2E069,Yasha,17,NA,17 to The Laughing Hand,NA
+C2E069,Yasha,12,NA,12 to The Laughing Hand,NA
+C2E069,Summoned Creature,10,NA,5 to The Laughing Hand,NA
+C2E069,Summoned Creature,9,NA,4 to The Laughing Hand,NA
+C2E069,Beau,8,NA,4 Lightning to Obann,NA
+C2E069,Beau,10,NA,5 Lightning to Obann,NA
+C2E069,Beau,8,NA,4 to The Laughing Hand,NA
+C2E069,Caleb,20,NA,10 to Shadow Hound 3,NA
+C2E069,Nott,40,NA,40 to Obann,with Fury of the Small
+C2E069,Nott,10,NA,10 to Obann,NA
+C2E069,Fjord,16,NA,16 to Obann,NA
+C2E069,Fjord,18,NA,18 to Obann,NA
+C2E069,Yasha,21,NA,21 to The Laughing Hand,NA
+C2E069,Summoned Creature,24,NA,12 to The Laughing Hand,NA
+C2E069,Summoned Creature,14,NA,7 to The Laughing Hand,NA
+C2E069,Beau,8,NA,4 Lightning to Obann,NA
+C2E069,Beau,7,NA,7 Radiant to Obann,Holy Weapon
+C2E069,Beau,19,NA,12 to Obann,with Holy Weapon
+C2E069,Beau,11,NA,5 Lightning to Obann,NA
+C2E069,Beau,6,NA,6 Radiant to Obann,Holy Weapon
+C2E069,Beau,9,NA,4 Lightning to Obann,NA
+C2E069,Beau,7,NA,7 Radiant to Obann,Holy Weapon
+C2E069,Beau,8,NA,4 Lightning to Obann,NA
+C2E069,Beau,7,NA,7 Radiant to Obann,Holy Weapon
+C2E069,Jester,19,NA,19 Force to Shadow Hound 1,NA
+C2E069,Nott,29,NA,29 to Obann,NA
+C2E069,Fjord,12,NA,12 to Obann,HDYWTDT
+C2E069,Fjord,41,NA,"41 to Shadow Hound 1 and 2, 20 to Yasha","Thunder Step, Shadow Hound 1 dies"
+C2E069,Yasha,10,NA,5 to Nott (Uncanny Dodge),NA
+C2E069,Caleb,19,NA,19 to Shadow Hound 3,As Giant Ape
+C2E069,Fjord,12,NA,12 to Shadow Hound 3,Shadow Hound 3 dies
+C2E069,Yasha,20,NA,20 to Ape!Caleb,NA
+C2E069,Yasha,11,NA,11 to Ape!Caleb,NA
+C2E069,Fjord,14,NA,14 to Shadow Hound 2,Shadow Hound 2 dies
+C2E069,Fjord,12,NA,12 to The Laughing Hand,NA
+C2E069,Yasha,43,NA,43 to Fjord,Fjord uses Relentless Edurance; Fjord is at 1 HP
+C2E069,Caleb,24,NA,"12 Fire to The Laughin Hand, 24 Fire to Yasha",Wall of Fire
+C2E069,Yasha,17,NA,17 to Beau,NA
+C2E069,Yasha,14,NA,14 to Beau,NA
+C2E069,Caduceus,23,NA,23 Radiant to Invisible Stalker,Sacred Flame
+C2E069,Fjord,14,NA,14 Force to Invisible Stalker,NA
+C2E069,Caleb,12,NA,12 Fire to Invisible Stalker,NA
+C2E069,Jester,10,NA,10 Radiant to Invisible Stalker,NA
+C2E069,Jester,16,NA,9 Cold to Invisible Stalker,Hellish Rebuke
+C2E069,Nott,10,NA,10 to Invisible Stalker,NA
+C2E069,Jester,21,NA,21 to Invisible Stalker,NA
+C2E069,Jester,24,NA,24 to Invisible Stalker,NA
+C2E069,Beau,12,NA,12 to Invisible Stalker,Invisible Stalker dies
+C2E073,Nott,40,NA,40 to Young Remorhaz,With Fury of the Small
+C2E073,Jester,15,NA,15 Radiant to Remorhaz,Spirit Guardians
+C2E073,Jester,42,NA,42 Necrotic to Remorhaz,NA
+C2E073,Fjord,6,NA,6 to Remorhaz,NA
+C2E073,Beau,10,NA,10 to Remorhaz,NA
+C2E073,Beau,11,NA,11 to Remorhaz,NA
+C2E073,Beau,9,NA,9 to Remorhaz,NA
+C2E073,Caduceus,14,NA,14 Radiant to Remorhaz,Sacred Flame
+C2E073,Nott,29,NA,29 to Young Remorhaz,NA
+C2E073,Jester,37,NA,37 to Young Remorhaz,NA
+C2E073,Jester,22,NA,22 to Young Remorhaz,HDYWTDT
+C2E073,Fjord,4,NA,4 to Remorhaz,NA
+C2E073,Caduceus,42,NA,42 Necrotic to Remorhaz,Blight
+C2E073,Beau,13,NA,13 to Remorhaz,NA
+C2E073,Beau,13,NA,13 to Remorhaz,NA
+C2E073,Nott,21,NA,21 to Remorhaz,NA
+C2E073,Nott,9,NA,9 Fire to Caduceus,Exploding damage
+C2E073,Nott,11,NA,11 to Remorhaz,NA
+C2E073,Jester,20,NA,20 Radiant to Remorhaz,HDYWTDT
+C2E073,Caleb,20,NA,20 to Remorhaz,Cat's Ire
+C2E073,Nott,14,NA,14 to Beau,NA
+C2E074,Nott,12,NA,12 to Caleb,NA
+C2E075,Beau,9,NA,9 to Yeti 1,NA
+C2E075,Beau,8,NA,8 to Yeti 1,NA
+C2E075,Jester,18,NA,18 Necrotic to Yeti 2,NA
+C2E075,Nott,41,NA,41 to Yeti 1,With Fury of the Small
+C2E075,Beau,14,NA,14 to Yeti 2,NA
+C2E075,Beau,8,NA,8 to Yeti 2,NA
+C2E075,Beau,11,NA,11 to Yeti 2,NA
+C2E075,Beau,10,NA,10 to Yeti 2,NA
+C2E075,Reani,32,NA,16 (32/2) Necrotic to Yeti 3,Blight
+C2E075,Fjord,20,NA,20 Fire to Yeti 3,Yeti 3 has disadvantage on attack rolls and ability checks
+C2E075,Jester,24,NA,24 Radiant to Yeti 3,NA
+C2E075,Nott,23,NA,23 to Yeti 4,NA
+C2E075,Reani,9,NA,9 to Yeti 4,NA
+C2E075,Caleb,13,NA,13 Fire to Yeti 4,"Burning Hands, 
+Yeti 4 has disadvantage on attack rolls and ability checks"
+C2E075,Caduceus,11,NA,11 Radiant to Yeti 4,"Sacred Flame, HDYWTDT"
+C2E075,Beau,8,NA,8 to Rope,NA
+C2E076,Nott,60,NA,60 to Guard,NA
+C2E076,Nott,9,NA,9 to Guard,NA
+C2E079,Beau,11,NA,5,11/2 to Yasha
+C2E079,Beau,12,NA,6,12/2 to Yasha
+C2E079,Beau,7,NA,3,7/2 to Yasha
+C2E079,Beau,12,NA,6,12/2 to Yasha
+C2E079,Yasha,23,NA,23,12+10 Necrotic to Beau
+C2E079,Fjord,11,NA,11,Force to Obann
+C2E080,Beau,11,NA,11 to Froghemoth,NA
+C2E080,Beau,9,NA,9 to Froghemoth,NA
+C2E080,Caleb,18,NA,"9 (18/2) fire to Froghemoth, 18 fire to Bullywug",NA
+C2E080,Fjord,15,NA,15 to Froghemoth,NA
+C2E080,Jester,11,NA,11 to Froghemoth,NA
+C2E080,Fjord,3,NA,3 Radiant to Froghemoth,NA
+C2E080,Nott,36,NA,36 to Froghemoth,NA
+C2E080,Nott,1,NA,1 to Nott,NA
+C2E080,Fjord,1,NA,1 Radiant to Bullywug 2,NA
+C2E080,Beau,10,NA,10 Bludgeoning to Froghemoth,NA
+C2E080,Beau,11,NA,11 Bludgeoning to Froghemoth,NA
+C2E080,Beau,7,NA,7 Bludgeoning to Froghemoth,NA
+C2E080,Caleb,32,NA,"120 Fire [32 to Bullywug ?, 32 to B4, 32 to B3, 
+16 (32/2) to B2, 8 (32/2/2) to Froghemoth]",Widogast's Web of Fire
+C2E080,Fjord,33,NA,33 to Froghemoth,NA
+C2E080,Jester,6,NA,6 Force to Froghemoth,NA
+C2E080,Jester,20,NA,20 Necrotic to Froghemoth,HDYWTDT
+C2E080,Nott,Unknown,NA,Unknown to Bullywug 2,NA
+C2E081,Caleb,31,Unknown,NA,Fireball (4th) against Golem
+C2E081,Beau,9,Unknown,9 to Golem,NA
+C2E081,Beau,36,Unknown,36 lightning to Golem,NA
+C2E081,Fjord,29,Unknown,29 force to Golem,NA
+C2E081,Caduceus,20,Unknown,20 cold to Golem,Cold Ballista against Golem
+C2E081,Nott,20,Unknown,20 cold to Golem,Cold Ballista against Golem
+C2E081,Beau,12,Unknown,12 to Golem,NA
+C2E081,Beau,9,Unknown,9 to Golem,NA
+C2E081,Fjord,26,Unknown,26 force to Golem,NA
+C2E081,Jester,11,Unknown,11 force to Golem,NA
+C2E081,Caleb,28,Unknown,28 to Golem,NA
+C2E081,Caduceus,48,Unknown,24 (49/2) Lightning to Golem,"Lightning Ballista, announced 49, actually rolled 48"
+C2E081,Beau,7,Unknown,7 to Golem,NA
+C2E081,Beau,11,Unknown,11 to Golem,NA
+C2E081,Beau,11,Unknown,11 to Golem,NA
+C2E081,Beau,8,Unknown,8 to Golem,NA
+C2E081,Beau,11,Unknown,11 to Golem,NA
+C2E081,Fjord,15,Unknown,15 to force Golem,NA
+C2E081,Jester,10,Unknown,10 force to Golem,NA
+C2E081,Caduceus,20,Unknown,10 (20/2) cold to Golem,Cold Ballista against Golem
+C2E081,Nott,11,Unknown,11 Acid to Golem,Acid Ballista against Golem
+C2E081,Beau,7,Unknown,7 to Golem,NA
+C2E081,Beau,12,Unknown,12 to Golem,NA
+C2E081,Beau,14,Unknown,14 to Golem,NA
+C2E081,Nott,7,Unknown,7 to Golem,Delayed acid from ballista
+C2E081,Fjord,13,Unknown,13 to Golem,NA
+C2E081,Nott,13,Unknown,13 to Golem,Delayed acid from ballista
+C2E081,Nott,26,Unknown,26 to Golem,"Acid Ballista against Golem, Golem dies (HDYWTDT)"
+C2E082,Nott,52,NA,52 to Clone,NA
+C2E082,Nott,11,NA,11 to Clone,NA
+C2E082,Nott,10,NA,20 to Clone,with Fury of the Small
+C2E082,Beau,11,NA,11 to Clone,NA
+C2E082,Beau,10,NA,10 to Clone,NA
+C2E082,Beau,10,NA,10 to Clone,NA
+C2E082,Fjord,18,NA,18 to Clone,NA
+C2E082,Fjord,16,NA,16 to Clone,NA
+C2E082,Fjord,3,NA,3 radiant to Clone,Star Razor Gallas Var Effect
+C2E082,Beau,24,NA,24 to Clone,NA
+C2E082,Beau,11,NA,11 to Clone,NA
+C2E082,Caduceus,13,NA,13 radiant to Clone,Sacred Flame
+C2E082,Nott,22,NA,22 to Clone,NA
+C2E082,Beau,18,NA,18 to Clone,NA
+C2E082,Beau,10,NA,10 to Clone,NA
+C2E082,Fjord,20,NA,20 to Clone,NA
+C2E082,Fjord,20,NA,20 to Clone,NA
+C2E082,Fjord,21,NA,21 to Clone,NA
+C2E082,Jester,26,NA,26 Radiant to Clone,Clone goes unconscious (HDYWTDT)
+C2E082,Jester,20,NA,20 Cold to Clone,Clone goes unconscious (HDYWTDT)
+C2E082,Beau,12,NA,12 to Clone,NA
+C2E082,Jester,16,NA,16 radiant to Clone,Clone goes unconscious (HDYWTDT)
+C2E082,Fjord,13,NA,13 to Tendril,NA
+C2E082,Fjord,12,NA,12 to Tendril,NA
+C2E082,Jester,20,NA,20 Force to Tendril,NA
+C2E082,Caduceus,15,NA,15 Force,Shield of Retribution
+C2E082,Fjord,15,NA,15 to Tendril,NA
+C2E082,Jester,17,NA,17 to Tendril,NA
+C2E082,Jester,11,NA,11 Radiant to Tendril,NA
+C2E082,Willi,5,NA,5 to Tendril,NA
+C2E082,Willi,10,NA,10 to Tendril,NA
+C2E082,Fjord,14,NA,14 to Tendril,NA
+C2E082,Fjord,16,NA,16 to Tendril,NA
+C2E082,Jester,14,NA,14 to Cage,NA
+C2E082,Jester,3,NA,3 Radiant to Tendril,Sacred Flame
+C2E082,Caduceus,20,NA,20 Radiant to Tendril,Sacred Flame
+C2E082,Willi,31,NA,46 [31 to Tendril + 15 (31/2) to Tendril] Lightning,Lightning Breath
+C2E082,Fjord,17,NA,17 to Cage,NA
+C2E082,Jester,17,NA,17 to Tendril,NA
+C2E082,Nott,8,NA,8 to Tendril,NA
+C2E082,Nott,8,NA,8 to Tendril,NA
+C2E082,Fjord,17,NA,17 to Tendril,NA
+C2E082,Fjord,15,NA,15 to Tendril,NA
+C2E082,Jester,10,NA,10 Force to Cage,NA
+C2E082,Jester,20,NA,10 (20/2) Radiant to Cage,Dawn
+C2E082,Caduceus,18,NA,18 Radiant to Tendril,Sacred Flame
+C2E082,Beau,9,NA,9 to Cage,NA
+C2E082,Beau,9,NA,9 to Cage,NA
+C2E082,Willi,9,NA,9 to Cage,NA
+C2E082,Fjord,12,NA,12 to Tendril,NA
+C2E082,Fjord,14,NA,14 to Tendril,NA
+C2E082,Jester,15,NA,15 Force to Cage,Cage Shatters
+C2E082,Jester,30,NA,30 Radiant to Heart,NA
+C2E082,Nott,27,NA,27 to Heart,NA
+C2E082,Nott,10,NA,10 to Heart,NA
+C2E082,Beau,32,NA,32 to Heart,NA
+C2E084,Beau,8,NA,NA,NA
+C2E085,Fjord,11,NA,NA,hits Mirror Image
+C2E085,Beau,8,NA,8 to Caedogeist,NA
+C2E085,Beau,10,NA,10 to Caedogeist,NA
+C2E085,Caleb,20,NA,20 to Caedogeist,Magic Missile (3rd) against Caedogeist
+C2E085,Jester,15,NA,15 to Caedogeist,Spirit Guardians
+C2E085,Beau,24,NA,24 to Caedogeist,NA
+C2E085,Beau,7,NA,7 to Caedogeist,NA
+C2E085,Fjord,13,NA,NA,hits Mirror Image
+C2E085,Fjord,14,NA,14 to Caedogeist,NA
+C2E085,Beau,9,NA,9 to Caedogeist,NA
+C2E085,Caleb,11,NA,11 to Caedogeist,Magic Missile (3rd) against Caedogeist
+C2E085,Caduceus,32,NA,32 to Caedogeist,Blight against Caedogeist
+C2E085,Fjord,33,NA,33 to Caedogeist,"Banishing Smite, Caedogeist is Banished"
+C2E085,Fjord,8,NA,8 to Caedogeist,Hexblade's Curse and Enlarge damage
+C2E085,Beau,9,NA,9 to Caedogeist,NA
+C2E086,Jester,8,NA,8 to Cultist,NA
+C2E086,Nott,24,NA,24 to Respa,NA
+C2E086,Caleb,36,NA,"18 to Respa and Cultist, 36 to Cultists (4)",Fireball (4th) to Respa and Cultists (5). 4 Cultists die
+C2E086,Beau,22,NA,22 to Respa,NA
+C2E086,Fjord,7,NA,7 to Respa,NA
+C2E086,Fjord,7,NA,7 to Demon,Star Razor protection
+C2E086,Caduceus,21,NA,21 to Demon,Sacred Flame against Demon- Demon dies
+C2E086,Jester,9,NA,9 to Demon,NA
+C2E086,Jester,24,NA,24 to Respa,NA
+C2E086,Nott,24,NA,24 to Respa,Respa dies
+C2E086,Caleb,23,NA,23 to Cultist,Cultist dies
+C2E086,Caleb,26,NA,"26 to Laughing Hand and Cultists (2), 13 to Demons (2)","Fireball against Laughing Hand, Cultists (2), and Demons (2). Cultist (1) dies."
+C2E086,Fjord,5,NA,5 to Demon,NA
+C2E086,Fjord,8,NA,8 to Demon,Star Razor protection. Demon dies.
+C2E086,Fjord,5,NA,5 to Demon,Star Razor protection
+C2E086,Fjord,11,NA,11 to Caedogeist,Star Razor protection
+C2E086,Fjord,1,NA,1 to Caedogeist,Star Razor protection
+C2E086,Summoned Creature,9,NA,4 (9/2) to Obann,NA
+C2E086,Jester,22,NA,22 to Obann,NA
+C2E086,Jester,8,NA,8 to Demon,Demon dies
+C2E086,Yasha,11,NA,5 (11/2) to Nott,Uncanny Dodge
+C2E086,Nott,52,NA,52 to Obann,NA
+C2E086,Nott,12,NA,12 to Obann,NA
+C2E086,Summoned Creature,11,NA,5 (11/2) to Obann,NA
+C2E086,Caleb,30,NA,"30 to LH, 15 to Demons (2), Cultist, and Yasha","Fireball to LH, Demons (2), Cultist, and Yasha"
+C2E086,Beau,17,NA,17 to LH,NA
+C2E086,Beau,9,NA,9 to LH,NA
+C2E086,Yasha,27,NA,27 to Beau,Beau is unconscious
+C2E086,Fjord,21,NA,"10 (21/2) to Yasha, Fjord heals 5","Initially incorrect, but adjusted later to these numbers"
+C2E086,Fjord,6,NA,6 to Demon,Star Razor protection. Demon dies
+C2E086,Jester,7,NA,7 to Caedogeist,NA
+C2E086,Summoned Creature,10,NA,5 (10/2) to Yasha,NA
+C2E086,Caleb,46,NA,46 to LH,"Widogast's Web of Fire. LH dies, HDYWTDT"
+C2E086,Beau,22,NA,22 to Demon,Demon dies
+C2E086,Yasha,13,NA,13 to Vrock,NA
+C2E086,Fjord,19,NA,"19 to Yasha, Fjord heals 9",Ennervation splash damage
+C2E086,Beau,12,NA,12 to Caedogeist,NA
+C2E086,Caduceus,51,NA,25 (51/2) to Caedogeist,Blight
+C2E086,Yasha,29,NA,29 to Caedogeist,NA
+C2E086,Beau,12,NA,12 to Caedogeist,NA
+C2E086,Beau,10,NA,10 to Caedogeist,NA
+C2E086,Beau,10,NA,10 to Caedogeist,NA
+C2E086,Caleb,9,NA,4 (9/2) to Obann,NA
+C2E086,Jester,27,NA,27 to Obann,NA
+C2E086,Beau,10,NA,10 to Obann,NA
+C2E086,Beau,8,NA,8 to Obann,NA
+C2E086,Beau,8,NA,8 to Obann,NA
+C2E086,Nott,22,NA,22 to Obann,NA
+C2E086,Caleb,5,NA,2 (5/2) to Caedogeist,NA
+C2E086,Fjord,31,NA,31 to Obann,NA
+C2E086,Caduceus,39,NA,19 (39/2) to Obann,Blight
+C2E086,Yasha,22,NA,22 to Obann,NA
+C2E086,Yasha,28,NA,28 to Obann,"Obann dies, HDYWTDT"
+C2E087,Nott,29,NA,NA,NA
+C2E087,Fjord,14,NA,14 Force to Obann,NA
+C2E087,Fjord,14,NA,14 Force to Obann,NA
+C2E087,Beau,12,NA,12 to Obann,NA
+C2E087,Yasha,34,NA,34 to Obann,NA
+C2E087,Beau,10,NA,10 to Obann,NA
+C2E087,Beau,11,NA,11 to Obann,NA
+C2E087,Beau,9,NA,9 to Obann,NA
+C2E087,Yasha,17,NA,17 to Obann,NA
+C2E087,Yasha,11,NA,11 to Obann,NA
+C2E087,Nott,26,NA,26 to Obann,NA
+C2E087,Nott,9,NA,9 to Obann,NA
+C2E087,Nott,11,NA,11 to Obann,NA
+C2E087,Fjord,15,NA,15 Force to Obann,NA
+C2E087,Fjord,5,NA,5 Radiant to Obann,NA
+C2E087,Beau,10,NA,10 to Obann,NA
+C2E087,Beau,10,NA,10 to Obann,NA
+C2E087,Yasha,15,NA,15 to Obann,NA
+C2E087,Nott,8,NA,8 to Obann,NA
+C2E087,Caleb,31,NA,31 to Obann,NA
+C2E087,Nott,27,NA,27 to Obann,NA
+C2E087,Fjord,12,NA,12 Force to Obann,NA
+C2E087,Fjord,11,NA,11 Force to Obann,NA
+C2E089,Beau,7,NA,7 to Ovo,NA
+C2E089,Beau,11,NA,11 to Ovo,NA
+C2E089,Beau,12,NA,12 to Ovo,NA
+C2E089,Beau,10,NA,10 to Ovo,NA
+C2E089,Beau,12,NA,12 to Ovo,NA
+C2E089,Beau,13,NA,13 to Ovo,NA
+C2E089,Beau,13,NA,13 to Ovo,NA
+C2E089,Beau,14,NA,14 to Ovo,NA
+C2E089,Beau,9,NA,9 to Ovo,NA
+C2E089,Beau,12,NA,12 to Ovo,NA
+C2E089,Beau,8,NA,8 to Ovo,NA
+C2E089,Beau,11,NA,11 to Ovo,Unconscious-HDYWTDT
+C2E089,Fjord,3,NA,3 Radiant to Darrow,Star Razor
+C2E089,Fjord,2,NA,2 Radiant to Darrow,Star Razor
+C2E092,Nott,8,NA,8 to Hunter,NA
+C2E093,Jester,18,NA,NA,Spirit Guardians
+C2E093,Yasha,23,NA,23 to GFH,NA
+C2E093,Caleb,26,NA,26 to GFH Matron,Fireball
+C2E093,Jester,29,NA,29 to GFH Matron,Spirit Guardians
+C2E093,Beau,12,NA,12 to GFH,NA
+C2E093,Beau,14,NA,14 to GFH,NA
+C2E093,Beau,10,NA,10 to GFH,NA
+C2E093,Beau,13,NA,13 to GFH,GFH dies
+C2E093,Yasha,22,NA,22 to GFH,NA
+C2E093,Yasha,20,NA,20 to GFH,GFH dies
+C2E093,Jester,26,NA,"13 to GFH (x2), 26 to GFH (x2)",GFH dies
+C2E093,Caduceus,22,NA,22 to GFH,NA
+C2E093,Nott,41,NA,41 to GFH Matron,GFH Matron dies (HDYWTDT)
+C2E094,Yasha,23,NA,23 to Zombie,NA
+C2E094,Yasha,12,NA,12 to Zombie,NA
+C2E094,Caduceus,19,NA,19 to Zombie,Shield of Retribution
+C2E094,Nott,38,NA,38 to Zombie,Zombie dies
+C2E094,Beau,8,NA,8 to Zombie,NA
+C2E094,Beau,10,NA,10 to Zombie,NA
+C2E094,Beau,14,NA,14 to Zombie,NA
+C2E094,Beau,12,NA,12 to Zombie,NA
+C2E094,Caleb,34,NA,"34 to Zombies (x2) and Resonant Echo, 17 to Zombie",NA
+C2E094,Fjord,29,NA,29 to Zombie,NA
+C2E094,Yasha,21,NA,21 to Zombie,NA
+C2E094,Yasha,12,NA,12 to Zombie,NA
+C2E094,Fjord,7,NA,7 to Zombie,NA
+C2E094,Nott,Unknown,NA,Unknown to Zombie,Zombie dies
+C2E094,Caleb,24,NA,24 to Zombie,NA
+C2E094,Caleb,24,NA,24 to Zombie,Zombie dies
+C2E094,Fjord,18,NA,18 to Zombie,NA
+C2E094,Fjord,11,NA,11 to Zombie,NA
+C2E094,Yasha,16,NA,16 to Zombie,NA
+C2E094,Nott,Unknown,NA,Unknown to Zombie,Zombie dies
+C2E095,Beau,1,NA,7 to Silverfish,NA
+C2E095,Beau,9,NA,9 to Silverfish,NA
+C2E095,Fjord,16,NA,16 to Silverfish,NA
+C2E095,Fjord,15,NA,15 to Silverfish,Silverfish dies
+C2E095,Yasha,11,NA,11 to Silverfish,NA
+C2E095,Yasha,15,NA,15 to Silverfish,Silverfish dies
+C2E095,Nott,28,NA,28 to Silverfish,NA
+C2E095,Nott,11,NA,11 to Silverfish,Silverfish dies
+C2E095,Caduceus,14,NA,14 to Silverfish,Sacred Flame
+C2E095,Beau,18,NA,18 to Silverfish,NA
+C2E095,Beau,28,NA,28 to Silverfish,Silverfish dies
+C2E095,Beau,18,NA,18 to Silverfish,NA
+C2E095,Fjord,9,NA,9 to Silverfish,Silverfish dies
+C2E095,Fjord,16,NA,16 to Silverfish,NA
+C2E095,Jester,13,NA,13 to Silverfish (x3),Spirit Guardians
+C2E095,Yasha,24,NA,24 to Silverfish,Silverfish dies
+C2E095,Caduceus,20,NA,20 to Silverfish,Sacred Flame
+C2E095,Beau,10,NA,10 to Silverfish,NA
+C2E095,Beau,12,NA,10 to Silverfish,NA
+C2E095,Beau,10,NA,10 to Silverfish,Silverfish dies
+C2E095,Fjord,10,NA,10 to Silverfish,NA
+C2E095,Jester,22,NA,22 to Silverfish,Silverfish dies
+C2E095,Fjord,8,NA,8 to Silverfish,Star Razor Aura
+C2E095,Fjord,6,NA,6 to Silverfish,Star Razor Aura
+C2E095,Yasha,20,NA,20 to Silverfish,NA
+C2E095,Yasha,12,NA,12 to Silverfish,NA
+C2E095,Nott,6,NA,6 to Nott,TTBB100 crit fail
+C2E095,Caleb,22,NA,22 to Silverfish,Silverfish dies
+C2E095,Caleb,30,NA,30 to Silverfish,NA
+C2E095,Jester,26,NA,26 to Silverfish,Silverfish dies
+C2E095,Beau,8,NA,8 to Silverfish,NA
+C2E095,Beau,16,NA,16 to Silverfish,Silverfish dies
+C2E095,Caleb,6,NA,6 to Jester,NA
+C2E096,Fjord,14,NA,14 to Gorgon,NA
+C2E096,Jester,16,NA,16 to Gorgon,NA
+C2E096,Beau,13,NA,13 to Gorgon,NA
+C2E096,Beau,11,NA,11 to Gorgon,NA
+C2E096,Caleb,68,NA,68 to Gorgon,Disintegrate
+C2E096,Beau,10,NA,20 (10x2) to Gorgon,doubled by Path to the Grave
+C2E096,Yasha,19,NA,19 to Gorgon,NA
+C2E096,Yasha,19,NA,19 to Gorgon,NA
+C2E096,Beau,18,NA,18 to Gorgon,NA
+C2E096,Beau,13,NA,13 to Gorgon,NA
+C2E096,Beau,10,NA,10 to Gorgon,NA
+C2E096,Nott,47,NA,47 to Gorgon,NA
+C2E096,Nott,8,NA,8 to Gorgon,NA
+C2E096,Fjord,11,NA,11 to Gorgon,NA
+C2E096,Fjord,7,NA,7 to Gorgon,NA
+C2E096,Fjord,12,NA,12 to Gorgon,NA
+C2E096,Jester,28,NA,28 to Gorgon,NA
+C2E096,Fjord,6,NA,6 to Gorgon,Star Razor Aura
+C2E096,Fjord,6,NA,6 to Gorgon,Star Razor Aura
+C2E096,Beau,11,NA,22 (11x2) to Gorgon,doubled by Path to the Grave
+C2E096,Beau,8,NA,8 to Gorgon,NA
+C2E096,Nott,17,NA,17 to Gorgon,NA
+C2E096,Nott,2,NA,2 to Nott,NA
+C2E096,Caleb,29,NA,14 (29/2) to Gorgon,Widogast's Web of Fire against Gorgon
+C2E096,Jester,31,NA,31 to Gorgon,Toll the Dead against Gorgon
+C2E096,Caduceus,23,NA,NA,Blight
+C2E096,Yasha,28,NA,28 to Gorgon,NA
+C2E096,Yasha,14,NA,14 to Gorgon,NA
+C2E096,Beau,11,NA,11 to Gorgon,NA
+C2E096,Beau,13,NA,13 to Gorgon,NA
+C2E096,Beau,13,NA,13 to Gorgon,NA
+C2E096,Nott,8,NA,8 to Gorgon,NA
+C2E096,Nott,9,NA,9 to Gorgon,NA
+C2E096,Caleb,48,NA,24 (48/2) to Gorgon,"Widogast's Web of Fire against Gorgon, HDYWTDT"
+C2E098,Fjord,11,NA,11 to Sea Spawn,NA
+C2E098,Fjord,14,NA,14 to Sea Spawn,NA
+C2E098,Fjord,32,NA,32 to Sea Spawn,Sea Spawn dies
+C2E098,Yasha,18,NA,18 to Sea Spawn,NA
+C2E098,Yasha,20,NA,20 to Sea Spawn,NA
+C2E098,Jester,32,NA,32 to Sea Spawn (x2),Blade Barrier
+C2E098,Jester,29,NA,29 to Deep Scion,Blade Barrier
+C2E098,Veth,14,NA,14 to Sea Spawn,Sea Spawn dies
+C2E098,Jester,11,NA,11 to Deep Scion,NA
+C2E098,Fjord,8,NA,12 to Deep Scion,NA
+C2E098,Fjord,8,NA,12 to Deep Scion,NA
+C2E098,Fjord,15,NA,15 to Deep Scion,NA
+C2E098,Jester,28,NA,14 to Sea Spawn,Blade Barrier
+C2E098,Caduceus,25,NA,24 to Deep Scion (1 to Mackerel),Spirit Guardians
+C2E098,Jester,14,NA,7 to Deep Scion,Hellish Rebuke
+C2E098,Caduceus,18,NA,18 to Sea Spawn,"Spirit Guardians, Sea Spawn dies"
+C2E098,Veth,30,NA,30 to Sea Spawn,NA
+C2E098,Veth,12,NA,12 to Sea Spawn,NA
+C2E098,Jester,20,NA,20 to Sea Spawn,Sea Spawn dies
+C2E098,Jester,18,NA,18 to Sea Spawn,Sea Spawn dies
+C2E098,Beau,23,NA,23 to Deep Scion,NA
+C2E098,Beau,12,NA,12 to Deep Scion,NA
+C2E098,Yasha,26,NA,26 to Sea Spawn,NA
+C2E098,Yasha,18,NA,22 to Sea Spawn,NA
+C2E098,Caduceus,14,NA,14 to Sea Spawn,"Spirit Guardians, Sea Spawn dies"
+C2E098,Jester,15,NA,15 to Sea Spawn,Sea Spawn dies
+C2E098,Yasha,20,NA,20 to Sea Spawn,NA
+C2E098,Yasha,15,NA,20 to Sea Spawn,NA
+C2E098,Caduceus,21,NA,21 to Sea Spawn (x2),"Spirit Guardians, 2 Sea Spawn Die"
+C2E098,Caleb,68,NA,68 to Deep Scion,Disintegrate
+C2E098,Caduceus,44,NA,22 to Deep Scion,Blight
+C2E098,Veth,29,NA,29 to Deep Scion,NA
+C2E098,Jester,9,NA,9 to Deep Scion,NA
+C2E098,Jester,32,NA,32 to Deep Scion,NA
+C2E098,Beau,11,NA,11 to Deep Scion,NA
+C2E098,Beau,8,NA,8 to Deep Scion,NA
+C2E098,Beau,30,NA,30 to Deep Scion,NA
+C2E098,Caduceus,14,NA,7 to Deep Scion,Spirit Guardians
+C2E098,Yasha,18,NA,18 to Deep Scion,Deep Scion dies (HDYWTDT)
+C2E098,Yasha,13,NA,13 to Deep Scion,NA
+C2E098,Caduceus,16,NA,16 to Deep Scion,Spirit Guardians
+C2E098,Jester,14,NA,14 to Deep Scion,NA
+C2E098,Yasha,15,NA,15 to Deep Scion,Deep Scion dies (HDYWTDT)
+C2E098,Caleb,21,NA,21 to Deep Scion,Deep Scion dies (HDYWTDT)
+C2E100,Yasha,53,NA,53 Bludgeoning to Dragon Turtle,Cannon Fire
+C2E100,Caleb,42,NA,21 (42/2) Fire to Dragon Turtle,Fireball (5th)
+C2E100,Jester,35,NA,35 Radiant to Dragon Turtle,NA
+C2E100,Jester,26,NA,26 Radiant to Dragon Turtle,NA
+C2E100,Caleb,73,NA,37 (73/2) Necrotic to Dragon Turtle,Disintegrate
+C2E101,Caduceus,11,NA,11 radiant to Tar Creature,Spirit Guardians
+C2E102,Caduceus,14,NA,14 to Will-o'-wisp 1,Shield of Retribution
+C2E102,Veth,31,NA,31 to Bodak,TTBB1000 Damage
+C2E102,Veth,13,NA,13 Lightning to Bodak,Voltaic Bolt Damage
+C2E102,Beau,9,NA,9 to Bodak,NA
+C2E102,Beau,11,NA,11 to Bodak,NA
+C2E102,Beau,13,NA,13 to Bodak,NA
+C2E102,Beau,13,NA,13 to Bodak,NA
+C2E102,Fjord,51,NA,51 to Bodak,HDYWTDT
+C2E102,Fjord,11,NA,11 to Will-o'-wisp 1,NA
+C2E103,Fjord,18,NA,18 to Shark!Caleb,NA
+C2E104,Beau,10,NA,10 to Caduceus,NA
+C2E104,Beau,8,NA,8 to Caducues,NA
+C2E104,Beau,7,NA,7 to Caduceus,NA
+C2E104,Beau,8,NA,8 to Big Bad,NA
+C2E104,Beau,8,NA,8 to Big Bad,NA
+C2E104,Veth,11,NA,11 to Veth,Misfire
+C2E105,Yasha,6,NA,6 to Jester,NA
+C2E104,Beau,11,NA,11 to Ghost 4,NA
+C2E104,Fjord,30,NA,30 to Ghost 3,NA
+C2E104,Caleb,80,NA,40 (80/2) to Ghost 4,NA
+C2E104,Beau,8,NA,8 to Ghost 4,NA
+C2E104,Caduceus,22,NA,22 to Ghost 3,Sacred Flame
+C2E104,Yasha,15,NA,15 to Ghost 4,NA
+C2E104,Jester,16,NA,16 to Ghost 3,Ghost 3 dies
+C2E104,Fjord,32,NA,32 to BB,NA
+C2E104,Fjord,65,NA,65 to BB,"Divine Smite, HDYWTDT"
+C2E105,Beau,14,NA,14 to Vokodo,NA
+C2E105,Beau,7,NA,7 to Vokodo,NA
+C2E105,Beau,10,NA,10 to Vokodo,NA
+C2E105,Beau,11,NA,11 to Vokodo,NA
+C2E105,Veth,34,NA,34 to Vokodo,NA
+C2E105,Veth,17,NA,17 to Vokodo,NA
+C2E105,Fjord,30,NA,30 to Vokodo,NA
+C2E105,Beau,7,NA,7 to Vokodo,NA
+C2E105,Beau,13,NA,13 to Vokodo,NA
+C2E105,Beau,11,NA,11 to Vokodo,NA
+C2E105,Beau,10,NA,10 to Vokodo,NA
+C2E105,Beau,11,NA,11 to Vokodo,NA
+C2E105,Beau,14,NA,14 to Vokodo,NA
+C2E105,Beau,14,NA,14 to Vokodo,NA
+C2E105,Fjord,49,NA,49 to Vokodo,with Divine Smite (5th)
+C2E105,Fjord,17,NA,17 to Vokodo,NA
+C2E105,Beau,22,NA,22 to Vokodo,NA
+C2E105,Beau,22,NA,22 to Vokodo,NA
+C2E105,Caleb,72,NA,72 to Vokodo,"Disintegrate, HDYWTDT"
+C2E106,Caleb,14,NA,14 to Aquatic Fire Snake,NA
+C2E106,Caleb,14,NA,14 to Aquatic Fire Snake,HDYWTDT
+C2E106,Sprinkle,3,NA,3 to Frumpkin,NA
+C2E106,Beau,16,NA,16 Force to Fjord,NA
+C2E107,Beau,9,NA,9 to T-Rex,NA
+C2E107,Beau,14,NA,14 to T-Rex,NA
+C2E107,Beau,10,NA,10 to T-Rex,NA
+C2E107,Beau,14,NA,14 to T-Rex,NA
+C2E107,Yasha,16,NA,16 to T-Rex,NA
+C2E107,Yasha,15,NA,15 to T-Rex,NA
+C2E107,Veth,45,NA,45 (20 + 10 SS + 9 Lightning) to T-Rex,With Brenatto's Voltaic Bolt
+C2E107,Caleb,34,NA,34 Fire to T-Rex,Fireball
+C2E107,Fjord,32,NA,32 Force to T-Rex,NA
+C2E107,Beau,14,NA,14 to T-Rex,NA
+C2E107,Beau,14,NA,14 to T-Rex,NA
+C2E107,Beau,12,NA,12 to T-Rex,NA
+C2E107,Beau,13,NA,13 to T-Rex,NA
+C2E107,Yasha,20,NA,20 to T-Rex,NA
+C2E107,Yasha,15,NA,15 to T-Rex,NA
+C2E107,Jester,34,NA,34 to T-Rex,Blade Barrier
+C2E107,Yasha,21,NA,21 to T-Rex,NA
+C2E107,Veth,38,NA,38 to T-Rex,NA
+C2E107,Jester,23,NA,23 Radiant to T-Rex,NA
+C2E107,Caleb,32,NA,32 to T-Rex,NA
+C2E107,Fjord,29,NA,29 Force to T-Rex,HDYWTDT
+C2E112,Beau,15,NA,15 to Chuul 1,NA
+C2E112,Beau,16,NA,16 to Chuul 1,NA
+C2E112,Beau,10,NA,10 to Chuul 2,NA
+C2E112,Beau,8,NA,8 to Chuul 2,NA
+C2E112,Fjord,36,NA,36 force to Chuul 1,NA
+C2E113,Beau,7,NA,7 to Chuul 2,NA
+C2E113,Yasha,32,NA,32 to Chuul 2,NA
+C2E113,Yasha,18,NA,18 to Chuul,NA
+C2E113,Caleb,9,NA,"9 to Chuul 4, 9 to Deep Scion",Stormrider Boots
+C2E113,Jester,18,NA,18 Radiant to Chuul 2,NA
+C2E113,Beau,13,NA,13 to Chuul 2,NA
+C2E113,Beau,12,NA,12 to Chuul 2,NA
+C2E113,Yasha,32,NA,32 to Chuul 3,NA
+C2E113,Jester,28,NA,14 (28/2) Radiant to Toad Demon Creature,Spirit Guardians
+C2E113,Jester,16,NA,8 (16/2) Cold to Toad Demon Creature,Hellish Rebuke
+C2E113,Jester,22,NA,22 Radiant to Chuul 4,Spirit Guardians
+C2E113,Caduceus,21,NA,21 Radiant to Chuul 1,Spirit Guardians
+C2E113,Caduceus,20,NA,20 Force to Chuul 1,Shield of Retribution
+C2E113,Yasha,31,NA,31 to Chuul 3,NA
+C2E113,Yasha,12,NA,12 to Chuul 3,NA
+C2E113,Jester,28,NA,14 (28/2) Radiant to Avantika,Spirit Guardians
+C2E113,Caduceus,19,NA,10 (19/2) Radiant to Avantika,Spirit Guardians
+C2E113,Caduceus,22,NA,22 Radiant to Chuul 4,Spirit Guardians
+C2E113,Jester,26,NA,26 Radiant to Chuul 4,Spirit Guardians
+C2E113,Caleb,17,NA,17 to Chuul 4,NA
+C2E113,Caleb,28,NA,28 to Deep Scion,NA
+C2E113,Jester,16,NA,16 to Chuul 3,NA
+C2E113,Beau,18,NA,18 to Avantika,NA
+C2E113,Beau,17,NA,17 to Avantika,NA
+C2E113,Yasha,30,NA,30 to Avantika,NA
+C2E113,Jester,21,NA,21 Radiant to Avantika,Spirit Guardians
+C2E113,Caduceus,22,NA,22 Radiant to Avantika,Spirit Guardians
+C2E113,Fjord,24,NA,24 to Avantika,NA
+C2E113,Beau,15,NA,15 to Avantika,NA
+C2E113,Caleb,24,NA,24 to Avantika,NA
+C2E113,Jester,19,NA,19 Radiant to Avantika,NA
+C2E113,Fjord,13,NA,13 to Avantika,NA
+C2E113,Fjord,34,NA,34 to Avantika,"HDYWTDT, Star Razor exalts"
+C2E115,Veth,42,NA,42 to Gestaf,NA
+C2E115,Beau,13,NA,13 to Gestaf,NA
+C2E115,Beau,16,NA,16 to Gestaf,NA
+C2E115,Beau,11,NA,11 to Gestaf,NA
+C2E115,Beau,7,NA,7 to Gestaf,NA
+C2E115,Jester,41,NA,41 Necrotic to Gestaf,NA
+C2E115,Veth,35,NA,35 (27 + 8 Necrotic) to Gestaf,NA
+C2E115,Yasha,29,NA,29 to Yeti 1,NA
+C2E115,Yasha,20,NA,20 to Yeti 1,NA
+C2E115,Fjord,11,NA,16 (11 + 5) to Yeti 3,NA
+C2E115,Fjord,16,NA,16 to Yeti 3,NA
+C2E115,Caduceus,21,NA,21 to Yeti 3,NA
+C2E116,Jester,12,NA,12 Force to Ice Crystal 1,NA
+C2E116,Caduceus,15,NA,15 Force to Ice Crystal 1,Shield of Retribution
+C2E116,Yasha,28,NA,28 to Ice Crystal 8,NA
+C2E116,Yasha,13,NA,13 to Ice Crystal 8,NA
+C2E116,Veth,2,NA,4 (2x2) Fire to Ice Crystal,Flaming Sphere
+C2E116,Caleb,26,NA,52 (26x2) Fire to Ice Crystal,Widogast's Web of Fire
+C2E116,Fjord,15,NA,15 Force to Ice Crystal,NA
+C2E116,Fjord,12,NA,12 Force to Ice Crystal,NA
+C2E116,Fjord,13,NA,13 Force to Ice Crystal,NA
+C2E116,Jester,19,NA,19 Force to Ice Crystal 1,NA
+C2E116,Caduceus,7,NA,"7 Radiant to 2 Ice Crystals, 4 (7/2) to 2 Ice Crystals",Spirit Guardians
+C2E116,Jester,12,NA,12 Radiant to 4 Ice Crystals,"Spirit Guardians, Ice Crystal 8 dies"
+C2E116,Veth,5,NA,"10 (5x2) Fire to Ice Crystal, 6 (3x2) Fire to Ice Crystal",Flaming Sphere
+C2E116,Yasha,28,NA,28 to Ice Crystal,NA
+C2E116,Yasha,27,NA,27 to Ice Crystal,Ice Crystal dies
+C2E116,Beau,10,NA,10 to Ice Crystal,NA
+C2E116,Beau,12,NA,12 to Ice Crystal,Ice Crystal dies
+C2E116,Beau,14,NA,14 to Ice Crystal,Ice Crystal dies
+C2E116,Beau,7,NA,7 to Ice Crystal,Ice Crystal dies
+C2E116,Veth,38,NA,38 (31+7 necrotic) to Ice Crystal,Ice Crystal dies
+C2E116,Veth,4,NA,4 Fire to Ice Crystal,NA
+C2E116,Caleb,28,NA,"56 (28x2) Fire to 2 Ice Crystals, 28 (14x2) Fire to 2 Ice Crystals",2 Ice Crystals die
+C2E116,Fjord,24,NA,"24 Thunder to Ice Crystal, 12 (24/2) Thunder to Ice Crystal","Thunder Step, 2 Ice Crystals die"
+C2E116,Fjord,31,NA,31 Force to Black Pudding 1,NA
+C2E116,Beau,10,NA,5 (10/2) Lightning to Black Pudding 2,NA
+C2E116,Beau,11,NA,5 (11/2) Lightning to Black Pudding 2,Black Pudding 2 splits into two black puddings
+C2E116,Beau,20,NA,10 (20/2) Lightning to Black Pudding 2A,NA
+C2E116,Beau,8,NA,4 (8/2) Lightning to Black Pudding 2A,Black Pudding 2A splits into two black puddings
+C2E116,Caleb,34,NA,34 Fire to four Black Puddings,"Fireball, Black Pudding 2A-1 and Black Pudding 2A-2 die"
+C2E116,Caduceus,18,NA,18 Radiant to Black Pudding 2B,"Sacred Flame, Black Pudding 2B dies"
+C2E116,Fjord,31,NA,31 Force to Black Pudding 1,Black Pudding 1 dies
+C2E117,Caduceus,20,NA,20 Radiant to Frost Worm,Spirit Guardians
+C2E117,Beau,30,NA,30 to Frost Worm,NA
+C2E117,Fjord,1,NA,1 Radiant to Frost Bunny!Frost Worm,Armor of Agathys
+C2E117,Yasha,29,NA,29 to Frost Worm,NA
+C2E117,Yasha,18,NA,18 to Frost Worm,NA
+C2E119,Jester,53,NA,106 (53x2) Necrotic to AA,NA
+C2E119,Fjord,29,NA,29 force to AA,"initially 38, later reduced"
+C2E119,Veth,40,NA,40 to AA,NA
+C2E119,Fjord,40,NA,75 (35x2+5) to AA,NA
+C2E119,Fjord,43,NA,43 to AA,NA
+C2E119,Beau,12,NA,12 to AA,NA
+C2E119,Beau,10,NA,10 to AA,NA
+C2E119,Jester,33,NA,33 to AA,NA
+C2E119,Beau,9,NA,9 to AA,NA
+C2E119,Yasha,22,NA,22 to AA,NA
+C2E119,Fjord,18,NA,18 to AA,NA
+C2E119,Fjord,21,NA,21 to AA,NA
+C2E119,Yasha,28,NA,28 to AA,NA
+C2E119,Yasha,17,NA,17 to AA,NA
+C2E119,Beau,11,NA,11 to AA,NA
+C2E119,Beau,13,NA,13 to AA,NA
+C2E119,Beau,12,NA,12 to AA,NA
+C2E119,Caduceus,31,NA,31 necrotic to AA,HDYWTDT
+C2E120,Caleb,25,NA,25 to Automaton,NA
+C2E120,Beau,10,NA,NA,NA
+C2E120,Fjord,83,NA,83 to Automaton,NA
+C2E120,Fjord,17,NA,17 to Automaton,NA
+C2E120,Caduceus,18,NA,18 Radiant to Automaton,Sacred Flame
+C2E120,Fjord,7,NA,7 to Automaton,Star Razor retaliation
+C2E120,Fjord,16,NA,16 to Automaton,NA
+C2E120,Fjord,14,NA,14 to Automaton,NA
+C2E120,Fjord,12,NA,12 to Automaton,NA
+C2E120,Caduceus,24,NA,24 to Automaton,Sacred Flame
+C2E120,Beau,13,NA,13 to Automaton,NA
+C2E120,Beau,11,NA,11 to Automaton,NA
+C2E120,Veth,40,NA,40 to Automaton,NA
+C2E120,Veth,36,NA,78 (36x2+6) to Automaton,NA
+C2E120,Veth,5,NA,5 to Veth,TTBB1000 misfire
+C2E120,Fjord,22,NA,22 Force to Automaton,NA
+C2E120,Beau,14,NA,14 to Automaton,NA
+C2E120,Beau,10,NA,10 to Automaton,NA
+C2E120,Caleb,43,NA,43 to Automaton,"Automaton dies, HDYWTDT"
+C2E123,Veth,34,NA,34 to Gelidon,NA
+C2E123,Veth,11,NA,11 to Gelidon,NA
+C2E123,Veth,13,NA,13 Lightning to Gelidon,Voltaic Bolt
+C2E123,Beau,9,NA,9 to Gelidon,NA
+C2E123,Beau,9,NA,9 to Gelidon,NA
+C2E123,Yasha,45,NA,45 to Gelidon,NA
+C2E123,Fjord,106,NA,106 to Gelidon,NA
+C2E123,Veth,49,NA,49 to Gelidon,NA
+C2E123,Yasha,29,NA,29 to Gelidon,NA
+C2E123,Yasha,14,NA,14 to Gelidon,NA
+C2E123,Jester,52,NA,26 (52/2) Fire to Gelidon,NA
+C2E123,Fjord,17,NA,17 to Gelidon,NA
+C2E123,Fjord,30,NA,30 Force to Gelidon,NA
+C2E123,Fjord,14,NA,14 Force to Gelidon,NA
+C2E123,Fjord,9,NA,9 Force to Gelidon,NA
+C2E123,Caduceus,48,NA,24 (48/2) Necrotic to Gelidon,NA
+C2E123,Veth,78,NA,78 to Gelidon,NA
+C2E123,Veth,7,NA,7 to Gelidon,NA
+C2E123,Beau,23,NA,23 to Gelidon,NA
+C2E123,Beau,9,NA,9 to Gelidon,NA
+C2E123,Beau,14,NA,14 to Gelidon,NA
+C2E123,Beau,7,NA,7 to Gelidon,NA
+C2E123,Beau,8,NA,8 to Gelidon,NA
+C2E123,Yasha,7,NA,7 to Gelidon,NA
+C2E123,Beau,12,NA,12 to Gelidon,NA
+C2E123,Beau,10,NA,10 to Gelidon,NA
+C2E123,Beau,18,NA,18 to Gelidon,NA
+C2E123,Beau,13,NA,13 to Gelidon,NA
+C2E123,Beau,14,NA,14 to Cree,NA
+C2E123,Beau,13,NA,14 to Zoran,NA
+C2E123,Beau,13,NA,13 to Lucien,NA
+C2E123,Beau,11,NA,11 to Lucien,NA
+C2E123,Fjord,17,NA,17 to Lucien,NA
+C2E123,Fjord,13,NA,13 Radiant to Zoran,Star Razor retaliation
+C2E123,Fjord,9,NA,9 Radiant to Zoran,Star Razor retaliation
+C2E123,Beau,16,NA,8 (16/2) Force to Lucien and Cree,Belabor
+C2E123,Caduceus,14,NA,14 to Tyffial,Shield of Retribution
+C2E123,Caduceus,10,NA,10 radiant to Tyffial,Guardian of Faith
+C2E123,Veth,12,NA,12 to Cree,NA
+C2E123,Caduceus,20,NA,20 radiant to Tyffial,Guardian of Faith
+C2E127,Veth,34,NA,34 to HG1,NA
+C2E127,Caleb,23,NA,23 force to HG1,"Gravity Sinkhole, HG1 dies"
+C2E127,Caleb,28,NA,28 force to HG2,NA
+C2E127,Veth,50,NA,50 to HG1,HG2 dies
+C2E127,Caleb,43,NA,63 (43 initial + 20 rebound) to HG3 and HG4,"Lightning Bolt (5th) from Allura's Staff, partial damage rebound off the back wall, HG3 and HG4 die"
+C2E127,Caleb,40,NA,40 to HG5,Fireball (5th) from Allura's Staff
+C2E127,Veth,19,NA,19 to HG5,HG5 dies
+C2E129,Beau,12,NA,12 to Clay Construct,NA
+C2E129,Beau,9,NA,9 to Clay Construct,NA
+C2E129,Caleb,38,NA,38 Cold to Guardian,NA
+C2E129,Veth,40,NA,40 to Guardian,NA
+C2E129,Caleb,10,NA,10 Lightning to Guardian,Stormrider Boots
+C2E129,Jester,34,NA,34 Radiant to Guardian,NA
+C2E129,Caduceus,10,NA,10 Radiant to Guardian,Spirit Guardians
+C2E129,Veth,52,NA,52 to Guardian 1,Guardian 1 dies
+C2E129,Veth,12,NA,12 to Guardian 2,NA
+C2E129,Jester,10,NA,10 Radiant to Guardian 2,NA
+C2E129,Caduceus,9,NA,9 Radiant to Guardian 2,Spirit Guardians
+C2E129,Caduceus,10,NA,10 Force to Guardian 2,Shield of Retribution
+C2E129,Veth,37,NA,37 to Guardian 2,Guardian 2 dies
+C2E129,Veth,8,NA,8 to Guardian 3,NA
+C2E129,Caduceus,17,NA,17 Radiant to Guardian 3,Sacred Flame against Guardian 3
+C2E129,Jester,17,NA,17 Radiant to Guardian 3,Sacred Flame
+C2E129,Caduceus,15,NA,15 Radiant to Guardian 3,"Guardian 3 dies, HDYWTDT"
+C2E131,Lightning Spirit Liam,24,NA,24 Lightning to Yasha,NA
+C2E131,Lightning Spirit Taliesin,9,NA,9 Lightning to Yasha,NA
+C2E131,Storm Spirit Laura,16,NA,16 bludgeoning to Yasha,NA
+C2E131,Yasha,30,NA,30 to SS Laura,NA
+C2E131,Yasha,20,NA,20 to SS Laura,NA
+C2E131,Storm Spirit Sam,30,NA,NA,Maelstrom
+C2E131,Storm Spirit Marisha,11,NA,5 (11/2) to Yasha,NA
+C2E131,Storm Spirit Laura,9,NA,9 to Yasha,NA
+C2E131,Lightning Spirit Travis,8,Unknown,8 Lightning to Yasha,Ball Lightning
+C2E131,Lightning Spirit Liam,17,NA,8 (17/2) Lightning to Yasha,Ball Lightning
+C2E131,Lightning Spirit Taliesin,20,NA,20 Lightning to Yasha,Ball Lightning
+C2E131,Storm Spirit Laura,11,NA,6 (10/2+1 Lightning) to Yasha,NA
+C2E131,Storm Spirit Laura,14,NA,7 (13/2+1 Lightning) to Yasha,NA
+C2E131,Yasha,45,NA,45 to SS Laura,SS Laura dies
+C2E131,Storm Spirit Laura,30,NA,NA,Exploding Thunder
+C2E131,Storm Spirit Marisha,21,NA,5 (21/2/2) to Yasha,Maelstrom
+C2E131,Lightning Spirit Travis,26,Unknown,26 Lightning to Yasha,Yasha is unconscious
+C2E131,Lightning Spirit Taliesin,4,NA,4 Lightning to Yasha,Yasha fails 1 death save
+C2E131,Yasha,39,NA,39 to SS Sam,SS Sam dies
+C2E131,Storm Spirit Sam,30,NA,NA,Exploding Thunder
+C2E131,Yasha,15,NA,15 to SS Marisha,SS Marisha dies
+C2E131,Storm Spirit Marisha,21,NA,NA,Exploding Thunder
+C2E131,Lightning Spirit Liam,12,NA,12 Lightning to Yasha,Yasha is still dead
+C2E131,Yasha,35,NA,35 to LS Liam,LS Liam dies
+C2E131,Lightning Spirit Liam,4,NA,4 Lightning to Yasha,Yasha is still dead
+C2E132,Veth,28,NA,28 to FG1,NA
+C2E132,Veth,7,NA,7 to FG1,NA
+C2E132,Veth,11,NA,11 to FG1,NA
+C2E132,Beau,15,NA,NA,NA
+C2E132,Beau,15,NA,15 to FG1,NA
+C2E132,Beau,9,NA,9 to FG1,NA
+C2E132,Fjord,31,NA,"31 Thunder to FG2 and Caleb, 15 (31/2) Thunder to FG3 and Yasha",Thunder Step
+C2E132,Yasha,30,NA,30 to FG1,NA
+C2E132,Yasha,15,NA,15 to FG1,Extra Holy Avenger damage against undead
+C2E132,Yasha,58,NA,58 to FG1,"FG1 dies, HDYWTDT"
+C2E132,Veth,34,NA,34 to FG3,NA
+C2E132,Veth,10,NA,10 to FG3,NA
+C2E132,Beau,9,NA,9 to FG3,NA
+C2E132,Beau,13,NA,13 to FG3,NA
+C2E132,Beau,14,NA,14 to FG3,NA
+C2E132,Beau,15,NA,15 to FG3,NA
+C2E132,Beau,14,NA,14 to FG3,NA
+C2E132,Beau,15,NA,15 to FG3,"FG3 dies, HDYWTDT"
+C2E133,Jester,9,NA,9 Force to FS1,NA
+C2E133,Beau,26,NA,26 to FS1,NA
+C2E133,Beau,13,NA,13 to FS1,NA
+C2E133,Beau,15,NA,15 to FS1,NA
+C2E133,Fjord,17,NA,17 to FS1,NA
+C2E133,Fjord,17,NA,17 to FS1,NA
+C2E133,Fjord,21,NA,42 (21x2) Fire to FS1,Searing Smite damage
+C2E133,Yasha,38,NA,38 to FS1,"FS1 dies, HDYWTDT"
+C2E133,Yasha,28,NA,28 to FS1,FS1 still dead
+C2E133,Veth,8,NA,8 to FS2,NA
+C2E133,Veth,9,NA,9 to FS2,NA
+C2E133,Veth,10,NA,10 to FS2,NA
+C2E133,Jester,22,NA,22 Necrotic to FS2,Toll the Dead
+C2E133,Beau,13,NA,13 to FS2,NA
+C2E133,Beau,15,NA,15 to FS2,NA
+C2E133,Beau,10,NA,10 to FS2,NA
+C2E133,Caleb,25,NA,25 to FS2,NA
+C2E133,Caleb,21,NA,21 to FS2,NA
+C2E133,Fjord,6,NA,12 (6x2) Fire to FS2,NA
+C2E133,Fjord,5,NA,10 (5x2) Fire to FS2,"FS2 dies, HDYWTDT"
+C2E133,Yasha,25,NA,25 to FS2,FS2 still dead
+C2E133,Caleb,55,NA,55 Psychic to multiple Tomb Takers,Intuit Charge
+C2E133,Beau,66,NA,55 Psychic to multiple Tomb Takers,Intuit Charge
+C2E133,Jester,15,NA,15 radiant to Lucien,NA
+C2E134,Beau,14,NA,14 to Absorber 1,NA
+C2E134,Beau,10,NA,10 to Absorber 1,NA
+C2E134,Beau,10,NA,10 to Absorber 1,NA
+C2E134,Jester,12,NA,12 (5+7 poison) to Absorber 1,NA
+C2E134,Yasha,19,NA,19 to Absorber 1,NA
+C2E134,Yasha,18,NA,18 to Absorber 1,NA
+C2E134,Fjord,16,NA,NA,Star Razor revenge damage- Reverser immune to radiant
+C2E134,Veth,33,NA,33 to Absorber 1,NA
+C2E134,Veth,18,NA,18 to Absorber 1,NA
+C2E134,Fjord,36,NA,36 Thunder to Reverser,NA
+C2E134,Beau,10,NA,10 to Absorber 1,NA
+C2E134,Beau,13,NA,13 to Absorber 1,NA
+C2E134,Beau,23,NA,23 to Absorber 1,NA
+C2E134,Beau,10,NA,10 to Absorber 1,"Absorber 1 dies, HDYWTDT"
+C2E134,Jester,11,NA,11 to Reverser,NA
+C2E134,Yasha,18,NA,18 to Reverser,NA
+C2E134,Yasha,7,NA,NA,Holy Avenger radiant damage- Reverser is immune
+C2E134,Yasha,21,NA,21 to Reverser,NA
+C2E134,Veth,5,NA,5 to Veth,TTBB1000 recoil
+C2E134,Veth,42,NA,42 to Reverser,"Reverser dies, HDYWTDT"
+C2E134,Caleb,36,NA,18 (36/2) to Absorber 2,NA
+C2E134,Beau,9,NA,9 to Absorber 2,NA
+C2E134,Beau,13,NA,13 to Absorber 2,NA
+C2E134,Beau,11,NA,11 to Absorber 2,NA
+C2E134,Beau,10,NA,10 to Absorber 2,NA
+C2E134,Jester,26,NA,26 to Absorber 2,"Absorber 2 dies, HDYWTDT"
+C2E135,Veth,28,NA,28 Lightning to Nullifier,NA
+C2E135,Yasha,33,NA,26 to Nullifier,Nullifier immune to radiant
+C2E135,Beau,14,NA,14 to Nullifier,NA
+C2E135,Beau,10,NA,10 to Nullifier,NA
+C2E135,Beau,12,NA,12 to Nullifier,NA
+C2E135,Beau,11,NA,11 to Nullifier,NA
+C2E135,Fjord,12,NA,12 Force to Nullifier,NA
+C2E135,Fjord,11,NA,11 Force to Nullifier,NA
+C2E135,Caleb,13,NA,13 Fire to Nullifier,NA
+C2E135,Veth,26,NA,26 to Nullifier,NA
+C2E135,Yasha,29,NA,29 to Nullifier,NA
+C2E135,Yasha,17,NA,17 to Nullifier,NA
+C2E135,Beau,14,NA,14 to Nullifier,NA
+C2E135,Beau,8,NA,8 to Nullifier,NA
+C2E135,Beau,14,NA,14 to Nullifier,NA
+C2E135,Beau,15,NA,15 to Nullifier,NA
+C2E135,Fjord,45,NA,45 to Nullifier,"Nullifier dies, HDYWTDT"
+C2E136,Yasha,33,NA,33 to Elemental,NA
+C2E136,Beau,12,NA,12 to Elemental,NA
+C2E136,Beau,22,NA,22 to Elemental,NA
+C2E136,Beau,11,NA,11 to Elemental,NA
+C2E136,Fjord,22,NA,22 Force to Elemental,NA
+C2E136,Caduceus,20,NA,20 to Elemental,Shield of Retribution
+C2E136,Fjord,11,NA,11 Force to Elemental Tendril,NA
+C2E137,Caduceus,5,NA,"3 to Sheep!Caleb, 2 to Caleb",Caleb is no longer a sheep
+C2E137,Beau,10,NA,10 to Old Lady Horror,NA
+C2E137,Beau,11,NA,11 to Old Lady Horror,NA
+C2E137,Yasha,36,NA,36 to Old Lady Horror,NA
+C2E137,Fjord,34,NA,34 Force to CFH 2,NA
+C2E137,Jester,24,NA,"24 Radiant to CFH2, 24 Radiant to CFH3",CF2 dies
+C2E137,Caleb,33,NA,"33 fire to CFH1 and CFH5, 16 (33/2) to CFH4 and CFH3",CFH4 and CFH 3 die
+C2E137,Caduceus,20,NA,20 Radiant to CFH,NA
+C2E137,Beau,13,NA,6 (13/2) to Yasha,NA
+C2E137,Beau,13,NA,6 (13/2) to Yasha,NA
+C2E137,Yasha,36,NA,36 to Old Lady Horror,Old Lady Horror dies
+C2E137,Veth,8,NA,8 to CFH 1,NA
+C2E137,Fjord,31,NA,31 to CFH,NA
+C2E137,Jester,12,NA,12 radiant to CFH,NA
+C2E137,Caleb,42,NA,42 to CFH,CFH dies
+C2E138,Veth,60,NA,60 to Cree,NA
+C2E138,Yasha,34,NA,34 to Cree,NA
+C2E138,Fjord,15,NA,15 Force to Cree,NA
+C2E138,Fjord,10,NA,10 Force to Cree,NA
+C2E138,Fjord,14,NA,14 Force to Cree,NA
+C2E138,Beau,8,NA,8 to Cree,NA
+C2E138,Beau,13,NA,13 to Cree,NA
+C2E138,Beau,8,NA,8 to Cree,NA
+C2E138,Yasha,20,NA,20 to Cree,NA
+C2E138,Yasha,39,NA,78 (39x2) to Cree,Cree transforms into a Vessel of the Pattern
+C2E138,Fjord,22,NA,"22 to Cree, VotP",NA
+C2E138,Fjord,84,NA,"84 to Cree, VotP",with Divine Smite (5th)
+C2E138,Beau,15,NA,"15 to Cree, VotP",NA
+C2E138,Beau,14,NA,"14 to Cree, VotP",NA
+C2E138,Veth,40,NA,"80 (40x2) to Cree, VotP","Cree, VotP dies, HDYWTDT"
+C2E138,Caduceus,31,NA,31 Necrotic to Cognouza,Blight (5th)
+C2E139,Beau,15,NA,15 to Lucien,NA
+C2E139,Beau,15,NA,15 to Lucien,NA
+C2E139,Fjord,19,NA,19 Force to Lucien,NA
+C2E139,Fjord,16,NA,16 Force to Lucien,NA
+C2E139,Yasha,36,NA,36 to Lucien,NA
+C2E139,Veth,53,NA,53 to Lucien,NA
+C2E139,Beau,15,NA,15 to Lucien,NA
+C2E139,Veth,43,NA,43 to Lucien,NA
+C2E139,Yasha,34,NA,34 to Lucien,NA
+C2E139,Veth,33,NA,33 to Lucien,NA
+C2E139,Veth,10,NA,10 to Lucien,NA
+C2E139,Beau,12,NA,12 to Lucien,NA
+C2E139,Beau,37,NA,37 to Lucien,NA
+C2E139,Beau,14,NA,14 to Lucien,NA
+C2E139,Beau,37,NA,37 to Lucien,NA
+C2E139,Beau,23,NA,23 to Lucien,NA
+C2E139,Fjord,12,NA,12 Force to Lucien,NA
+C2E139,Fjord,20,NA,20 Force to Lucien,NA
+C2E139,Veth,50,NA,100 (50x2) to Lucien,NA
+C2E139,Caduceus,37,NA,18 (37/2) to Lucien,Blight
+C2E140,Beau,21,NA,21 (14+7 Radiant) to Lucien,NA
+C2E140,Beau,23,NA,23 to Lucien,NA
+C2E140,Beau,17,NA,17 to Lucien,NA
+C2E140,Veth,36,NA,36 to Lucien,NA
+C2E140,Caleb,30,NA,30 to Lucien,NA
+C2E140,Fjord,15,NA,15 Force to Lucien,NA
+C2E140,Fjord,12,NA,12 Force to Lucien,NA
+C2E140,Yasha,35,NA,35 to Eye of Timorei and Eye of Luctus,NA
+C2E140,Caleb,21,NA,21 Necrotic to Eye of Timorei and Eye of Luctus,NA
+C2E140,Jester,18,NA,18 to Lucien,NA
+C2E140,Fjord,14,NA,"14 Force to Eye of Timorei and Eye of Luctus, Unknown to Lucien",Eye of Timorei and Eye of Luctus die
+C2E140,Fjord,13,NA,13 Force to Eye of Fastidan,NA
+C2E140,Fjord,13,NA,13 Force to Eye of Fastidan,NA
+C2E140,Beau,10,NA,10 to Eye of Vigilan,NA
+C2E140,Beau,9,NA,9 to Eye of Vigilan,NA
+C2E140,Beau,15,NA,15 to Eye of Vigilan,NA
+C2E140,Beau,10,NA,10 to Eye of Vigilan,NA
+C2E140,Caduceus,13,NA,13 Radiant to Lucien,NA
+C2E140,Veth,40,NA,40 to Lucien,NA
+C2E140,Beau,11,NA,11 to Eye of Ira,NA
+C2E140,Yasha,50,NA,50 (35+15 Radiant) to Lucien,NA
+C2E140,Veth,57,NA,"57 to Eye of Ira, Unknown to Lucien",Eye of Ira dies
+C2E140,Fjord,11,NA,11 Force to Eye of Fastidan,NA
+C2E140,Fjord,14,NA,14 Force to Eye of Fastidan,NA
+C2E140,Fjord,14,NA,"14 Force to Eye of Fastidan, Unknown to Lucien",Eye of Fastidan dies
+C2E140,Beau,21,NA,21 to Lucien,NA
+C2E140,Beau,11,NA,11 to Lucien,NA
+C2E140,Beau,14,NA,14 to Lucien,NA
+C2E140,Beau,8,NA,8 to Lucien,NA
+C2E140,Beau,14,NA,14 to Lucien,NA
+C2E140,Yasha,47,NA,47 to Lucien,NA
+C2E140,Yasha,15,NA,15 to Lucien,NA
+C2E140,Beau,12,NA,12 to Lucien,NA
+C2E140,Veth,13,NA,13 to Eye of Culpasi,NA
+C2E140,Veth,9,NA,13 to Eye of Culpasi,NA
+C2E140,Beau,14,NA,14 to Lucien,NA
+C2E140,Jester,29,NA,58 (29x2) Radiant to Lucien,"Lucien dies, HDYWTDT"
+C2E141,Fjord,31,NA,31 to Eadwulf,NA
+C2E141,Veth,27,NA,13 (27/2) Fire to Yasha,NA
+C2E141,Yasha,48,NA,48 to Eadwulf,NA
+C2E141,Yasha,29,NA,29 to Eadwulf,NA
+C2E141,Fjord,9,NA,"9 Force to Trent, 9 Force to Eadwulf",NA
+C2E141,Fjord,14,NA,"7 (14/2) Force to Trent, 7 (14/2) Force to Eadwulf",NA
