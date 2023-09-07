@@ -3,7 +3,7 @@ title: "Projects"
 listing:
   contents: projects
   type: default
-  fields: [date, title, reading-time, image]
+  fields: [date, title, reading-time, image, categories]
   sort: "date desc"
-  categories: true
+  categories: false
 ---

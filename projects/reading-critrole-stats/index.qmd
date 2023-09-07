@@ -3,6 +3,7 @@ title: "Reading Critical Role Stats: Natural 1s and 20s"
 date: 2023-09-04
 draft: false
 categories:
+  - r
   - tidyverse
   - data cleaning
   - "d&d"
@@ -178,18 +179,22 @@ episodes
 ```
 
 ## Episodes with No Natural 1s
+
 ```{r}
 no_nat_1s <- crits |> 
   slice_min(nat_1, n = 1) |> 
   select(episode, n_rolls, nat_1)
   
 ```
+
 There are `r nrow(no_nat_1s)` episodes with no natural 1s:
-```{r} 
+
+```{r}
 no_nat_1s
 ```
 
 ## Episodes with No Natural 20s
+
 ```{r}
 no_nat_20s <- crits |> 
   slice_min(nat_20, n = 1) |> 
@@ -202,7 +207,7 @@ There are `r nrow(no_nat_20s)` episodes with no natural 20s:
 no_nat_20s
 ```
 
-It is pretty interesting that there are so many more episodes without natural 1s than without natural 20s. This is possibly due to players not actually announcing all of their natural 1s. In many cases, the players will just indicate that they've failed the roll without specifying that they rolled a 1. In these instances, Crit Role Stats cannot record that roll, so we lose data and get more skewed data. 
+It is pretty interesting that there are so many more episodes without natural 1s than without natural 20s. This is possibly due to players not actually announcing all of their natural 1s. In many cases, the players will just indicate that they've failed the roll without specifying that they rolled a 1. In these instances, Crit Role Stats cannot record that roll, so we lose data and get more skewed data.
 
 ## Lowest Proportion of Natural 1s and 20s
 
@@ -293,7 +298,6 @@ Average number of rolls:
 ```{r}
 mean(crits$n_rolls)
 ```
-
 
 ```{r}
 ggplot(crits, aes(x = n_rolls)) +
