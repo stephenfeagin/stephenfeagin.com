@@ -14,7 +14,6 @@ Because we're dealing with random numbers, I will `set.seed()` to ensure replica
 set.seed(20230908)
 ```
 
-
 For a single trial:
 
 ```{r}
@@ -32,6 +31,7 @@ while (failures < 3 && successes < 3) {
   print(paste("Failures:", failures))
 }
 ```
+
 Brilliant, I'm alive!
 
 But now we want to repeat that many, many times to calculate the probability of success. I'm going to populate a vector called `outcomes` with whether each trial resulted in a success -- `TRUE` means three successful saves, `FALSE` means three failed saves.
@@ -56,4 +56,4 @@ outcomes <- replicate(n, {
 mean(outcomes)
 ```
 
-After one million repetitions, it looks like the probability of success is about 59%. Better than average, but still...not great when you're talking life and death.
+After one million repetitions, it looks like the probability of success is about 59%. Better than 50-50, but still...not great when you're talking life and death.
