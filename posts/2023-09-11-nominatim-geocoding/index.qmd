@@ -1,0 +1,141 @@
+---
+title: Geocoding Addresses Using Nominatim and httr
+date: 2023-09-11
+categories:
+  - r
+  - httr2
+  - geospatial
+---
+
+I am interested in finding the latitude and longitude of a particular address. There are at least a few APIs that will do this for you, but I decided to use Nominatim as it is the one used on OpenStreetMap servers (https://wiki.openstreetmap.org/wiki/Geocoding), and I like OpenStreetMap. Nominatim has good [documentation](https://nominatim.org/release-docs/develop/api/Overview/) on the usage of their API. In order to make calls against this API, I will use the httr2 package. We need to compose our request, which in this case means crafting the search URL and specifying the output, and we also need to be able to parse the response object.
+
+## Building the Request URL
+
+The Nominatim `/search` query takes the form `https://nominatim.openstreemap.org/search?<params>`. The documentation tells us that the query can either be free form or structured. For the free form query, you can essentially give it an address in natural language, ideally separated by commas. A structured query would provide the address having been split into its components, such as street, city, state, and postal code. A free form query would just have the entire address as the `q` param. We need to specify the format, which could be `xml`, `json`, `jsonv2`, `geojson`, or `geocodejson`. I am most interested in getting JSON results, so I'll use their `jsonv2`.
+
+I need to properly encode the URL. httr2 provides a `url_build()` function that will let me do this easily. I specify the format I want and limit it to only 1 result.
+
+```{r}
+library(httr2)
+
+compose_url <- function(address) {
+  url <- url_parse("https://nominatim.openstreetmap.org/search")
+  url$query <- list(q = address, format = "jsonv2", limit = 1)
+  url_build(url)
+}
+```
+
+Trying that with Chapel Hill Town Hall:
+
+```{r}
+compose_url("405 Martin Luther King Jr. Blvd, Chapel Hill, NC 27514-5705")
+```
+
+## Performing the Request 
+Next, we use the httr2 package to send the API request. You may have to `install.packages("httr2")` before attempting.
+
+```{r}
+address <- compose_url("405 Martin Luther King Jr. Blvd, Chapel Hill, NC 27514-5705")
+req <- request(address)
+req
+```
+We can use `req_dry_run()` to see what the request will look like before we actually execute it:
+
+```{r}
+req_dry_run(req)
+```
+
+That looks fine. We could make it more specific by adding `Accept = "application/json"` but if you trust the API and its documentation (which is not always a given), it should be fine.
+
+Let's give it a try.
+
+```{r}
+resp <- req_perform(req)
+resp
+```
+Let's fetch the raw response:
+
+```{r}
+resp_raw(resp)
+```
+
+Well that's not great. Let me try it with a different address:
+```{r}
+compose_url("1600 Pennsylvania Ave, Washington, DC 20500") |> 
+  request() |> 
+  req_perform() |> 
+  resp_raw()
+```
+
+That one worked OK. What about my old dorm, Spencer Hall?
+
+```{r}
+compose_url("100 Raleigh St, Chapel Hill, NC 27514") |> 
+  request() |> 
+  req_perform() |> 
+  resp_raw()
+```
+
+That one worked too.
+
+```{r}
+compose_url("405 Martin Luther King Jr Blvd, Chapel Hill, NC 27514") |> 
+  request() |> 
+  req_perform() |> 
+  resp_raw()
+```
+
+I'm a bit puzzled here. It didn't work when I split out the steps but it seems to work when I connect it all in a pipeline. That gives me some concern over what might happen if I try to implement this on a large number of addresses; I worry that I may have to do a ton of spot-checking. I'm wondering if I can rewrite the `compose_url()` function to use the structured querying format, and see if that might help.
+
+```{r}
+compose_url <- function(street, city, state, postcode = NA) {
+  url <- url_parse("https://nominatim.openstreetmap.org/search")
+  params <- list(
+    street = street, 
+    city = city, 
+    state = state,
+    format = "jsonv2",
+    limit = 1
+  )
+  if (!is.na(postcode)) params$postcode <- postcode
+  url$query = params
+  url_build(url)
+}
+
+address <- compose_url("405 Martin Luther King Jr Blvd", "Chapel Hill", "NC", 27514)
+req <- request(address)
+resp <- req_perform(req)
+resp_raw(resp)
+```
+That looks like it works, even with using intermediate objects. I really don't know why that didn't work before. Still not clear how it will fare with a large number of requests, but it would be easy enough to write code to check for empty result sets.
+
+## Examining the Output
+ 
+Now let's look at what httr can do to help us parse the data.
+
+```{r}
+resp_body_json(resp)
+```
+That's pretty verbose output, but the gist is that it creates a named list with the output data. What I'm most interested in is the latitude and longitude.
+
+```{r}
+town_hall <- resp_body_json(resp)
+c(town_hall[[1]]$lat, town_hall[[1]]$lon)
+```
+Note that I have to subset the results with `[[1]]` because `resp_body_json()` returns a list of lists, one for each item in the json array. I specified `limit=1` but it still gave me back an array, just with only one item, so httr2 still reads that as a list of results, even if it's just one element long.
+
+Let's pull this up really quickly with leaflet:
+
+```{r}
+library(leaflet)
+map <- leaflet() |> 
+  addTiles() |> 
+  addMarkers(
+    lng = as.numeric(town_hall[[1]]$lon),
+    lat = as.numeric(town_hall[[1]]$lat)
+  )
+map
+```
+
+
+So there we go, using httr and Nominatim to run some basic geocoding, and just a tiny example of leaflet. I hope to use this in the future to work with open government data, a lot of which is geospatial.
