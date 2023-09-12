@@ -1,0 +1,111 @@
+---
+title: "Plotting Geospatial Data: Boston Housing Violations"
+date: 2023-09-12
+categories:
+  - r
+  - ggplot2
+  - geospatial
+execute:
+  message: false
+---
+
+In this post, I will be working with the sf package to read in geospatial data to plot the 2020 census block groups of Boston, and use ggplot2 and leaflet to overlay a plot of property and housing violations. This is a simple post but I will come back to the principles and process described here in a future project.
+
+```{r}
+#| message: false
+library(leaflet)
+library(sf)
+library(tidyverse)
+```
+
+## Geospatial Data with sf 
+
+I am using data from Boston's "Analyze Boston" project, which provides open access to huge amounts of city data. The first one that I'm using is [2020 census block groups in Boston](https://data.boston.gov/dataset/2020-census-block-groups-in-boston), which I downloaded in GeoJSON format [here](boston_block_groups.geojson). We can read this in with `sf::st_read()`:
+
+```{r}
+block_groups <- st_read("boston_block_groups.geojson", quiet = TRUE)
+```
+
+We can take a look at the data using the sf-specific `print()` method.
+
+```{r}
+print(block_groups, n = 3)
+```
+
+The output tells me that there are 581 "features", i.e. records and 14 "fields," or non-spatial attributes. The dimensions given are XY so we know that it maps to a simple two-dimensional coordinate plane. We are also given the bounding box and the coordinate reference system, WGS 84. Because we're working in a small geographic area where the curvature of the earth can largely be disregarded, that's not something we really need to worry about here.
+
+We can use the `plot()` method for the sf data frame to easily render a very nice plot of the data. This one shows it colored simply by the block group ID (`geoid20`).
+
+```{r}
+plot(block_groups[1])
+```
+We can also use ggplot2 to plot this using `geom_sf()` (I like `theme_bw()` for maps):
+
+```{r}
+ggplot(block_groups) +
+  geom_sf() + 
+  theme_bw()
+```
+
+That gives us nice axis labels by default. Note that this does not color the polygons, and trying to add a `fill` aesthetic doesn't really work:
+
+```{r}
+ggplot(block_groups, aes(fill = geoid20)) +
+  geom_sf()
+```
+So that's off the table as far as quick and easy plots go. It doesn't really make sense to color by ID other than for appearances, and ggplot2 should handle fills more easily when there isn't a distinct value for every single feature.
+
+Aside from ggplot2, I could also use leaflet to plot these census block groups.
+
+```{r}
+leaflet(block_groups) |> 
+  addTiles() |> 
+  addPolygons(weight = 1)
+```
+
+
+## Property Violations
+
+The second dataset I'm using is [building and property violations](https://data.boston.gov/dataset/building-and-property-violations1/resource/800a2663-1d6a-46e7-9356-bedb70f5332c), which I downloaded [here](violations.csv). Here's a quick look:
+
+```{r}
+#| message: false
+violations <- read_csv("violations.csv")
+glimpse(violations)
+```
+It is very handy that this data set already includes latitude and longitude. If it didn't, we would have to [geocode each address using something like the Nominatim API](../2023-09-11-nominatim-geocoding/index.html).
+
+Because ggplot2 allows each layer to have its own `data`, we can easily overlay the points from the `violations` data frame onto the polygons given by `block_groups` without having to worry about joining the data frames. I add on `coord_sf()` so that I can specify the coordinate reference system. Again, we're working with such a small geographic area that we don't need to worry too much about distortions because of the curvature of the earth, but it's better to be thorough.
+
+```{r}
+ggplot() +
+  geom_sf(data = block_groups) +
+  geom_point(
+    data = violations,
+    aes(x = longitude, y = latitude),
+    size = 0.05,
+    alpha = 0.1
+  ) +
+  coord_sf(crs = st_crs(block_groups)) +
+  theme_bw()
+```
+What jumps out in my mind when I look at that chart is the presence of large census block groups that have zero violations. My guess is that these are parks but I would want to confirm this.
+
+We could again use leaflet to plot this, which would also give us the benefit of seeing exactly what those large, no-violation census block groups are.
+
+```{r}
+leaflet(block_groups) |> 
+  addTiles() |> 
+  addPolygons(weight = 1) |> 
+  addCircleMarkers(
+    lng = violations$longitude, 
+    lat = violations$latitude,
+    stroke = FALSE,
+    color = "black",
+    radius = 1,
+    fillOpacity = 0.5
+  )
+```
+That looks pretty good, and those large blocks are in fact parks, as well as the airport and some outlying islands. 
+
+That's it! As long as you have nice, clean data, the plotting is really pretty straightforward. I'm lucky that the violations data set was so conveniently organized and tidy, which makes it a good demonstration.
