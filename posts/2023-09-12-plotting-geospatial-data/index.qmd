@@ -83,7 +83,7 @@ ggplot() +
   geom_sf(data = block_groups) +
   geom_point(
     data = violations,
-    aes(x = longitude, y = latitude),
+    mapping = aes(x = longitude, y = latitude),
     size = 0.05,
     alpha = 0.1
   ) +
