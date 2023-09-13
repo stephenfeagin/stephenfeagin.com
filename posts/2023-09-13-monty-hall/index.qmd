@@ -5,6 +5,7 @@ categories:
   - r
   - probability
   - simulation
+  - puzzle
 ---
 
 ## The Puzzle  
