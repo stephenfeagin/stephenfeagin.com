@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 Deaths in North Carolina: Exploratory Data Analysis"
-draft: false
+date: 2023-09-16
 image: "deaths_heatmap.png"
 categories:
   - r
