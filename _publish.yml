@@ -1,4 +1,4 @@
 - source: project
   netlify:
     - id: 9952c034-9805-4ccb-a99d-294438c3fdac
-      url: 'https://stephenfeagin.com'
+      url: https://stephenfeagin.com
