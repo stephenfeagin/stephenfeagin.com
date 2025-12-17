@@ -6,7 +6,7 @@ categories:
   - "d&d"
 ---
 
-In Dungeons and Dragons, a character who loses all of their hit points is knocked unconscious. After that, they roll dice to see if they die permanently or if they stabilize. Each turn, they roll a 20-sided die (a d20). A 10 or higher is a success, and a 9 or lower is a failure. Three successes stabilizes you, and three failures kills you permanently. The probability of success in any individual roll is 55%, but what is the probability of success on the whole series of rolls? To answer this, I'll do a quick simulation.
+In Dungeons and Dragons, a character who loses all of their hit points is knocked unconscious. After that, they roll dice to see if they die permanently or if they stabilize. Each turn, they roll a 20-sided die (a d20). A 10 or higher is a success, and a 9 or lower is a failure. There are two special cases: rolling a 1 counts as two failed rolls, and rolling a 20 is an automatic success, stabilizing you with no further rolls needed. Three successes stabilizes you, and three failures kills you permanently. The probability of success in any individual roll is 55%, but what is the probability of success on the whole series of rolls? To answer this, I'll do a quick simulation.
 
 Because we're dealing with random numbers, I will `set.seed()` to ensure replicability.
 
@@ -22,13 +22,17 @@ successes <- 0
 while (failures < 3 && successes < 3) {
   roll <- sample(1:20, 1)
   print(paste("Roll:", roll))
-  if (roll < 10) {
+  if (roll == 1) {
+    failures <- failures + 2
+  } else if (roll < 10) {
     failures <- failures + 1
+  } else if (roll == 20) {
+    successes <- 3
   } else {
     successes <- successes + 1
   }
-  print(paste("Successes:", successes))
-  print(paste("Failures:", failures))
+  print(paste("  Successes:", successes))
+  print(paste("  Failures:", failures))
 }
 ```
 
@@ -44,8 +48,12 @@ outcomes <- replicate(n, {
   successes <- 0
   while (failures < 3 && successes < 3) {
     roll <- sample(1:20, 1)
-    if (roll < 10) {
+    if (roll == 1) {
+      failures <- failures + 2
+    } else if (roll < 10) {
       failures <- failures + 1
+    } else if (roll == 20) {
+      successes <- 3
     } else {
       successes <- successes + 1
     }
@@ -56,4 +64,4 @@ outcomes <- replicate(n, {
 mean(outcomes)
 ```
 
-After one million repetitions, it looks like the probability of success is about 59%. Better than 50-50, but still...not great when you're talking life and death.
+After one million repetitions, it looks like the probability of success is about 59.5%. Better than 50-50, but still...not great when you're talking life and death.
