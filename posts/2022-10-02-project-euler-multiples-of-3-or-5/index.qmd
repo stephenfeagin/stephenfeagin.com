@@ -38,7 +38,7 @@ sum(unique_vals)
 
 ### Python
 
-```{python}
+```{python eval=FALSE}
 # Get threes and fives
 threes = range(3, 1000, 3)
 fives = range(5, 1000, 5)
@@ -49,7 +49,7 @@ print(sum(unique_vals))
 
 ### Go
 
-``` go
+```go
 // Variable to hold the running sum
 total := 0
 // Iterate over values below 1000

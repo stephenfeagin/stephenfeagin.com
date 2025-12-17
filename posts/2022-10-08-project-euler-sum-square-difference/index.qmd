@@ -43,7 +43,7 @@ sum(vec)**2 - sum(vec**2)
 
 It's not quite as simple in Python, but still very straightforward. List comprehensions and generator expressions can do the same kind of things that vectorization do in R, and likewise very quickly.
 
-```{python}
+```{python eval=FALSE}
 seq = range(1, 101)  # We need to 1:100, not 0:99 which is what range(100) would give
 sum_of_squares = sum(i**2 for i in seq)
 square_of_sum = sum(seq)**2

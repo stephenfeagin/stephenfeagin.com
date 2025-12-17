@@ -31,7 +31,7 @@ sum(digits_num)
 ## Python
 
 We again have to suppress scientific notation, but in python we use the `.nf` notation for format strings.
-```{python}
+```{python eval=FALSE}
 import math
 num_char = format(math.pow(2, 1000), ".0f")
 digits_num = [int(x) for x in num_char]
