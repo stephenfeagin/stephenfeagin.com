@@ -2,6 +2,8 @@
 title: "COVID-19 Deaths in North Carolina: Exploratory Data Analysis"
 date: 2023-09-16
 image: "deaths_heatmap.png"
+execute:
+  warning: false
 categories:
   - r
   - tidyverse
@@ -327,7 +329,7 @@ How strong is that relationship? I will convert the decimal `elderly_pop` into a
 lm(deaths_per_thousand ~ I(elderly_pop * 100), data = joined_deaths_and_elderly) |> 
   stargazer(type = "html")
 ```
-A fairly strong positive association: for an increase in elderly population of one percentage point, we can expect an addition 0.075 COVID deaths per thousand residents, with p < 0.01.
+A fairly strong positive association: for an increase in elderly population of one percentage point, we can expect an additional 0.075 COVID deaths per thousand residents, with p < 0.01.
 
 ### Physician Concentration
 
@@ -463,6 +465,7 @@ summary(smokers$smokers)
 ```
 
 ```{r}
+#| warning: false
 ggplot(smokers, aes(x = smokers)) +
   geom_histogram(binwidth = 1, color = "black") +
   geom_vline(aes(xintercept = mean(smokers), color = "mean")) +

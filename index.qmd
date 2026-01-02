@@ -16,15 +16,20 @@ about:
 
 I'm a data analyst and developer who is passionate about working for social good. I have previously worked as a Data Operations Engineer at [Arcadia](https://arcadia.io) and a Data Specialist at [Connecticut RISE Network](https://ctrise.org).
 
-I primarily use Python for general programming and web development, and R for statistics and data work. I enjoy coding in Go but I'm still somewhat novice in it, as I've only ever used it in a hobby setting. I always like trying out new languages (like Julia, which I find super interesting but have never really gotten into). I’m particularly interested in the role that data and software tools can play in non-profits and organizations that advance social good. 
+I primarily work in R for statistics and data science, and I enjoy Python for general programming and web development projects. I always like trying out new languages -- I've found Go and Julia to be fun and interesting, but I haven't had the opportunity to apply them in my work. I'm particularly interested in the role that data and software tools can play in non-profits and organizations that advance social good.
 
 ## Education
 
 **Yale University** | New Haven, CT  
-MA in Political Science | 2017
+MA in Political Science | 2017  
+*Quantitative Coursework*: Statistics; Quantitative Methods; Advanced Quantitative Methods; Research Design &amp; Causal Inference  
+*Field Certifications*: Comparative Politics, Political Economy, Qualitative and Historical Research Methods  
 
 **University of Chicago** | Chicago, IL  
-MA with Honors in International Relations | 2013
+MA with Honors in International Relations | 2013  
+*Thesis*: "The Manager on Horseback: Regime Security and Military Business in Egypt"  
 
 **University of North Carolina** | Chapel Hill, NC  
-BA with Honors in American History | 2011
+BA with Honors in American History | 2011  
+Minor in Arabic Language and Culture  
+*Thesis*: "Fortresses and Firearms: Technology Transfer in the Antebellum American Military"  
