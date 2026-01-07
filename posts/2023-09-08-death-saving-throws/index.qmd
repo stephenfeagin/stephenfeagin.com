@@ -65,3 +65,11 @@ mean(outcomes)
 ```
 
 After one million repetitions, it looks like the probability of success is about 59.5%. Better than 50-50, but still...not great when you're talking life and death.
+
+It should be noted that without the wrinkles of the natural 1 and natural 20, this is a simple binomial trial where we check for three successes out of five trials with a probability of 0.55.
+
+```{r}
+pbinom(2, size = 5, prob = 0.55, lower.tail = FALSE)
+```
+
+Which turns out to be almost identical to the actual game mechanic. So the rules for natural 1s and 20s may add some excitement to each roll, but it doesn't change the math.
