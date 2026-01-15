@@ -1,6 +1,7 @@
 ---
 title: "COVID-19 Deaths in North Carolina: Exploratory Data Analysis"
 date: 2023-09-16
+date-modified: last-modified
 image: "deaths_heatmap.png"
 execute:
   warning: false
@@ -10,6 +11,12 @@ categories:
   - data cleaning
   - public health
 ---
+
+## Update Jan 15, 2026
+
+I made a [Tableau story](https://public.tableau.com/shared/M247NGXYW?:display_count=n&:origin=viz_share_link) from this exploratory data analysis. Check it out!
+
+## Introduction
 
 In this project, I am going to be conducting an exploratory data analysis working with COVID-19 data from Johns Hopkins University. The data can be found on [GitHub](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv) with some discussion and context on the JHU [Coronavirus Resource Center website](https://coronavirus.jhu.edu/). I will be plotting that data geographically and bringing in other data sources to explore the relationship between COVID death rates and other demographic, socioeconomic, and health factors. This type of analysis could go on indefinitely until I run out of variables, so I will limit myself to just a few. Note that the purpose of this post is to explore the data and a few relationships and trends, and to demonstrate with R code how to summarize, visualize, and quantify these patterns. I am not attempting to build a predictive model or train an algorithm on this data. 
 
@@ -511,6 +518,23 @@ model_death_smokers <- lm(
 stargazer(model_death_smokers, type = "html")
 ```
 As expected, there is a strong positive relationship between smoking prevalence and COVID death rate. In this case, an increase in adult smoking prevalence of one percentage point is associated with an increase in COVID death rate of 0.27 deaths per 1,000 individuals.
+
+## Data Export
+
+To get the data into Tableau, I write out a few CSV files:
+
+```{r}
+#| exec: false
+
+write_csv(deaths_long, file = "covid19_deaths_long.csv")
+write_csv(income, file = "cleaned_income.csv")
+
+health_covariates <- elderly_pop |> 
+  inner_join(physicians) |> 
+  inner_join(smokers)
+write_csv(health_covariates, file = "health_covariates.csv")
+```
+
 
 ## Conclusion
 
