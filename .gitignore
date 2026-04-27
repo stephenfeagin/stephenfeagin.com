@@ -9,3 +9,4 @@ _site/
 
 **/input.txt
 .DS_Store
+.positai

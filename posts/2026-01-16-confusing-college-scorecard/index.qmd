@@ -1,0 +1,64 @@
+---
+title: "Confusing (Erroneous?) Data from the College Scorecard API"
+date: 2026-01-16
+categories:
+  - r
+  - httr2
+execute: 
+  message: false
+  warning: false
+---
+
+I was playing with the [College Scorecard API](https://collegescorecard.ed.gov/data/api-documentation/)
+and encounted a confusing, and possibly erroneous, trend in the data. I was interested in examining the ranges of SAT scores of admitted students. I requested data for each of the three components (critical reading, math, and writing), for the 25th and 75th percentiles and the midpoint. I assumed that "midpoint" meant median, but maybe I'm wrong? Because when I pulled the data, I noticed that in several instances the 25th percentile was actually higher than the midpoint. I'll illustrate with an example.
+
+Let's pull down the data for my alma mater, UNC Chapel Hill. This is the request that I used:
+
+```{r}
+#| eval: false
+
+library(httr2)
+key <- Sys.getenv("API_KEY")
+base_url <- paste0(
+  "https://api.data.gov/ed/collegescorecard/v1/schools?api_key=",
+  key
+)
+
+parameters <- paste0(
+  "&id=199120",
+  "&fields=school.name,",
+  "latest.admissions.sat_scores.25th_percentile.critical_reading,",
+  "latest.admissions.sat_scores.midpoint.critical_reading,",
+  "latest.admissions.sat_scores.75th_percentile.critical_reading,",
+  "latest.admissions.sat_scores.25th_percentile.math,",
+  "latest.admissions.sat_scores.midpoint.math,",
+  "latest.admissions.sat_scores.75th_percentile.math,",
+  "latest.admissions.sat_scores.25th_percentile.writing,",
+  "latest.admissions.sat_scores.midpoint.writing,",
+  "latest.admissions.sat_scores.75th_percentile.writing"
+)
+
+final_url <- paste0(
+  base_url, 
+  parameters
+)
+
+req <- request(final_url) |> 
+  req_headers("Accept" = "application/json")
+
+resp <- req_perform(req)
+body <- resp_body_json(resp)
+```
+
+I don't want to ping the API every time I render my website, so I used `eval: false` in the above code block, and instead read from a CSV file I wrote out. We see the results below:
+
+```{r}
+results <- readr::read_csv("unc_sat_data.csv")
+print(t(results))
+```
+
+As you can see, `25th_percentile.critical_reading` is 680, while `midpoint.critical_reading` is 625. Similarly, `25th_percentile.math` is 690, while `midpoint.math` is 635. The results for writing make sense though.
+
+So I'm not sure exactly what the issue is here. Maybe I'm misunderstanding the data, or maybe there's an error in the data. Either way, it makes it difficult to know how to proceed with this analysis.
+
+I found that it is possible to request `50th_percentile.critical_reading` and math and that returns sensible results. But when I request `50th_percentile.writing`, it doesn't give me an error but it doesn't respond that variable at all. Anyway, I'm finding this API frustrating.
